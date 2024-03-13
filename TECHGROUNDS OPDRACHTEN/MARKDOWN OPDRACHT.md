@@ -60,8 +60,7 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
 
 - **Image1**: Invoegen van lokale image 
   
-  ![macchupicchu.jpg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\ASSETS\macchupicchu.jpg)
-
+  ![macchupicchu.jpg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS OPDRACHTEN\macchupicchu.jpg)
 - **Image2**: Invoegen van web image 
   
    ![paradise.jpg](https://cdn.europosters.eu/image/1300/paradise-on-earth-i161095.jpg)
