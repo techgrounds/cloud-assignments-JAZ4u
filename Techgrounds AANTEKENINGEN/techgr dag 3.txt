@@ -3,7 +3,70 @@ Shikha zegt :
 softskill dag 
 learning to learn , peer to per learning , presentatie
 
-Casper gaat verhuizen naar Arnhem
+Casper : gaat verhuizen naar Arnhem, kan daardoor AFK lijken of reageren
 Alle vragen moeten in algemene slack gestuurd worden . 
+
+
+LINUX
+
+-Find out your current working directory.
+jaz@Nest-Ja-Nieste:~$ pwd
+/home/jaz
+
+-Make a listing of all files and directories in your home directory.
+jaz@Nest-Ja-Nieste:/home$ ls
+jaz
+
+-Within your home directory, create a new directory named ‘techgrounds’.
+jaz@Nest-Ja-Nieste:/home$ sudo mkdir techgrounds
+jaz@Nest-Ja-Nieste:/home$ ls
+jaz  techgrounds
+
+regarding a permission issue with Linux.
+-When there are permissions iussues : check the permissions and modify . This is possible
+source: https://askubuntu.com/questions/1415832/how-do-i-give-permission-to-myself-to-edit-files
+
+Solution I delted the files 
+$ sudo rm -v file2.txt 
+https://learnubuntu.com/delete-files/?utm_content=cmp-true
+
+After deletion i remade new files with NANO
+
+-to edit text : add a texteditor , there is a buildin text editor.
+source: https://www.youtube.com/watch?v=PDWHxh9HUF8
+$ NANO
+
+opdracht:
+Move around your directory tree using both absolute and relative paths.
+
+source: https://linuxhandbook.com/absolute-vs-relative-path/
+
+Solution:
+you may use the absolute path that starts with the root directory (/):
+
+ls -l /home/abhishek/scripts/my_script.sh
+Or, you can use the relative path (which starts from the current directory, not /):
+
+ls -l scripts/my_script.sh
+Both commands will yield the same result (except for the path of the file).
+
+
+
+
+
+
+
+
+
+Softskills :
+PEER LEARNING IS VERY IMPORTANT: you will learn things you codunt have learned.
+AANDACHT GEVEN AAN DIT !!!!!!!!!!!!!!!
+
+YOU ARE INVESTING YOUR TIME TO LEARN : ALSO PRESENT YOUR TIME TO PRESENT!!!
+Make the markdown files , so that others can see your work and results and the things you have learned.
+
+FIll the markdown files immediately along your work and learning.
+
+TO set a good goal you have to use SMART. 
 
 
