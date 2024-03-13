@@ -1,4 +1,5 @@
 -<u><mark>Markdown</mark></u>
+
 Markdown is een eenvoudige opmaaktaal die is ontworpen om gemakkelijk te worden geschreven en gelezen als platte tekst, maar die kan worden geconverteerd naar HTML (en andere formaten) voor presentatie op het web. Het is populair geworden voor het schrijven van documentatie, README-bestanden in softwareprojecten, blogposts en andere vormen van online content vanwege zijn eenvoud en leesbaarheid.
 
 Markdown biedt een set van conventies om tekst te structureren en op te maken met behulp van symbolen en leestekens, in plaats van complexe HTML-tags te gebruiken. Enkele van de meest voorkomende elementen die worden ondersteund door Markdown zijn:
@@ -13,11 +14,11 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
 
 - **Tekstopmaak**: *Italic*, **bold**, en ~~strikethrough~~ teksten zijn eenvoudig te maken.
   
-  i*tal*ic = tal is italic (met 1 asterisk)
+  i*tal*ic = tal is in italic (met 1 asterisk)
   
   b**ol**d =ol is in bold (met 2 asterisks)
   
-  strike~~through~~ = throough is in strikethrough (met 2 ~~)
+  strike~~through~~ = through is in strikethrough (met 2 ~~)
 
 - **Lijsten**: Ongesorteerde (met `*`, `-` of `+`) en gesorteerde lijsten (met nummering).
 
@@ -57,12 +58,12 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
   | ----------- | ----------- |
   ```
 
-- **Image**: Invoegen van image 
+- **Image1**: Invoegen van lokale image 
   
   ![macchupicchu.jpg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\ASSETS\macchupicchu.jpg)
+
+- **Image2**: Invoegen van web image 
   
-  ```
-  "![macchupicchu.jpg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\ASSETS\macchupicchu.jpg)"
-  ```
+   ![paradise.jpg](https://cdn.europosters.eu/image/1300/paradise-on-earth-i161095.jpg)
 
 Markdown is platformonafhankelijk en wordt ondersteund door veel verschillende tekstbewerkingsprogramma's, versiebeheersystemen (zoals GitHub), en contentmanagementsystemen. Het is bedoeld om snel en gemakkelijk leesbare documenten te maken die eenvoudig kunnen worden omgezet naar HTML of andere formaten voor online publicatie.
