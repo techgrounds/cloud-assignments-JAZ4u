@@ -1,0 +1,86 @@
+vrije werkdag 6 (zaterdag)
+
+-Read your text file with the command used in the second step, once again filtering for the word ‘techgrounds’. This time, redirect the output to a new file called ‘techgrounds.txt’.
+
+jaz@Nest-Ja-Nieste:~/techgrounds2$ sed '4!d' '2line.txt' >> techgrounds.txt
+jaz@Nest-Ja-Nieste:~/techgrounds2$ cat techgrounds.txt
+
+Techgrounds is knowledge
+jaz@Nest-Ja-Nieste:~/techgrounds2$
+
+----------------
+USERS & GROUPS
+
+-Create a new user in your VM.
+jaz@Nest-Ja-Nieste:~/techgrounds2$ sudo adduser noob
+Adding user `noob' ...
+Adding new group `noob' (1002) ...
+Adding new user `noob' (1002) with group `noob' ...
+Creating home directory `/home/noob' ...
+Copying files from `/etc/skel' ...
+New password:
+Retype new password:
+Sorry, passwords do not match.
+passwd: Authentication token manipulation error
+passwd: password unchanged
+Try again? [y/N] y
+New password:
+Retype new password:
+passwd: password updated successfully
+Changing the user information for noob
+Enter the new value, or press ENTER for the default
+        Full Name []: just a noob account
+        Room Number []:
+        Work Phone []:
+        Home Phone []:
+        Other []:
+Is the information correct? [Y/n] y
+The new user should be part of an admin group.
+
+The new user should have a password.
+noob
+-The new user should be able to use ‘sudo’
+jaz@Nest-Ja-Nieste:~/techgrounds2$ sudo usermod -aG sudo noob
+jaz@Nest-Ja-Nieste:~/techgrounds2$ groups noob
+noob : noob sudo
+jaz@Nest-Ja-Nieste:~/techgrounds2$
+
+Locate the files that store users, passwords, and groups. Find your newly created user’s data in there.
+
+
+souce :  https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
+
+--------------------------------------------------------------------------
+***FILE PERMISSIONS***
+
+><Make a long listing to view the file’s permissions. Who is the file’s owner and group? What kind of permissions does the file have?
+
+jaz@Nest-Ja-Nieste:~/techgrounds2$ l\
+> l
+total 16
+drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
+drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
+-rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
+-rw-rw-r-- 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt
+jaz@Nest-Ja-Nieste:~/techgrounds2$
+
+><
+jaz@Nest-Ja-Nieste:~/techgrounds2$ chmod 764 techgrounds.txt
+jaz@Nest-Ja-Nieste:~/techgrounds2$ ll
+total 16
+drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
+drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
+-rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
+-rwxrw-r-- 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt*
+
+jaz@Nest-Ja-Nieste:~/techgrounds2$ chmod 700 techgrounds.txt
+jaz@Nest-Ja-Nieste:~/techgrounds2$ ll
+total 16
+drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
+drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
+-rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
+-rwx------ 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt*
+jaz@Nest-Ja-Nieste:~/techgrounds2$ cat techgrounds.txt
+
+Techgrounds is knowledge
+jaz@Nest-Ja-Nieste:~/techgrounds2$

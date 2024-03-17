@@ -1,0 +1,42 @@
+
+-wat houd het cloudengineer traject in bij Techgrounds
+
+-waar start ik
+
+-wat moet ik doen
+
+-kan ik 4 dagen werken 
+
+-wat is het salaris
+
+-wat zijn mijn voorwaarden(minimaal 1jaar in dienst?)  
+
+
+Met Bart van Zijl(heeft voorkeur voor cloud engineer)
+
+
+opleidingen: 
+-TECH SUPPORT: eenvoudige (applicatie) vragen , doorgroeie naar 2e en 3e lijns, werkplakbeheer, implementatie van nieuwe soft en hardware
+6 weken . online , certificaatMS 900 moet je halen 
+
+CLOUD ENGINEER: 4 maanden , cloud omgeving  analyseren , automatiseren en ontwikkelen van oplossingen
+Iedereen kan files delen emt cloud service
+
+leertraject: support engineer > dan cloudengineer
+
+certficaat: aws900 of aws cloudpartitioner 
+Accenture is de opdrachtgever
+
+met max 15 man peers leren
+aanmeldingen@techgrounds.com
+
+waarom zo veel samenstudie en zelf opdrachten: om zelf oplossend vermogen te leren en zelfstandigheid. (dit voor op de werkvloer)
+
+cloudengineer 23 oktober start na kwalificatie opdracht/ half maart 2024
+
+
+kan nog bij :
+esscher academy
+ironhack
+mak it work
+itv

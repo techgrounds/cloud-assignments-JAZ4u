@@ -1,0 +1,76 @@
+onehotencoded <- df_ref %>%
+  mutate(
+    FQuarter_1 = if_else(FQuarter == "Q1", 1, 0),
+    FQuarter_2 = if_else(FQuarter == "Q2", 1, 0),
+    FQuarter_3 = if_else(FQuarter == "Q3", 1, 0),
+    FQuarter_4 = if_else(FQuarter == "Q4", 1, 0),
+    FYear_24 = if_else(FYear == "2024", 1, 0),
+    FYear_23 = if_else(FYear == "2023", 1, 0),
+    FYear_22 = if_else(FYear == "2022", 1, 0),
+    FYear_21 = if_else(FYear == "2021", 1, 0),
+    Working_model_FT = if_else(Working_model == "Full-time", 1, 0),
+    Working_model_PT = if_else(Working_model == "Part-time", 1, 0),
+    Gender_Male = if_else(Gender == "men", 1, 0),
+    Gender_Female = if_else(Gender == "women", 1, 0),
+    Gender_Diverse = if_else(Gender == "else", 1, 0)
+  ) %>%
+  select(-FQuarter, -FYear, -Working_model, -Gender)
+
+
+df_ref <- onehotencoded
+
+
+# Negative Threshold ------------------------------------------------------
+
+negative_threshold_function <- function(df_ref, threshold) {
+  # convert inputs to character type
+  df_ref <- df_ref %>% mutate_all(as.character)
+  
+  # Create dimList object dynamically for all dimensions in df_ref (except the first column org_level_hierachy)
+  dimList <- list()
+  
+  for (col_name in colnames(df_ref)) {
+    dim_hierarchy <- sdcHierarchies::hier_create(root = "Total", nodes = unique(df_ref[[col_name]]))
+    dim_data <- matrix(nrow = nrow(dim_hierarchy), ncol = 2)
+    dim_data[,1] <- sapply(dim_hierarchy$level, function(x) paste(replicate(x, "@"), collapse = ""))
+    dim_data[,2] <- dim_hierarchy$leaf
+    colnames(dim_data) <- c("levels", "codes")
+    dim_data <- as.data.frame(dim_data)
+    dimList[[col_name]] <- dim_data
+  }
+  
+  # Protect table, with secondary suppression
+  df_aggregated_protected <- ProtectTable(df_ref,
+                                          dimList = dimList,
+                                          infoAsFrame = T,
+                                          #method = "HITAS",
+                                          method = "SIMPLEHEURISTIC_OLD",
+                                          maxN = threshold,
+                                          maxVars = 2,
+                                          #maxVars = ncol(df_ref) - 1,
+                                          fastSolution = TRUE,
+                                          save = FALSE, # save tables in between
+                                          timeLimit = 0.1, #so to say a timeout, set very low, trying to fasten computation
+                                          verbose = TRUE) #"Total" means filter is not selected.
+  
+  #small adjustments: sdcStatusLegend, Suppression column
+  df_aggregated_protectedFinal <- df_aggregated_protected[["data"]] %>% 
+    mutate(sdcStatusLegend = case_when(
+      sdcStatus == "u" ~ "cell is primary suppressed and needs to be protected",
+      sdcStatus == "x" ~ "cell has been secondary suppressed",
+      sdcStatus == "s" ~ "cell can be published",
+      sdcStatus == "z" ~ "cell must not be suppressed"
+    )) %>% 
+    mutate(suppressed = case_when(
+      is.na(suppressed) ~ "yes",
+      !is.na(suppressed) ~ NA_character_
+    )) %>% 
+    rename(group_size = freq, suppress = suppressed) %>% 
+    relocate(sdcStatus, .after = suppress)
+  
+  return(df_aggregated_protectedFinal)
+}
+
+runtime <- system.time({
+  final_table <- negative_threshold_function(df_ref, threshold = 5)
+})
