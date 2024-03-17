@@ -28,7 +28,7 @@ Opdracht 1:
 
 ### Ervaren problemen
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Ik kende Github totaal niet , de GITHUB windows app begreep ik na wat trial en error. 
 
 ### Resultaat
 
@@ -36,9 +36,9 @@ Opdracht 1:
 
 - Maak een GitHub account als je er nog geen hebt.
   
-  - [LINK naar persoonlijke JAZ4u GITHUB] [JAZ4u · GitHub](https://github.com/JAZ4u)
-    
-    - [LINK naar TechGrounds CloudAssignments JAZ4u GITHUB] [JAZ4u TechGrounds CLoudassignments · GitHub](https://github.com/techgrounds/cloud-assignments-JAZ4u)
+  - <mark>[LINK naar persoonlijke JAZ4u GITHUB] [JAZ4u · GitHub](https://github.com/JAZ4u)</mark>
+  
+  - <mark>[LINK naar TechGrounds CloudAssignments] JAZ4u GITHUB] [JAZ4u TechGrounds Cloudassignments/cloud-assignments-JAZ4u) · GitHub](https://github.com/techgrounds/cloud-assignments-JAZ4u)</mark>
 
 - Maak een repository op je GitHub account. Deze repository gebruik je alleen om te testen. Je mag hem na de opdracht weer verwijderen.
 
