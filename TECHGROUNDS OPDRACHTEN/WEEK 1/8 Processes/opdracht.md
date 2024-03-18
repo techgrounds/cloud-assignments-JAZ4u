@@ -21,9 +21,15 @@
 
 ### Resultaat
 
-[- Start the telnet daemon.
+- Start the telnet daemon.
+  ![telnet daemon.jpg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS OPDRACHTEN\WEEK 1\8 processes\telnet daemon.jpg)
 
 - Find out the PID of the telnet daemon.
-  ![telnet daemon.jpg]C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS OPDRACHTEN\WEEK 1\8 Processes\telnet daemon.jpg)
+  see above image
+
 - Find out how much memory telnet daemon is using.
-- Stop or kill the telnet daemon process]
+  
+  see above image
+
+- Stop or kill the telnet daemon process
+    ![kill telnet daemon PID](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS OPDRACHTEN\WEEK 1\8 processes\kill telnet daemon PID.jpg)
