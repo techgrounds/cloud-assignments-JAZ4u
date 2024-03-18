@@ -6,19 +6,7 @@
 
 
 
-Opdracht 1:
 
-- Maak een GitHub account als je er nog geen hebt.
-- Maak een repository op je GitHub account. Deze repository gebruik je alleen om te testen. Je mag hem na de opdracht weer verwijderen.
-- Geef permissies aan je teamgenoten om de repository te gebruiken.
-- Push code naar je repository. Het maakt niet uit wat voor code het is. Let op: je mag de 'upload file'-optie op de Github website niet gebruiken. 
-- Pull / Clone een repository van je peer.
-- Tip: In Slack vind je een link naar de officiële Git & Github Fundamentals Classroom
-
- Opdracht 2:
-
-- Maak een nieuwe repository aan voor je portfolio via de GitHub Classroom-link in Slack.
-- Beschrijf voor jezelf hoe je je repository gaat inrichten op een manier zodat het voor iedereen (jezelf en buitenstaanders) duidelijk is wat de structuur is.
 
 ## Key-terms
 
