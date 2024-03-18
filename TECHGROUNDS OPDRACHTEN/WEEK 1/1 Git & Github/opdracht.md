@@ -2,6 +2,10 @@
 
 [Geef een korte beschrijving van het onderwerp]
 
+
+
+
+
 Opdracht 1:
 
 - Maak een GitHub account als je er nog geen hebt.
@@ -31,6 +35,26 @@ Opdracht 1:
 Ik kende Github totaal niet , de GITHUB windows app begreep ik na wat trial en error. 
 
 ### Resultaat
+
+ Bestudeer:
+
+- Gedistribueerde en gecentraliseerde versiebeheer
+
+- Begrijp de volgende termen:
+  
+  - Repository
+  
+  - Main / Master
+  
+  - Branch
+  
+  - Commit
+  
+  - Push / Pull
+  
+  - Merge
+  
+  - Fork
 
 Opdracht 1:
 
