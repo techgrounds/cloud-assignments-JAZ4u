@@ -48,39 +48,5 @@ jaz@Nest-Ja-Nieste:~/techgrounds2$
 Locate the files that store users, passwords, and groups. Find your newly created user’s data in there.
 
 
-souce :  https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
+*souce :  https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
 
---------------------------------------------------------------------------
-***FILE PERMISSIONS***
-
-><Make a long listing to view the file’s permissions. Who is the file’s owner and group? What kind of permissions does the file have?
-
-jaz@Nest-Ja-Nieste:~/techgrounds2$ l\
-> l
-total 16
-drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
-drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
--rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
--rw-rw-r-- 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt
-jaz@Nest-Ja-Nieste:~/techgrounds2$
-
-><
-jaz@Nest-Ja-Nieste:~/techgrounds2$ chmod 764 techgrounds.txt
-jaz@Nest-Ja-Nieste:~/techgrounds2$ ll
-total 16
-drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
-drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
--rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
--rwxrw-r-- 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt*
-
-jaz@Nest-Ja-Nieste:~/techgrounds2$ chmod 700 techgrounds.txt
-jaz@Nest-Ja-Nieste:~/techgrounds2$ ll
-total 16
-drwxrwxr-x 2 jaz jaz 4096 Mar 16 07:23 ./
-drwxr-xr-x 7 jaz jaz 4096 Mar 15 09:48 ../
--rw-rw-r-- 1 jaz jaz   46 Mar 14 16:09 2line.txt
--rwx------ 1 jaz jaz   26 Mar 16 07:23 techgrounds.txt*
-jaz@Nest-Ja-Nieste:~/techgrounds2$ cat techgrounds.txt
-
-Techgrounds is knowledge
-jaz@Nest-Ja-Nieste:~/techgrounds2$
