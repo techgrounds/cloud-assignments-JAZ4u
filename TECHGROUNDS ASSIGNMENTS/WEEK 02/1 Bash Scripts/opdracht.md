@@ -23,8 +23,6 @@ Here are some key features and characteristics of Bash scripts:
 - Scripts
   
   Scripts, in the context of computing, are files containing sequences of commands or instructions written in a specific programming or scripting language. These files are used to automate tasks, execute commands, or perform specific operations on a computer system.
-  
-  
 
 - PATH variable
   
@@ -40,18 +38,18 @@ Here are some key features and characteristics of Bash scripts:
 
 ## Opdracht
 
-<u>Exercise 1:</u>
+<u>**Exercise 1:**</u>
 
 - Create a directory called ‘scripts’. Place all the scripts you make in this directory.
 - Add the scripts directory to the PATH variable.
 - Create a script that appends a line of text to a text file whenever it is executed.
 - Create a script that installs the httpd package, activates httpd, and enables httpd. Finally, your script should print the status of httpd in the terminal.
 
-<u>Exercise 2:</u>
+<u>**Exercise 2:**</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file.
 
-<u>Exercise 3:</u>
+<u>**Exercise 3:**</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it should append a line of text saying "the number is 5 or smaller" to that text file instead.
 
@@ -78,7 +76,7 @@ sudo apt -y install gnome
 
 ### Resultaat
 
-<u>Exercise 1:</u>
+<u>**Exercise 1:**</u>
 
 - Create a directory called ‘scripts’. Place all the scripts you make in this directory.
   
@@ -144,7 +142,7 @@ $ /scripts/appendtext.sh
 
 ![httpd_install.sh script2.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\httpd_install.sh%20script2.png)
 
-<u>Exercise 2:</u>
+<u>**Exercise 2:**</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file.
 
@@ -175,16 +173,30 @@ Then you can execute the script:
 
 ![generate_random_number.sh.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\generate_random_number.sh.png)
 
-<u>Exercise 3:</u>
+<u>**Exercise 3:**</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it should append a line of text saying "the number is 5 or smaller" to that text file instead.
-  
-  ```
-  
-  ```
 
 ```
+ $ touch generate_random_number5.sh
+ $ chmod 777 generate_random_number.sh
+```
 
+```
+#!/bin/bash
+
+# Generate a random number between 1 and 10:
+# random number between 1 and 10
+   random_number=$((RANDOM % 10 + 1))
+
+# Check if the random number is greater than 5
+  if [ $random_number -gt 5 ]; then
+# Append the random number to a text file
+   echo $random_number >> /scripts/random_numbers510.txt
+  else
+# Append a message to the text file
+   echo "The number is 5 or smaller" >> random_numbers04.txt
+  fi
 ```
 
 ![generate_random_number seperate at 5.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\generate_random_number%20seperate%20at%205.png)
