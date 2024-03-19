@@ -13,7 +13,7 @@
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+[IBM Documentation # telnetd Daemon](https://www.ibm.com/docs/en/aix/7.3?topic=t-telnetd-daemon)
 
 ### Ervaren problemen
 
