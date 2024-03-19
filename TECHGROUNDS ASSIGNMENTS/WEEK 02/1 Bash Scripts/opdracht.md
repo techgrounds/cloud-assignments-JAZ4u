@@ -78,10 +78,78 @@ sudo apt -y install gnome
 
 - Create a script that installs the httpd package, activates httpd, and enables httpd. Finally, your script should print the status of httpd in the terminal.
 
+-
+
+```
+ $ touch install_httpd.sh
+ $ chmod 777 install_httpd.sh
+```
+
+```
+**text inside install_httpd.sh **
+
+#!/bin/bash
+
+# Install the httpd package
+
+sudo apt-get update
+sudo apt-get install -y apache2
+
+# Start and enable httpd
+
+sudo systemctl start apache2
+sudo systemctl enable apache2
+
+# Print the status of httpd
+
+sudo systemctl status apache2
+```
+
+```
+**To execute my script:**
+
+$ /scripts/appendtext.sh
+ hello-techgrounds
+```
+
 <u>Exercise 2:</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file.
 
+```
+  $ touch generate_random_number.sh
+  $ chmod 777 generate_random_number.sh
+
+
+**text inside generate_random_number.sh**
+#!/bin/bash
+
+# Generate a random number between 1 and 10
+
+random_number=$((RANDOM % 10 + 1))
+
+# Append the random number to a text file
+
+echo "$random_number" >> random_numbers.txt
+
+echo "Random number $random_number appended to random_numbers.txt."
+
+```
+Then you can execute the script:
+
+```
+./generate_random_number.sh
+```
+
 <u>Exercise 3:</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it should append a line of text saying "the number is 5 or smaller" to that text file instead.
+```
+
+```
+
+```
+
+```
+
+```
