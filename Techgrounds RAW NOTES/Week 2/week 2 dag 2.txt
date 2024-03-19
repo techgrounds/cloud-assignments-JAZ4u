@@ -28,6 +28,9 @@ dan de andere week = opdracht
 
 /!\ let erop dat je allemaal een ander poort nummer hebt voor je container, hier moet je een andere poort gebruiken dan poort 80
 
+Doe de knowledge check : je moet MINIMAAL 70 % halen , en anders een keer herkansen 
+
+
 
 
 

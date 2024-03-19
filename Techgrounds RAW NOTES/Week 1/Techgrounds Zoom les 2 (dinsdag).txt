@@ -1,6 +1,8 @@
 les 2/ 12-3-2024
 gaan we verder werken alleen , tot 13uur
 
+ssh jaz@18.196.227.119 -i "C:\Nest-Ja-Nieste.pem" -p 52202
+
 OPDRACHT 2
 Beschrijf voor jezelf hoe je je repository gaat inrichten op een manier zodat het voor iedereen (jezelf en buitenstaanders) duidelijk is wat de structuur is.
 
