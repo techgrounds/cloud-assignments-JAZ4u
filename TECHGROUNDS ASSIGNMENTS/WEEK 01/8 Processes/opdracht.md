@@ -14,6 +14,7 @@
 ### Gebruikte bronnen
 
 [IBM Documentation # telnetd Daemon](https://www.ibm.com/docs/en/aix/7.3?topic=t-telnetd-daemon)
+https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu/
 
 ### Ervaren problemen
 
