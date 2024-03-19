@@ -69,11 +69,11 @@ sudo apt -y install gnome
   ```
   $ mkdir scripts
   $ cd scripts
-  $ touch script.sh
-  $ echo 'echo hello-world' >> script.sh
-  $ chmod -R 777 .
-  $ ./script.sh
-  hello-world
+  $ touch appendtxt.sh
+  $ chmod 777 appendtxt.sh
+  $ echo 'echo hello-techgrounds' >> appendtxt.sh
+  $ /scripts/appendtext.sh
+  hello-techgrounds
   ```
 
 - Create a script that installs the httpd package, activates httpd, and enables httpd. Finally, your script should print the status of httpd in the terminal.
