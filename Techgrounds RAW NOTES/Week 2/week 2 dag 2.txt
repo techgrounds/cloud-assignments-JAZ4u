@@ -29,10 +29,25 @@ dan de andere week = opdracht
 /!\ let erop dat je allemaal een ander poort nummer hebt voor je container, hier moet je een andere poort gebruiken dan poort 80
 
 Doe de knowledge check : je moet MINIMAAL 70 % halen , en anders een keer herkansen 
+***********
+cronjobs
+https://phoenixnap.com/kb/set-up-cron-job-linux
+****************
 
+#!/bin/bash
 
+# Generate a random number between 1 and 10
+random_number=$((RANDOM % 10 + 1))
 
-
-
+# Check if the random number is greater than 5
+if [ $random_number -gt 5 ]; then
+    # Append the random number to a text file
+    echo "$random_number" >> random_numbers.txt
+    echo "Random number $random_number appended to random_numbers.txt."
+else
+    # Append a message to the text file
+    echo "The number is 5 or smaller" >> random_numbers.txt
+    echo "Message appended to random_numbers.txt."
+fi
 
 
