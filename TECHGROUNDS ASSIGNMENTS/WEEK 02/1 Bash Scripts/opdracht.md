@@ -133,18 +133,22 @@ random_number=$((RANDOM % 10 + 1))
 echo "$random_number" >> random_numbers.txt
 
 echo "Random number $random_number appended to random_numbers.txt."
-
 ```
+
 Then you can execute the script:
 
 ```
 ./generate_random_number.sh
+
 ```
 
 <u>Exercise 3:</u>
 
 - Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it should append a line of text saying "the number is 5 or smaller" to that text file instead.
-```
+  
+  ```
+  
+  ```
 
 ```
 
