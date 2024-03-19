@@ -20,6 +20,15 @@ Casper zegt, ik heb 2 problemen die mij blokkeren:
 Met andere woorden : Het nieuwe probleem is het HOOFD probleem. En ik moet dat nieuwe probleem eerst oplossen , om weer terug te keren naar het hoofdprobleem.
 NIET wat ik (minder efficient) nu deed :de nieuwe ( subproblemen ) negeren en me blijven focussen op het oude hoofdprobleem. 
 
+-Bart komt morgen vragen over werkgevers en sollicitaties.
+
+Shikha komt doet een contact moment:
+wat men doet = introductie (rules values en princiopals)
+dan de andere week = opdracht
+
+/!\ let erop dat je allemaal een ander poort nummer hebt voor je container, hier moet je een andere poort gebruiken dan poort 80
+
+
 
 
 
