@@ -70,21 +70,7 @@ CHAT_GPT
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
 
-
-
-
-
-
-
-
-
 - Register the script in your crontab so that it runs every minute.
-
-
-
-
-
-
 
 - Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
 
@@ -116,9 +102,8 @@ echo "Disk space checked at $current_date" >> "$log_file"
 echo "Disk space logged at $log_file"
 ```
 
-![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK_02_screenshots\2%20Cron%20Jobs\cron_job_3_script.png)
+![cron_job_3_script.png](cron_job_3_script.png)
 
-![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\2%20Cron%20Jobs\cron_job_3_script.png)
 
 Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
 
