@@ -59,7 +59,7 @@ regel·2
 `#·text` geeft een titel opmaak
 
 `##·text` geeft een kop level 1 opmaak
-TEST
+
 ```
 Text in `backquotes` worden geformateerd als code
 ```
