@@ -70,11 +70,9 @@ CHAT_GPT
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
   
-  ![script_current_date.png](script_current_date.png)
+![script_current_date.png](script_current_date.png)
 
 - Register the script in your crontab so that it runs every minute.
-  
-  
 
 ![crontab_command.png](crontab_command.png)
 
