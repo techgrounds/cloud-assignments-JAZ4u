@@ -199,4 +199,4 @@ Then you can execute the script:
   fi
 ```
 
-![Result](generate_random_number seperate at 5.png)
+![Result](generate_random_number_seperate_at_5.png)
