@@ -1,0 +1,17 @@
+dag 3 week2
+Bart van Zijl 
+
+
+to commit in the root (volgens Sam):
+
+git add (drag what you want uploaded)
+
+enter
+
+git commit -m "my commitment"
+
+enter
+
+git push
+
+git commit -m "my commitment"
