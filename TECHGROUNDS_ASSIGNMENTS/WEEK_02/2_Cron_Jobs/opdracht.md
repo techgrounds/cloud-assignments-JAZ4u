@@ -5,10 +5,20 @@ In Ubuntu (and other Unix-like operating systems), a cronjob is a scheduled task
 A cronjob is defined by a cron expression, which consists of five fields `` * * * * *``  :
 
 First `*` = Minute (0-59)
+
+
 Second `*`= Hour (0-23)
+
+
 Third `*`= Day of the month (1-31)
+
+
 Fourth `*`= Month (1-12 or names)
+
+
 Fifth `*`= Day of the week (0-7 or names, where 0 and 7 represent Sunday)
+
+
 Each field can contain a single value, a comma-separated list of values, a range of values (specified using a hyphen(`-`)), or an asterisk (`*`) to indicate "every" value. Additionally, you can use special characters such as slashes (`/`) to specify intervals.
 
 | `*`        | Time Value       | (Range)                                        |
@@ -69,7 +79,7 @@ CHAT_GPT
 **Exercise:**
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
-  
+
 ![script_current_date.png](script_current_date.png)
 
 - Register the script in your crontab so that it runs every minute.
