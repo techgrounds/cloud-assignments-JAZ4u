@@ -12,6 +12,8 @@
 
 https://phoenixnap.com/kb/set-up-cron-job-linux
 
+[How to Run Cron Jobs Every 5, 10, or 15 Minutes | Linuxize](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
+
 ### Ervaren problemen
 
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]

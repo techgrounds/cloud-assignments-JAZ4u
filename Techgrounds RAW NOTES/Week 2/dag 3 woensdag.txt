@@ -15,3 +15,34 @@ enter
 git push
 
 git commit -m "my commitment"
+
+------
+casper zegt we gaan in Azure werken ,
+we krijgen een accoutn en we moeten er verantwoordelijk mee doen.
+
+Aws heeft alleen waarschuwingen , je kan er veel kosten mee maken 
+Azure heeft beter kostenwaarschuwing
+
+Als we in de cloud opdrachten zijn krijgen we een azure account.
+
+prepaid credit card : REVOLUTUS ( werkt ) 
+-------
+
+Presentatie gaat over CRONJOBS 
+2 delen ( 10 minuten)
+1/theorie
+2/demo opdracht
+
+proberen een template te maken , voor opvolgende Sprintpresentaties
+******
+
+Casper SOFTSKILL FUNDAMENTAL (slides)
+
+-elk bedrijf heeft eigen waardes: vraag aan de recruiter welke . Zie je jezelf niet in die waardes? Dan kan het moeilijk worden daar te werken.
+In sollicitaties willen ze vaak weten wat de waardes van een bedrijf zijn en dat je ze hebt opgezocht. (dat kan indruk geven dat je in het bedrijf wil passen en past)
+=-
+Casper zegt: ik ben neit verantwoordeliojk voor jou leren , maar ondersteunend: eigen verantwoording!
+
+verschil rules/ guiding principle : er is een reader 
+
+
