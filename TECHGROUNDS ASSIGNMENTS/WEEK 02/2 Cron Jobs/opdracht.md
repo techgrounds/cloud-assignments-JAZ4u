@@ -102,6 +102,10 @@ echo "Disk space checked at $current_date" >> "$log_file"
 echo "Disk space logged at $log_file"
 ```
 
+
+
+![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\2%20Cron%20Jobs\cron_job_3_script.png)
+
 Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
 
 Next, we'll set up a cron job to run this script weekly. To do this, follow these steps:
@@ -126,6 +130,8 @@ This line will run the script at midnight (00:00) every Sunday (day of the week 
 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
-  ![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3_script.png)~~~~
+![cron_job_3.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\2%20Cron%20Jobs\cron_job_3.png)
+
+![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3_script.png)
 
   ![cron_job_3.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3.png)
