@@ -106,13 +106,13 @@ Save this script with the name ``disk_space_logger.sh`` and make it executable u
 
 Next, we'll set up a cron job to run this script weekly. To do this, follow these steps:
 
-Open  crontab file for editing by running:
+-Open  crontab file for editing by running:
 
 ```
 crontab -e
 ```
 
-Add the following line to the crontab file to schedule the script to run weekly:
+-Add the following line to the crontab file to schedule the script to run weekly:
 
 ```
 0 0 * * 0 /path/to/disk_space_logger.sh
@@ -120,28 +120,12 @@ Add the following line to the crontab file to schedule the script to run weekly:
 
 This line will run the script at midnight (00:00) every Sunday (day of the week 0).
 
-[ <mark>/!\</mark> ]  Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script.
+-Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script.
 
-
-
-Save and close the crontab file.
-
-
+-Save and close the crontab file.
 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
-
-
-```
-  ![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3_script.png)
+  ![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3_script.png)~~~~
 
   ![cron_job_3.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3.png)
-```
-
-```
-
-```
-
-```
-
-```
