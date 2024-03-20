@@ -1,6 +1,32 @@
-# [Onderwerp]
+# [CRON JOBS]
 
-[Geef een korte beschrijving van het onderwerp]
+In Ubuntu (and other Unix-like operating systems), a cronjob is a scheduled task that runs at specified intervals. These tasks are managed by a utility called cron, which runs in the background and executes commands or scripts according to a predefined schedule.
+
+A cronjob is defined by a cron expression, which consists of five fields:
+
+Minute (0-59)
+Hour (0-23)
+Day of the month (1-31)
+Month (1-12 or names)
+Day of the week (0-7 or names, where 0 and 7 represent Sunday)
+Each field can contain a single value, a comma-separated list of values, a range of values (specified using a hyphen), or an asterisk (*) to indicate "every" value. Additionally, you can use special characters such as slashes (/) to specify intervals.
+
+Here's an example of a cron expression:
+
+javascript
+Copy code
+* * * * * /path/to/your/script.sh
+This expression indicates that the script located at /path/to/your/script.sh will be executed every minute, as each field is set to * (every possible value).
+
+Cronjobs are typically managed using the crontab command, which allows users to view, edit, and remove their scheduled tasks. Each user on the system can have their own crontab file, which contains their individual scheduled tasks. Additionally, system-wide cronjobs can be defined in /etc/crontab and in the /etc/cron.d/ directory.
+
+Cronjobs are commonly used for tasks such as:
+
+Regular backups
+System maintenance tasks (e.g., cleaning up temporary files)
+Running periodic scripts (e.g., fetching updates, generating reports)
+Monitoring system health
+Overall, cronjobs are a convenient way to automate repetitive tasks on Unix-like systems like Ubuntu.
 
 ## Key-terms
 
