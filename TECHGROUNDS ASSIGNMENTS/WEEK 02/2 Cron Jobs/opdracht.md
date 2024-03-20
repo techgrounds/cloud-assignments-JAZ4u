@@ -67,4 +67,8 @@ Exercise:
 
 - Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
   
+  ![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3_script.png)
+  
+  ![cron_job_3.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\2%20Cron%20Jobs\cron_job_3.png)
+  
   
