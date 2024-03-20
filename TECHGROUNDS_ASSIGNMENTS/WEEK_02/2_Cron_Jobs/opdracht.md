@@ -104,7 +104,6 @@ echo "Disk space logged at $log_file"
 
 ![cron_job_3_script.png](cron_job_3_script.png)
 
-
 Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
 
 Next, we'll set up a cron job to run this script weekly. To do this, follow these steps:
@@ -123,7 +122,7 @@ crontab -e
 
 This line will run the script at midnight (00:00) every Sunday (day of the week 0).
 
--Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script.
+-Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script. In this case `/scripts/disk_space_logger.sh` was used.
 
 -Save and close the crontab file.
 
