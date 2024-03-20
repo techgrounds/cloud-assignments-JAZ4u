@@ -15,8 +15,9 @@ Here's an example of a cron expression:
 
 javascript
 Copy code
+
 * * * * * /path/to/your/script.sh
-This expression indicates that the script located at /path/to/your/script.sh will be executed every minute, as each field is set to * (every possible value).
+          This expression indicates that the script located at /path/to/your/script.sh will be executed every minute, as each field is set to * (every possible value).
 
 Cronjobs are typically managed using the crontab command, which allows users to view, edit, and remove their scheduled tasks. Each user on the system can have their own crontab file, which contains their individual scheduled tasks. Additionally, system-wide cronjobs can be defined in /etc/crontab and in the /etc/cron.d/ directory.
 
@@ -34,6 +35,14 @@ Overall, cronjobs are a convenient way to automate repetitive tasks on Unix-like
 
 ## Opdracht
 
+Exercise:
+
+- Create a Bash script that writes the current date and time to a file in your home directory.
+
+- Register the script in your crontab so that it runs every minute.
+
+- Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
+
 ### Gebruikte bronnen
 
 https://phoenixnap.com/kb/set-up-cron-job-linux
@@ -46,4 +55,16 @@ https://phoenixnap.com/kb/set-up-cron-job-linux
 
 ### Resultaat
 
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Exercise:
+
+- Create a Bash script that writes the current date and time to a file in your home directory.
+  
+  
+
+- Register the script in your crontab so that it runs every minute.
+  
+  
+
+- Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
+  
+  
