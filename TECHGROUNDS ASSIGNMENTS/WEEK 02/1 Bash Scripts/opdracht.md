@@ -199,4 +199,4 @@ Then you can execute the script:
   fi
 ```
 
-![generate_random_number seperate at 5.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\generate_random_number%20seperate%20at%205.png)
+![Result](generate_random_number seperate at 5.png)
