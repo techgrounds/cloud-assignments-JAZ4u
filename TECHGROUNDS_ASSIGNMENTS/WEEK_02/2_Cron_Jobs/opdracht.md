@@ -76,6 +76,8 @@ CHAT_GPT
   
   
 
+![crontab_command.png](crontab_command.png)
+
 - Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
 
 Here's a script that retrieves the available disk space and writes it to a log file in ``/var/log``. We named this script `disk_space_logger.sh` :
@@ -107,8 +109,6 @@ echo "Disk space logged at $log_file"
 ```
 
 ![cron_job_3_script.png](cron_job_3_script.png)
-
-
 
 Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
 
