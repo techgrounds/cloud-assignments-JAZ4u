@@ -130,6 +130,8 @@ This line will run the script at midnight (00:00) every Sunday (day of the week 
 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
+![Result](generate_random_number_seperate_at_5.png)
+
 ![cron_job_3_script.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK_02_screenshots\2%20Cron%20Jobs\cron_job_3_script.png)
 
 ![cron_job_3.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\2%20Cron%20Jobs\cron_job_3.png)
