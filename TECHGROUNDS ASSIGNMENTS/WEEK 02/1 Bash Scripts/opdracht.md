@@ -138,9 +138,9 @@ $ /scripts/appendtext.sh
  hello-techgrounds
 ```
 
-![httpd_install.sh script1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\httpd_install.sh%20script1.png)
+![httpd_install.sh script1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\httpd_install.sh%20script1.png)
 
-![httpd_install.sh script2.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\httpd_install.sh%20script2.png)
+![httpd_install.sh script2.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\httpd_install.sh%20script2.png)
 
 <u>**Exercise 2:**</u>
 
@@ -171,7 +171,7 @@ Then you can execute the script:
 ./generate_random_number.sh
 ```
 
-![generate_random_number.sh.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\generate_random_number.sh.png)
+![generate_random_number.sh.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\generate_random_number.sh.png)
 
 <u>**Exercise 3:**</u>
 
@@ -199,4 +199,4 @@ Then you can execute the script:
   fi
 ```
 
-![generate_random_number seperate at 5.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\WEEK%2002%20-%20screenshots\1%20Bash%20Scripts\generate_random_number%20seperate%20at%205.png)
+![generate_random_number seperate at 5.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\generate_random_number%20seperate%20at%205.png)
