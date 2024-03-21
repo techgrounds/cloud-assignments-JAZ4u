@@ -45,7 +45,19 @@ Overall, cronjobs are a convenient way to automate repetitive tasks on Unix-like
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+CRON : The name "cron" comes from the Greek word for time, "chronos". It allows users to automate repetitive tasks, such as backups, system maintenance, and administrative tasks, without the need for manual intervention.
+
+
+
+CRONJOB: Cron jobs are defined in a file called the "crontab" (short for "cron table"). Each user on the system can have their own crontab file, which lists the commands or scripts to be executed, along with the schedule for when they should run.
+
+The syntax for defining cron jobs in a crontab file follows a specific format, specifying the minute, hour, day of month, month, and day of week when the task should be executed.
+
+
+
+CRONTAB : In Ubuntu and other Unix-like operating systems, the "crontab" is a file that contains a list of cron jobs. Each user can have their own crontab file, which defines the tasks they want to schedule for execution at specific times or intervals.
+
+The crontab file is managed using the `crontab` command-line utility. Users can view, edit, and manage their crontab files using this utility. 
 
 ## Opdracht
 
