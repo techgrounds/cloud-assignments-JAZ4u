@@ -74,13 +74,14 @@ CHAT_GPT
 **Exercise:**
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
-  We will make `write_datetime.sh`
+
+1/ We will make `write_datetime.sh`
 
 ```
 touch /scripts/write_datetime.sh
 ```
 
-The coding in `write_datetime.sh` is:
+2/ Add the following coding in `write_datetime.sh` :
 
 ```
 #!/bin/bash
@@ -100,27 +101,34 @@ echo "$current_datetime" > "$file_path"
 echo "Date and time written to $file_path"
 ```
 
-Now when we run the script , 
+3/ Now when we run the script , with `/scripts/write_datetime.sh` , we get the following result written in `datetime.txt` (seen on following screenshot):
+
 <u>RESULT</u>
 ![script_current_date.png](script_current_date.png)
 
 - Register the script in your crontab so that it runs every minute.
-  ```crontab -e```
-  Add the following line in the crontab (on the bottom)  :
-  
-  ```
-  */1 * * * * ./scripts/write-datetime.sh
-  ```
 
+1/ We open the crontab
+  ```crontab -e```
+2/ We add the following line in the crontab (on the bottom)  :
+```
+*/1 * * * * ./scripts/write-datetime.sh
+```
 ![crontab_command.png](crontab_command.png)
+3/ Save and close the crontab
+4/ we do a 
 
 - Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
 
 Here's a script that retrieves the available disk space and writes it to a log file in ``/var/log``. We named this script `disk_space_logger.sh` :
 
+1/ We will make `disk_space_logger.sh`
+
 ```
 touch /scripts/disk_space_logger.sh
 ```
+
+2/ Add the following coding in `disk_space_logger.sh` :
 
 ```
 #!/bin/bash
@@ -144,17 +152,17 @@ echo "Disk space logged at $log_file"
 
 ![cron_job_3_script.png](cron_job_3_script.png)
 
-Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
+3/ Save this script with the name ``disk_space_logger.sh`` and make it executable using `chmod +x disk_space_logger.sh `
 
-Next, we'll set up a cron job to run this script weekly. To do this, follow these steps:
+4/ Next, we'll set up a cron job to run this script weekly. To do this, follow these steps:
 
--Open  crontab file for editing by running:
+-Open  crontab file for editing by typing:
 
 ```
 crontab -e
 ```
 
--Add the following line to the crontab file to schedule the script to run weekly:
+5/ Add the following line to the (bottom of) crontab file, to schedule the script to run weekly:
 
 ```
 0 0 * * 0 /path/to/disk_space_logger.sh
@@ -162,9 +170,9 @@ crontab -e
 
 This line will run the script at midnight (00:00) every Sunday (day of the week 0).
 
--Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script. In this case `/scripts/disk_space_logger.sh` was used.
+-Replace`/path/to/disk_space_logger.sh` with the <u>actual</u> path to your `disk_space_logger.sh` script if needed. But in this case `/scripts/disk_space_logger.sh` was used.
 
--Save and close the crontab file.
+6/ Save and close the crontab file.
 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
