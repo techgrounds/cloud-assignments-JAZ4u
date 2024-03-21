@@ -6,28 +6,23 @@ A cronjob is defined by a cron expression, which consists of five fields `` * * 
 
 First `*` = Minute (0-59)
 
-
 Second `*`= Hour (0-23)
-
 
 Third `*`= Day of the month (1-31)
 
-
 Fourth `*`= Month (1-12 or names)
-
 
 Fifth `*`= Day of the week (0-7 or names, where 0 and 7 represent Sunday)
 
-
 Each field can contain a single value, a comma-separated list of values, a range of values (specified using a hyphen(`-`)), or an asterisk (`*`) to indicate "every" value. Additionally, you can use special characters such as slashes (`/`) to specify intervals.
 
-| `*`        | Time Value       | (Range)                                        |
-| ---------- | ---------------- | ---------------------------------------------- |
-| First `*`  | Minute           | (0-59)                                         |
-| Second `*` | Hour             | (0-23)                                         |
-| Third `*`  | Day of the Month | (1-31)                                         |
-| Fourth `*` | Month            | (1-12 or names)                                |
-| Fifth `*`  | Day of the Week  | (0-7 or names, where 0 and 7 represent Sunday) |
+| `  * * * * *  ` | Time Value       | (Range)                                        |
+| --------------- | ---------------- | ---------------------------------------------- |
+| First `*`       | Minute           | (0-59)                                         |
+| Second `**`     | Hour             | (0-23)                                         |
+| Third `***`     | Day of the Month | (1-31)                                         |
+| Fourth`****`    | Month            | (1-12 or names)                                |
+| Fifth `*****`   | Day of the Week  | (0-7 or names, where 0 and 7 represent Sunday) |
 
 Here's an example of a cron expression:
 
@@ -80,6 +75,24 @@ CHAT_GPT
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
 
+```
+touch /scripts/write_datetime.sh
+```
+
+```
+#!/bin/bash
+
+# Define the file path
+file_path=/home/datetime.txt
+
+# Get the current date and time
+current_datetime=$(date +"%Y-%m-%d %H:%M:%S")
+
+# Write the date and time to the file
+echo "$current_datetime" > "$file_path"
+echo "Date and time written to $file_path"
+```
+
 ![script_current_date.png](script_current_date.png)
 
 - Register the script in your crontab so that it runs every minute.
@@ -98,21 +111,16 @@ touch /scripts/disk_space_logger.sh
 #!/bin/bash
 
 # Define log file path
-
 log_file="/var/log/disk_space.log"
 
 # Get current date and time
-
 current_date=$(date +"%Y-%m-%d %H:%M:%S")
 
 # Get available disk space and append it to log file
-
 df -h >> "$log_file"
 
 # Add a timestamp to the log entry
-
 echo "Disk space checked at $current_date" >> "$log_file"
-
 echo "Disk space logged at $log_file"
 ```
 
