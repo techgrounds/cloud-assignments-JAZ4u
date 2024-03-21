@@ -110,13 +110,22 @@ echo "Date and time written to $file_path"
 
 1/ We open the crontab
   ```crontab -e```
-2/ We add the following line in the crontab (on the bottom)  :
+
+2/ We add the following line in the crontab (on the bottom, as seen in following screenshot)  :
+
 ```
 */1 * * * * ./scripts/write-datetime.sh
 ```
+
 ![crontab_command.png](crontab_command.png)
+
 3/ Save and close the crontab
-4/ we do a 
+
+4/ To see the result ,we typ : `sudo cat /var/log/datetime.txt` 
+5/ repeat step 4 after a minute,  to see and proof that the `datetime.txt` has changed.
+
+RESULT
+![crontab_date_time_1_minute.png](crontab_date_time_1_minute.png)
 
 - Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
 
@@ -177,7 +186,3 @@ This line will run the script at midnight (00:00) every Sunday (day of the week 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
 ![cron_job_3.png](cron_job_3.png)
-
-```
-
-```
