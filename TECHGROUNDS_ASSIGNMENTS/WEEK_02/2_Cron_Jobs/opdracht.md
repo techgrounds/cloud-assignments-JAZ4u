@@ -30,9 +30,9 @@ Here's an example of a cron expression:
 * * * * * /path/to/your/script.sh
 ```
 
-   This expression indicates that the script located at ```/path/to/your/script.sh``` will be executed every minute, as each field is set to ``*`` (`*`   = every possible value).
+   This expression indicates that the script located at ```/path/to/your/script.sh``` will be executed every minute, as each field is set to ``*``   (`*`   = every possible value).
 
-Cronjobs are typically managed using the ``` crontab -e``` command, which allows users to view, edit, and remove their scheduled tasks. Each user on the system can have their own crontab file, which contains their individual scheduled tasks. Additionally, system-wide cronjobs can be defined in /etc/crontab and in the /etc/cron.d/ directory.
+Cronjobs are typically managed using the ``` crontab -e``` command, which allows users to view, edit, and remove their scheduled tasks. Each user on the system can have their own crontab file, which contains their individual scheduled tasks. Additionally, system-wide cronjobs can be defined in `/etc/crontab` and in the `/etc/cron.d/` directory.
 
 Cronjobs are commonly used for tasks such as:
 
@@ -47,13 +47,9 @@ Overall, cronjobs are a convenient way to automate repetitive tasks on Unix-like
 
 CRON : The name "cron" comes from the Greek word for time, "chronos". It allows users to automate repetitive tasks, such as backups, system maintenance, and administrative tasks, without the need for manual intervention.
 
-
-
 CRONJOB: Cron jobs are defined in a file called the "crontab" (short for "cron table"). Each user on the system can have their own crontab file, which lists the commands or scripts to be executed, along with the schedule for when they should run.
 
 The syntax for defining cron jobs in a crontab file follows a specific format, specifying the minute, hour, day of month, month, and day of week when the task should be executed.
-
-
 
 CRONTAB : In Ubuntu and other Unix-like operating systems, the "crontab" is a file that contains a list of cron jobs. Each user can have their own crontab file, which defines the tasks they want to schedule for execution at specific times or intervals.
 
