@@ -111,17 +111,18 @@ echo "Date and time written to $file_path"
 1/ We open the crontab
   ```crontab -e```
 
-2/ We add the following line in the crontab (on the bottom, as seen in following screenshot)  :
+2/ We add the following line `*/1 * * * * ./scripts/write-datetime.sh` in the crontab (on the bottom, as seen in following screenshot)  :
+
+![crontab_command.png](crontab_command.png)
 
 ```
 */1 * * * * ./scripts/write-datetime.sh
 ```
 
-![crontab_command.png](crontab_command.png)
-
 3/ Save and close the crontab
 
-4/ To see the result ,we typ : `sudo cat /var/log/datetime.txt` 
+4/ To see the result ,we typ : `sudo cat /var/log/datetime.txt`
+
 5/ repeat step 4 after a minute,  to see and proof that the `datetime.txt` has changed.
 
 RESULT
