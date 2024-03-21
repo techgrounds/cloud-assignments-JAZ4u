@@ -74,28 +74,43 @@ CHAT_GPT
 **Exercise:**
 
 - Create a Bash script that writes the current date and time to a file in your home directory.
+  We will make `write_datetime.sh`
 
 ```
 touch /scripts/write_datetime.sh
 ```
 
+The coding in `write_datetime.sh` is:
+
 ```
 #!/bin/bash
 
+
 # Define the file path
+
 file_path=/home/datetime.txt
 
 # Get the current date and time
+
 current_datetime=$(date +"%Y-%m-%d %H:%M:%S")
 
 # Write the date and time to the file
+
 echo "$current_datetime" > "$file_path"
 echo "Date and time written to $file_path"
 ```
 
+Now when we run the script , 
+<u>RESULT</u>
 ![script_current_date.png](script_current_date.png)
 
 - Register the script in your crontab so that it runs every minute.
+  ```crontab -e```
+  Add the following line in the crontab (on the bottom)  :
+  
+  ```
+  */1 * * * * ./scripts/write-datetime.sh
+  ```
 
 ![crontab_command.png](crontab_command.png)
 
@@ -109,17 +124,20 @@ touch /scripts/disk_space_logger.sh
 
 ```
 #!/bin/bash
-
 # Define log file path
+
 log_file="/var/log/disk_space.log"
 
 # Get current date and time
+
 current_date=$(date +"%Y-%m-%d %H:%M:%S")
 
 # Get available disk space and append it to log file
+
 df -h >> "$log_file"
 
 # Add a timestamp to the log entry
+
 echo "Disk space checked at $current_date" >> "$log_file"
 echo "Disk space logged at $log_file"
 ```
@@ -151,3 +169,7 @@ This line will run the script at midnight (00:00) every Sunday (day of the week 
 With this setup, your script will run weekly, logging the available disk space to the specified log file in `/var/log/disk_space.log`
 
 ![cron_job_3.png](cron_job_3.png)
+
+```
+
+```
