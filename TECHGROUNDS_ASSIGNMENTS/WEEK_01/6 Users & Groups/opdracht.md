@@ -4,7 +4,9 @@
 
 ## Key-terms
 
-<img src="file:///C:/Users/Administrator/OneDrive/Documenten/TechGrounds/Clone/cloud-assignments-JAZ4u/TECHGROUNDS_ASSIGNMENTS/WEEK_01/6%20Users%20&%20Groups/etc_password_columns_linux.png" title="" alt="etc_password_columns_linux.png" width="392">
+
+
+![etc_password_columns_linux.png](etc_password_columns_linux.png)
 
 ## Opdracht
 
