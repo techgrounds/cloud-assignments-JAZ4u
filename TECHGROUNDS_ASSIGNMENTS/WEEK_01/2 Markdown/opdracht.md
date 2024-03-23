@@ -1,4 +1,4 @@
-# [Onderwerp]
+# [Markdown]
 
 [Geef een korte beschrijving van het onderwerp]
 
@@ -7,6 +7,18 @@
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
 ## Opdracht
+- Bestudeer:
+Markdown
+WYSIWYG vs WYSIWYM
+
+- Opdracht:
+Maak een Markdown-document met je gekozen editor. Je document moet de volgende elementen bevatten:
+Een level 1 header
+Een level 2 header
+Een codeblok
+Een bold tekst
+Een link naar een website
+Push dit document naar je portfolio-repository
 
 ### Gebruikte bronnen
 
