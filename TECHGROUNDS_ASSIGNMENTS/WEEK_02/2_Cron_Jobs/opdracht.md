@@ -70,21 +70,16 @@ The crontab file is managed using the `crontab` command-line utility. Users can 
 - How to Create and Set Up a Cron Job in Linux
   
   https://phoenixnap.com/kb/set-up-cron-job-linux
-  
-  
 
 - How Cron Jobs Work
   
   https://www.hostinger.com/tutorials/cron-job?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=9050778&gad_source=1&gclid=Cj0KCQjw-_mvBhDwARIsAA-Q0Q7pHah6RLHvIuV3HCkmsWHeZAzsJiZBlJ37vr4AX9ZCvvjVRFcX-hEaArmEEALw_wcB
-  
 
 - How to Run Cron Jobs Every 5, 10, or 15 Minutes | Linuxize](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
 
 - CHAT_GPT
 
 - [Crontab.guru - The cron schedule expression generator](https://crontab.guru/#5_22_12_nov_sat)
-
-  
 
 ### Ervaren problemen
 
