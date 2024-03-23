@@ -10,12 +10,14 @@
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+https://www.redhat.com/sysadmin/manage-permissions
 
 ### Ervaren problemen
 
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
 ### Resultaat
+
+![users&groups.png](C:\users&groups.png)
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
