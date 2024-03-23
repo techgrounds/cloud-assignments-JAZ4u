@@ -4,9 +4,19 @@
 
 ## Key-terms
 
-
-
 ![etc_password_columns_linux.png](etc_password_columns_linux.png)
+
+- ```
+  ls -l /path/to/file
+  ```
+
+- ```
+  stat /path/to/file
+  ```
+
+- ```
+  stat -c "%U %G" /path/to/file
+  ```
 
 ## Opdracht
 
@@ -25,6 +35,8 @@
 ### Gebruikte bronnen
 
 https://www.redhat.com/sysadmin/manage-permissions
+
+https://askubuntu.com/questions/175054/how-to-find-owner-and-group-of-a-directory
 
 ### Ervaren problemen
 

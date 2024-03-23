@@ -44,6 +44,18 @@ command permissions directory/file## Key-terms
 
 - 
 
+- ```
+  ls -l /path/to/file
+  ```
+
+- ```
+  stat /path/to/file
+  ```
+
+- ```
+  stat -c "%U %G" /path/to/file
+  ```
+
 Exercise:
 
 - Create a text file.
