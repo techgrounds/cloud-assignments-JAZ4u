@@ -18,6 +18,6 @@ https://www.redhat.com/sysadmin/manage-permissions
 
 ### Resultaat
 
-![users&groups.png](C:\users&groups.png)
+![users&groups.png](users&groups.png)
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
