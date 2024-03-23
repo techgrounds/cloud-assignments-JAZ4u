@@ -1,12 +1,48 @@
 # [7- File Permissions]
 
-[Geef een korte beschrijving van het onderwerp]
+File Permissions uses symbols, but the symbols are simpler to understand. That's attractive to sysadmins that are new to standard Linux permissions.
 
-## Key-terms
+Each access level has a symbol:
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+| **Access level** | **Symbol** |
+| ---------------- | ---------- |
+| Read             | r          |
+| Write            | w          |
+| Execute          | x          |
 
-## Opdracht
+Each identity has a symbol:
+
+| **Identity** | **Symbol** |
+| ------------ | ---------- |
+| User         | u          |
+| Group        | g          |
+| Others       | o          |
+
+There are also operators to manipulate the permissions:
+
+| **Task**                 | **Operator** |
+| ------------------------ | ------------ |
+| Grant a level of access  | +            |
+| Remove a level of access | -            |
+| Set a level of access    | =            |
+
+The general `chmod` command syntax is the same:
+
+```plaintext
+command permissions directory/file## Key-terms
+```
+
+- CHOWN
+
+- CHGRP
+
+- USERADD
+
+- GROUPADD
+
+- CHMOD
+
+- 
 
 Exercise:
 
@@ -24,15 +60,19 @@ Exercise:
 
 ### Gebruikte bronnen
 
-[command line - How do file permissions work? - Ask Ubuntu](https://askubuntu.com/questions/83/how-do-file-permissions-work)
-[system - Where are passwords saved? - Ask Ubuntu
+- [command line - How do file permissions work? - Ask Ubuntu](https://askubuntu.com/questions/83/how-do-file-permissions-work)
+  [system - Where are passwords saved? - Ask Ubuntu
 
-[linux - How do I change the group ownership of a file in Ubuntu? - Stack Overflow](https://stackoverflow.com/questions/21865940/how-do-i-change-the-group-ownership-of-a-file-in-ubuntu)]
-https://stackoverflow.com/questions/21865940/how-do-i-change-the-group-ownership-of-a-file-in-ubuntu
+- https://www.redhat.com/sysadmin/manage-permissions
+
+       How to manage Linux permissions for users, groups, and others
+
+- [linux - How do I change the group ownership of a file in Ubuntu? - Stack Overflow](https://stackoverflow.com/questions/21865940/how-do-i-change-the-group-ownership-of-a-file-in-ubuntu)]
+  https://stackoverflow.com/questions/21865940/how-do-i-change-the-group-ownership-of-a-file-in-ubuntu
+- [How To List Users and Groups on Linux &ndash; devconnected](https://devconnected.com/how-to-list-users-and-groups-on-linux/)
+- 
 
 ### Ervaren problemen
-
-
 
 ### Resultaat
 
