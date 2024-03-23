@@ -4,11 +4,11 @@ File Permissions uses symbols, but the symbols are simpler to understand. That's
 
 Each access level has a symbol:
 
-| **Access level** | **Symbol** |
-| ---------------- | ---------- |
-| Read             | r          |
-| Write            | w          |
-| Execute          | x          |
+| **Access level** | **Symbol** | Number |
+| ---------------- | ---------- | ------ |
+| Read             | r          | 4      |
+| Write            | w          | 2      |
+| Execute          | x          | 1      |
 
 Each identity has a symbol:
 
