@@ -63,9 +63,6 @@ Here are some key features and characteristics of Bash scripts:
 
 ### Ervaren problemen
 
-
-
-
 ### Resultaat
 
 <u>**Exercise 1:**</u>
