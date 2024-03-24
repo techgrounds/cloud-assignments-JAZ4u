@@ -138,9 +138,9 @@ $ /scripts/appendtext.sh
  hello-techgrounds
 ```
 
-![httpd_install.sh script1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\httpd_install.sh%20script1.png)
+![httpd_install_sh_script1.png](httpd_install_sh_script1.png)
 
-![httpd_install.sh script2.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\httpd_install.sh%20script2.png)
+![httpd_install_sh_script2.png](httpd_install_sh_script2.png)
 
 <u>**Exercise 2:**</u>
 
@@ -171,7 +171,8 @@ Then you can execute the script:
 ./generate_random_number.sh
 ```
 
-![generate_random_number.sh.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS%20ASSIGNMENTS\WEEK%2002\1%20Bash%20Scripts\generate_random_number.sh.png)
+![generate_random_number.sh.png](generate_random_number.sh.png)
+
 
 <u>**Exercise 3:**</u>
 
