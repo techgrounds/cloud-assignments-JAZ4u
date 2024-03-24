@@ -32,6 +32,7 @@ Study:
 - B/ and its uses.
 
 <u>A/ The OSI model:</u>
+
 The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a telecommunication or computing system. Developed by the International Organization for Standardization (ISO) in the 1980s, it provides a structured approach to network communication by dividing the process into layers. Each layer has specific functions and interacts with adjacent layers to facilitate communication between devices. The OSI model consists of seven layers:
 
 1. **Physical Layer**: This layer deals with the physical transmission of data over the network medium. It defines characteristics such as voltage levels, cable types, and data rates. Examples of devices operating at this layer include network interface cards (NICs) and hubs.
