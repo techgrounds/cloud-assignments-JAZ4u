@@ -26,6 +26,7 @@
 ### Resultaat
 
 1]The OSI MODEL
+
 Study:
 - A/ The OSI model, 
 - B/ and its uses.
@@ -63,6 +64,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 
 
 2]The TCP/IP MODEL
+
 Study:
 - A/ The TCP/IP model,
 - B/ and its uses.
