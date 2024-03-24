@@ -11,12 +11,13 @@
 
  Study:
 
-- 1/The OSI model and 2/ its uses.
-- 1/The TCP/IP model and 2/ its uses.
+- 1] A/ The OSI model and B/ its uses.
+- 2] A/ The TCP/IP model and B/ its uses.
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- https://www.youtube.com/watch?v=Ilk7UXzV_Qc
+- CHAT GPT
 
 ### Ervaren problemen
 
@@ -24,12 +25,12 @@
 
 ### Resultaat
 
+1]The OSI MODEL
 Study:
+- A/ The OSI model, 
+- B/ and its uses.
 
-- <u>A/ The OSI model and B/ its uses.</u>
-
-A/ 
-
+<u>A/ The OSI model:</u>
 The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a telecommunication or computing system. Developed by the International Organization for Standardization (ISO) in the 1980s, it provides a structured approach to network communication by dividing the process into layers. Each layer has specific functions and interacts with adjacent layers to facilitate communication between devices. The OSI model consists of seven layers:
 
 1. **Physical Layer**: This layer deals with the physical transmission of data over the network medium. It defines characteristics such as voltage levels, cable types, and data rates. Examples of devices operating at this layer include network interface cards (NICs) and hubs.
@@ -45,10 +46,10 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 6. **Presentation Layer**: The presentation layer is responsible for data translation, encryption, and compression to ensure compatibility between different systems. It handles data formatting and syntax conversion, allowing applications to exchange information seamlessly. Examples of presentation layer formats include JPEG, MPEG, and ASCII.
 
 7. **Application Layer**: The application layer provides network services directly to end-users and applications. It enables functions such as file transfer, email, and remote login. Protocols like HTTP (Hypertext Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and FTP (File Transfer Protocol) operate at this layer.
+   
 
-<u>B/ 
 
- Uses of the OSI model:</u>
+<u>B/ Uses of the OSI model:</u>
 
 1. **Standardization**: The OSI model provides a standardized framework for designing, implementing, and troubleshooting network communication protocols and systems.
 
@@ -60,9 +61,14 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
    
    Overall, the OSI model is a fundamental concept in networking, providing a structured approach to understanding and implementing network communication protocols and systems.
 
-A/ The TCP/IP model and B/ its uses.
 
-A/ 
+2]The TCP/IP MODEL
+Study:
+- A/ The TCP/IP model,
+- B/ and its uses.
+
+A/ The TCP/IP model
+
 The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a conceptual framework used for understanding how data is transmitted over networks, particularly the internet. It's organized into layers, each responsible for specific functions related to communication. The TCP/IP model is often compared to the OSI (Open Systems Interconnection) model, but it's simpler and more closely aligned with the architecture of the internet.
 
 - The TCP/IP model consists of four layers:
@@ -75,9 +81,7 @@ The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a conceptu
   
   4. **Link Layer (also known as the Network Interface Layer or Data Link Layer)**: The lowest layer of the TCP/IP model, the link layer deals with the physical connection between devices and the local network medium, such as Ethernet or Wi-Fi. It's responsible for transferring data frames between neighboring network nodes on the same local network segment.
 
-B/ 
-
-Uses of the TCP/IP model:
+<u>B/ Uses of the TCP/IP model:</u>
 
 1. **Standardization**: The TCP/IP model provides a standardized framework for designing, implementing, and troubleshooting network communication protocols and systems.
 
