@@ -1,6 +1,6 @@
 # [4- OSI Stack]
 
-[Geef een korte beschrijving van het onderwerp]
+The OSI model serves as a framework for understanding and standardizing the communication processes within networked systems, although in practice, many modern networks use the TCP/IP model, which combines several OSI layers into fewer layers.
 
 ## Key-terms
 
@@ -28,6 +28,7 @@
 1]The OSI MODEL
 
 Study:
+
 - A/ The OSI model, 
 - B/ and its uses.
 
@@ -48,8 +49,6 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 6. **Presentation Layer**: The presentation layer is responsible for data translation, encryption, and compression to ensure compatibility between different systems. It handles data formatting and syntax conversion, allowing applications to exchange information seamlessly. Examples of presentation layer formats include JPEG, MPEG, and ASCII.
 
 7. **Application Layer**: The application layer provides network services directly to end-users and applications. It enables functions such as file transfer, email, and remote login. Protocols like HTTP (Hypertext Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and FTP (File Transfer Protocol) operate at this layer.
-   
-
 
 <u>B/ Uses of the OSI model:</u>
 
@@ -63,10 +62,10 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
    
    Overall, the OSI model is a fundamental concept in networking, providing a structured approach to understanding and implementing network communication protocols and systems.
 
-
 2]The TCP/IP MODEL
 
 Study:
+
 - A/ The TCP/IP model,
 - B/ and its uses.
 
