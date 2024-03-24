@@ -63,16 +63,8 @@ Here are some key features and characteristics of Bash scripts:
 
 ### Ervaren problemen
 
-When I tried to use Gedit , I encountered this eror message:
-(gedit:1430): Gtk-WARNING **: cannot open display: $ sudo gedit
 
-solution :
 
-https://askubuntu.com/questions/930425/gedit1430-gtk-warning-cannot-open-display
-
-```
-sudo apt -y install gnome
-```
 
 ### Resultaat
 
