@@ -1,10 +1,8 @@
-# [Networking devices]
+# [5\ Networking devices]
 
-[Geef een korte beschrijving van het onderwerp]
+Networking devices are hardware devices used to facilitate communication and data transfer within a computer network.
 
 ## Key-terms
-
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
 ## Opdracht
 
@@ -20,6 +18,7 @@
 - Tutorial: Access Point (AP) Setup https://www.youtube.com/watch?v=640ux4wQgXE
 - [Hub, Switch, &amp; Router Explained - What&#39;s the difference? - YouTube](https://www.youtube.com/watch?v=1z0ULvg_pW8)
 - [Routers vs. Switches vs. Access Points - And More - YouTube](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
+- https://www.howtogeek.com/874773/the-best-dns-servers-for-secure-browsing/
 
 ### Ervaren problemen
 
