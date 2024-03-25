@@ -78,22 +78,27 @@ Exercise :
      
      - Simple Mail Transfer Protocol (SMTP): SMTP is a protocol used for sending and receiving email messages between servers. It operates at the application layer and handles the transfer of emails.
 
+
 - A/ Figure out who determines what protocols we use, 
+- B/ and what is needed to introduce your own protocol.
+
+
+A/ Figure out who determines what protocols we use,
+
+The determination of which protocols are used typically involves various stakeholders, including standards organizations, industry consortiums, regulatory bodies, and the technology community as a whole. Here's a breakdown of key players:
+
+1. **Standards Organizations:** Organizations such as the International Organization for Standardization (ISO), the Institute of Electrical and Electronics Engineers (IEEE), and the Internet Engineering Task Force (IETF) play significant roles in developing and standardizing protocols. They often coordinate efforts to define and maintain standards for communication protocols across different layers of the OSI model.
+
+2. **Industry Consortiums:** Many industries have their own consortiums or associations that develop and promote specific protocols tailored to their needs. For example, the Wi-Fi Alliance develops standards and protocols for wireless networking, while the GSM Association oversees standards for mobile telecommunications.
+
+3. **Regulatory Bodies:** In some cases, government regulatory agencies may mandate or influence the adoption of certain protocols, particularly in sectors such as telecommunications and data privacy. These bodies may set requirements or guidelines that impact which protocols can be used.
+
+4. **Technology Community:** Developers, engineers, researchers, and other members of the technology community contribute to the evolution of protocols by proposing new ideas, participating in standardization efforts, and implementing protocols in software and hardware.
+
 
 - B/ and what is needed to introduce your own protocol.
 
-- A/ Figure out who determines what protocols we use,
-  The determination of which protocols are used typically involves various stakeholders, including standards organizations, industry consortiums, regulatory bodies, and the technology community as a whole. Here's a breakdown of key players:
-  
-  1. **Standards Organizations:** Organizations such as the International Organization for Standardization (ISO), the Institute of Electrical and Electronics Engineers (IEEE), and the Internet Engineering Task Force (IETF) play significant roles in developing and standardizing protocols. They often coordinate efforts to define and maintain standards for communication protocols across different layers of the OSI model.
-  
-  2. **Industry Consortiums:** Many industries have their own consortiums or associations that develop and promote specific protocols tailored to their needs. For example, the Wi-Fi Alliance develops standards and protocols for wireless networking, while the GSM Association oversees standards for mobile telecommunications.
-  
-  3. **Regulatory Bodies:** In some cases, government regulatory agencies may mandate or influence the adoption of certain protocols, particularly in sectors such as telecommunications and data privacy. These bodies may set requirements or guidelines that impact which protocols can be used.
-  
-  4. **Technology Community:** Developers, engineers, researchers, and other members of the technology community contribute to the evolution of protocols by proposing new ideas, participating in standardization efforts, and implementing protocols in software and hardware.
-
-B/ Introducing a new protocol involves several steps and considerations:
+Introducing a new protocol involves several steps and considerations:
 
 1. **Identifying a Need:** The first step is to identify a specific problem or requirement that existing protocols do not adequately address. This could involve improving performance, enhancing security, enabling new functionalities, or addressing emerging use cases.
 
