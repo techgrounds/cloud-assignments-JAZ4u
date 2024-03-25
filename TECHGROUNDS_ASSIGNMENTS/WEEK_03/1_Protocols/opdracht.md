@@ -6,21 +6,18 @@ Protocols are a set of rules and conventions that govern the way in which data i
 
 - Protocol
   
-  
   Protocols can operate at various layers of the OSI (Open Systems Interconnection) model, which is a conceptual framework used to understand and standardize the communication functions of a telecommunication or computing system. Each layer of the OSI model corresponds to specific tasks and responsibilities in the process of transmitting data over a network, and protocols are designed to fulfill those tasks within their respective layers.
   
   Some common types of protocols include:
-  
-  1. **Network Protocols:** These protocols define how devices communicate and exchange data within a network. Examples include the Internet Protocol (IP) for logical addressing and routing, and the Address Resolution Protocol (ARP) for mapping IP addresses to MAC addresses.
-  
-  2. **Transport Protocols:** Transport protocols govern the transmission of data between devices and provide mechanisms for error detection, flow control, and retransmission. Examples include the Transmission Control Protocol (TCP) for reliable, connection-oriented communication, and the User Datagram Protocol (UDP) for connectionless communication with reduced overhead.
-  
-  3. **Application Protocols:** Application protocols facilitate communication between software applications and services running on networked devices. Examples include the Hypertext Transfer Protocol (HTTP) for transferring web pages over the World Wide Web, the Simple Mail Transfer Protocol (SMTP) for sending email messages, and the File Transfer Protocol (FTP) for transferring files between computers.
-  
-  4. **Data Link Protocols:** Data link protocols define how data is formatted, transmitted, and received over a physical medium, such as Ethernet for wired LANs or Wi-Fi for wireless networks. These protocols ensure reliable and efficient communication between directly connected devices.
-  
-  Overall, protocols are essential components of network communication, providing the rules and standards necessary for devices to exchange data effectively and reliably across networks of varying sizes and complexities.
+1. **Network Protocols:** These protocols define how devices communicate and exchange data within a network. Examples include the Internet Protocol (IP) for logical addressing and routing, and the Address Resolution Protocol (ARP) for mapping IP addresses to MAC addresses.
 
+2. **Transport Protocols:** Transport protocols govern the transmission of data between devices and provide mechanisms for error detection, flow control, and retransmission. Examples include the Transmission Control Protocol (TCP) for reliable, connection-oriented communication, and the User Datagram Protocol (UDP) for connectionless communication with reduced overhead.
+
+3. **Application Protocols:** Application protocols facilitate communication between software applications and services running on networked devices. Examples include the Hypertext Transfer Protocol (HTTP) for transferring web pages over the World Wide Web, the Simple Mail Transfer Protocol (SMTP) for sending email messages, and the File Transfer Protocol (FTP) for transferring files between computers.
+
+4. **Data Link Protocols:** Data link protocols define how data is formatted, transmitted, and received over a physical medium, such as Ethernet for wired LANs or Wi-Fi for wireless networks. These protocols ensure reliable and efficient communication between directly connected devices.
+   
+   Overall, protocols are essential components of network communication, providing the rules and standards necessary for devices to exchange data effectively and reliably across networks of varying sizes and complexities.
 - Wireshark
   
   Wireshark is a popular open-source network protocol analyzer. It allows you to capture and interactively browse the traffic running on a computer network. Originally known as Ethereal, it was renamed Wireshark in 2006. Wireshark lets you inspect the data from a live network or from a capture file on disk, and it supports hundreds of protocols, making it a powerful tool for network troubleshooting, analysis, software and protocol development, and education. With Wireshark, you can analyze the details of network protocols, view packet headers and payloads, and identify and diagnose network problems. It is available for various operating systems, including Windows, macOS, and Linux.
@@ -38,6 +35,8 @@ Exercise :
 - CHAT GPT
 - https://www.wireshark.org
 - https://www.youtube.com/watch?v=lb1Dw0elw0Q
+  
+  Learn Wireshark in 10 minutes - Wireshark Tutorial for Beginners
 
 ### Ervaren problemen
 
