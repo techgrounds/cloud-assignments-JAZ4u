@@ -1,0 +1,31 @@
+week 3 dag 1
+
+-Softskill gesprek met Casper:
+Casper gaat Sofstkill gesprek hebben met ons , dit is om te identificeren waar je je zelf ziet staan met de softskillz. Men doet dit in de 3e week zodat we een beetje een bliok op je personage hebben. This week it will happen , he will contact you. 
+
+---------------
+What should we know about Cronjobs according to Shikha:
+explain what it is , demo how it works . 
+Know the basics and fundamentals.
+
+-------------------------
+
+-OSI stack (what should
+ you know according to Shikha)
+You know how the communication takes place , in which layers is it taking place: layer 4 and 7 are important. 
+---Loadbalancer: decides which traffic should go to which server , it balnces server load. 
+You need to understand Loadbalancer, they opeate at several layer 7,4?? If you know it well , you can answer 3 questions quickly. 
+
+
+-------------
+The Sprint review presentation is at 13:00
+----
+
+SPRINT Presentation feedback
+
+-A power point presentation should not have a lot of text.
+-As a presenter should not read the powerpoint slides, he should know. 
+-you can use NOTES in the presentation , viewers cant see this.
+-Presentation should have a structure slide (agenda like ) . 
+
+--------------
