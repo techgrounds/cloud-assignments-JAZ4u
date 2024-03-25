@@ -22,8 +22,6 @@ Protocols are a set of rules and conventions that govern the way in which data i
 
 Wireshark
 
-
-
 ## Opdracht
 
 Exercise :
@@ -36,6 +34,7 @@ Exercise :
 
 - CHAT GPT
 - https://www.wireshark.org
+- https://www.youtube.com/watch?v=lb1Dw0elw0Q
 
 ### Ervaren problemen
 
