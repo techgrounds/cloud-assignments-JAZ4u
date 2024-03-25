@@ -20,7 +20,9 @@ Protocols are a set of rules and conventions that govern the way in which data i
   Overall, protocols are essential components of network communication, providing the rules and standards necessary for devices to exchange data effectively and reliably across networks of varying sizes and complexities.
 
 - Wireshark
-Wireshark is a popular open-source network protocol analyzer. It allows you to capture and interactively browse the traffic running on a computer network. Originally known as Ethereal, it was renamed Wireshark in 2006. Wireshark lets you inspect the data from a live network or from a capture file on disk, and it supports hundreds of protocols, making it a powerful tool for network troubleshooting, analysis, software and protocol development, and education. With Wireshark, you can analyze the details of network protocols, view packet headers and payloads, and identify and diagnose network problems. It is available for various operating systems, including Windows, macOS, and Linux.
+
+- 
+  Wireshark is a popular open-source network protocol analyzer. It allows you to capture and interactively browse the traffic running on a computer network. Originally known as Ethereal, it was renamed Wireshark in 2006. Wireshark lets you inspect the data from a live network or from a capture file on disk, and it supports hundreds of protocols, making it a powerful tool for network troubleshooting, analysis, software and protocol development, and education. With Wireshark, you can analyze the details of network protocols, view packet headers and payloads, and identify and diagnose network problems. It is available for various operating systems, including Windows, macOS, and Linux.
 
 ## Opdracht
 
