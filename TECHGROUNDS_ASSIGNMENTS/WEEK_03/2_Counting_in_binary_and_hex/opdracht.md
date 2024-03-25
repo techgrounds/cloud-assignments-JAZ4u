@@ -67,7 +67,7 @@
 
 - [Hexadecimal - Wikipedia](https://en.wikipedia.org/wiki/Hexadecimal)
 
-- 
+- https://www.rapidtables.com/convert/number/binary-to-decimal.html [Binary to Decimal Converter]
 
 ### Ervaren problemen
 
@@ -85,21 +85,21 @@
 
 | **Decimal** | **Binary** |
 | ----------- | ---------- |
-| 16          |            |
-| 128         |            |
-| 228         |            |
-| 112         |            |
-| 73          |            |
+| 16          | 00010000   |
+| 128         | 10000000   |
+| 228         | 11100100   |
+| 112         | 01110000   |
+| 73          | 01001001   |
 
 - Translate the following binary numbers into decimal:
 
 | **Binary** | **Decimal** |
 | ---------- | ----------- |
-| 1010 1010  |             |
-| 1111 0000  |             |
-| 1101 1011  |             |
-| 1010 0000  |             |
-| 0011 1010  |             |
+| 1010 1010  | 170         |
+| 1111 0000  | 240         |
+| 1101 1011  | 219         |
+| 1010 0000  | 160         |
+| 0011 1010  | 58          |
 
 - Translate the following decimal numbers into hexadecimal:
 

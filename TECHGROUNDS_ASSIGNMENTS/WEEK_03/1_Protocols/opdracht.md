@@ -33,7 +33,9 @@ Exercise :
 ### Gebruikte bronnen
 
 - CHAT GPT
+
 - https://www.wireshark.org
+
 - https://www.youtube.com/watch?v=lb1Dw0elw0Q
   
   Learn Wireshark in 10 minutes - Wireshark Tutorial for Beginners
