@@ -5,6 +5,8 @@ Protocols are a set of rules and conventions that govern the way in which data i
 ## Key-terms
 
 - Protocol
+  
+  
   Protocols can operate at various layers of the OSI (Open Systems Interconnection) model, which is a conceptual framework used to understand and standardize the communication functions of a telecommunication or computing system. Each layer of the OSI model corresponds to specific tasks and responsibilities in the process of transmitting data over a network, and protocols are designed to fulfill those tasks within their respective layers.
   
   Some common types of protocols include:
@@ -18,14 +20,10 @@ Protocols are a set of rules and conventions that govern the way in which data i
   4. **Data Link Protocols:** Data link protocols define how data is formatted, transmitted, and received over a physical medium, such as Ethernet for wired LANs or Wi-Fi for wireless networks. These protocols ensure reliable and efficient communication between directly connected devices.
   
   Overall, protocols are essential components of network communication, providing the rules and standards necessary for devices to exchange data effectively and reliably across networks of varying sizes and complexities.
-  
-  
 
 - Wireshark
   
   Wireshark is a popular open-source network protocol analyzer. It allows you to capture and interactively browse the traffic running on a computer network. Originally known as Ethereal, it was renamed Wireshark in 2006. Wireshark lets you inspect the data from a live network or from a capture file on disk, and it supports hundreds of protocols, making it a powerful tool for network troubleshooting, analysis, software and protocol development, and education. With Wireshark, you can analyze the details of network protocols, view packet headers and payloads, and identify and diagnose network problems. It is available for various operating systems, including Windows, macOS, and Linux.
-  
-  
 
 ## Opdracht
 
