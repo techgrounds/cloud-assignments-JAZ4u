@@ -1,10 +1,8 @@
 # [1- Git & Github]
 
-[Geef een korte beschrijving van het onderwerp]
+GitHub is a web-based platform used for version control using Git. It provides hosting for software development projects, allowing developers to collaborate on code, track changes, and manage projects effectively. GitHub offers features like issue tracking, pull requests, code review, and wikis, making it a popular choice for open-source as well as private projects.
 
 ## Key-terms
-
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
 ## Opdracht
 
@@ -35,7 +33,7 @@ Opdracht 2:
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- CHAT GPT
 
 ### Ervaren problemen
 
@@ -50,18 +48,35 @@ Ik kende Github totaal niet , de GITHUB windows app begreep ik na wat trial en e
 - Begrijp de volgende termen:
   
   - Repository
+    Projects on GitHub are stored in repositories, which can contain folders, files, images, videos, spreadsheets, and data sets - anything your project needs.  
   
   - Main / Master
   
   - Branch
+    In GitHub, a branch is a parallel version of a repository's codebase. It allows developers to work on different features, fixes, or experiments without affecting the main codebase. Branches are essential for collaborative development workflows and are commonly used in conjunction with pull requests for code review and integration.
   
   - Commit
+    In GitHub, a commit represents a specific change or set of changes made to a repository's codebase. Each commit captures a snapshot of the repository at a particular point in time, including the modifications made to files.
   
   - Push / Pull
-  
-  - Merge
-  
-  - Fork
+    In Git and GitHub, "push" and "pull" are fundamental commands used to synchronize changes between your local repository and a remote repository, such as the one hosted on GitHub. Here's an overview of each:
+
+Push: The git push command is used to upload local repository commits to a remote repository. When you've made changes to your local repository and want to share them with others or update the remote repository, you use git push. Typically, you specify the remote repository and the branch you want to push to, like git push origin master (to push your local master branch to the origin remote repository).
+
+Example:
+`git push origin master`
+
+
+
+Pull: The git pull command is used to fetch and integrate changes from a remote repository into your local repository. It's essentially a combination of git fetch (which downloads changes from the remote repository) followed by git merge (which integrates those changes into your local branch). git pull is used when you want to update your local repository with changes made by others on the remote repository.
+
+Example:
+`git pull origin master`
+This command fetches changes from the master branch of the origin remote repository and merges them into your current local branch
+
+- Merge
+
+- Fork
 
 Opdracht 1:
 
