@@ -63,8 +63,6 @@ Opdracht:
 
 - Push dit document naar je portfolio-repository
 
-- 
-
 -<u><mark>Markdown</mark></u>
 
 Markdown biedt een set van conventies om tekst te structureren en op te maken met behulp van symbolen en leestekens, in plaats van complexe HTML-tags te gebruiken. Enkele van de meest voorkomende elementen die worden ondersteund door Markdown zijn:
@@ -125,7 +123,9 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
 
 - **Image1**: Invoegen van lokale image 
   
+
   ![macchupicchu.jpg](macchupicchu.jpg)
+
 
 - **Image2**: Invoegen van web image 
   
