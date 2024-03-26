@@ -78,10 +78,9 @@ Exercise :
      
      - Simple Mail Transfer Protocol (SMTP): SMTP is a protocol used for sending and receiving email messages between servers. It operates at the application layer and handles the transfer of emails.
 
-
 - A/ Figure out who determines what protocols we use, 
-- B/ and what is needed to introduce your own protocol.
 
+- B/ and what is needed to introduce your own protocol.
 
 A/ Figure out who determines what protocols we use,
 
@@ -94,8 +93,6 @@ The determination of which protocols are used typically involves various stakeho
 3. **Regulatory Bodies:** In some cases, government regulatory agencies may mandate or influence the adoption of certain protocols, particularly in sectors such as telecommunications and data privacy. These bodies may set requirements or guidelines that impact which protocols can be used.
 
 4. **Technology Community:** Developers, engineers, researchers, and other members of the technology community contribute to the evolution of protocols by proposing new ideas, participating in standardization efforts, and implementing protocols in software and hardware.
-
-
 - B/ and what is needed to introduce your own protocol.
 
 Introducing a new protocol involves several steps and considerations:
@@ -115,4 +112,4 @@ Introducing a new protocol involves several steps and considerations:
   ![wireshark_own_data_capture1.png](wireshark_own_data_capture1.png)
   ![wireshark_own_data_capture2.png](wireshark_own_data_capture2.png)
   - In the following example you see what the DNS protocol does , It provides the name of the website . In this case `learn.techgrounds.nl`
-- ![wireshark_own_data_capture3.png](wireshark_own_data_capture3.png)
+    ![wireshark_own_data_capture3.png](wireshark_own_data_capture3.png)
