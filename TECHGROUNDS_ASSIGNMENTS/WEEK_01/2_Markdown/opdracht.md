@@ -121,15 +121,8 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
   | ----------- | ----------- |
   ```
 
-
-
-
 - **Image2**: Invoegen van web image 
   
    ![paradise.jpg](https://cdn.europosters.eu/image/1300/paradise-on-earth-i161095.jpg)
 
 - **Image1**: Invoegen van lokale image 
-  
-
-  ![macchupicchu.jpg](macchupicchu.jpg)
-  
