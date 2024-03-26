@@ -126,5 +126,9 @@ Markdown biedt een set van conventies om tekst te structureren en op te maken me
    ![paradise.jpg](https://cdn.europosters.eu/image/1300/paradise-on-earth-i161095.jpg)
 
 - **Image2**: Invoegen van lokale image 
-
+  
   ![macchupicchu.jpg](macchupicchu.jpg)
+
+- This Document is pushed naar GIT Portfolio:
+  
+  ![GITportfolio.png](GITportfolio.png)
