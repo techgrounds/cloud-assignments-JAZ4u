@@ -1,4 +1,8 @@
 26-3-2024
+
+Nieuwe aanlog command:
+ssh jaz@18.193.223.166 -i "C:\Nest-Ja-Nieste.pem" -p 52202
+
 Casper meld dat AWS down is. Het ligt niet aan de leerlingen klant. Een check faalde. 
 We moeten op de nieuwe linux machine werken. Maar die werkt ook neit vbolgens SAM.
 
