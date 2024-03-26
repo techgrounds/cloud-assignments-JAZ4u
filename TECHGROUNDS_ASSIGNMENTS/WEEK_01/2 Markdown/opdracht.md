@@ -16,8 +16,6 @@ Markdown is platformonafhankelijk en wordt ondersteund door veel verschillende t
   - Markdown
   
   - WYSIWYG vs WYSIWYM
-  
-  - 
 
 - Opdracht:
   
@@ -39,7 +37,7 @@ Markdown is platformonafhankelijk en wordt ondersteund door veel verschillende t
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+CHAT GPT
 
 ### Ervaren problemen
 
@@ -47,7 +45,26 @@ Markdown is platformonafhankelijk en wordt ondersteund door veel verschillende t
 
 ### Resultaat
 
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Opdracht:
+
+- Maak een Markdown-document met je gekozen editor. Je document moet de
+
+- volgende elementen bevatten:
+
+- Een level 1 header
+
+- Een level 2 header
+
+- Een codeblok
+
+- Een bold tekst
+
+- Een link naar een website
+
+- Push dit document naar je portfolio-repository
+
+- 
+
 -<u><mark>Markdown</mark></u>
 
 Markdown biedt een set van conventies om tekst te structureren en op te maken met behulp van symbolen en leestekens, in plaats van complexe HTML-tags te gebruiken. Enkele van de meest voorkomende elementen die worden ondersteund door Markdown zijn:

@@ -34,6 +34,7 @@ Opdracht 2:
 ### Gebruikte bronnen
 
 - CHAT GPT
+- [Managing teams and people with access to your repository - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
 ### Ervaren problemen
 
@@ -125,7 +126,9 @@ Opdracht 1:
 
 - Geef permissies aan je teamgenoten om de repository te gebruiken.
 
-- Push code naar je repository. Het maakt niet uit wat voor code het is. Let op: je mag de 'upload file'-optie op de Github website niet gebruiken. 
+- ![collab.png](collab.png)
+  
+  Push code naar je repository. Het maakt niet uit wat voor code het is. Let op: je mag de 'upload file'-optie op de Github website niet gebruiken. 
   
   ![commit.png](commit.png)
 
