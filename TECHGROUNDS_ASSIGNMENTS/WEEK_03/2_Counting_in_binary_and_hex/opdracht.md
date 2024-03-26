@@ -81,11 +81,11 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 |     |         |
 | --- | ------- |
 | Hex | Decimal |
-| 88  | <br>    |
-| e0  | <br>    |
-| cb  | <br>    |
-| 2f  | <br>    |
-| d8  | <br>    |
+| 88  |         |
+| e0  |         |
+| cb  |         |
+| 2f  |         |
+| d8  |         |
 
 ### Gebruikte bronnen
 
@@ -99,7 +99,7 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 
 - [Binary - The SIMPLEST explanation of Counting and Converting Binary numbers - YouTube](https://www.youtube.com/watch?v=RrJXLdv1i74)
 
--  
+- 
 
 ### Ervaren problemen
 
@@ -148,8 +148,8 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 |     |         |
 | --- | ------- |
 | Hex | Decimal |
-| 88  | <136>   |
-| e0  | <224>   |
-| cb  | <203>   |
-| 2f  | <47>    |
-| d8  | <216>   |
+| 88  | 136     |
+| e0  | 224     |
+| cb  | 203     |
+| 2f  | 47      |
+| d8  | 216     |
