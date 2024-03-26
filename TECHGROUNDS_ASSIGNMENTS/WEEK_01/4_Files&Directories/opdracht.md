@@ -8,7 +8,6 @@ The Linux filesystem starts at the root directory, represented by a slash (/). A
 
 The tilde (~) is used as an alias for your home directory.
 
-
 ## Key-terms
 
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
@@ -37,12 +36,13 @@ Exercise:
 
 Exercise:
 
-- Find out your current working directory.
-- Make a listing of all files and directories in your home directory.
-- Within your home directory, create a new directory named ‘techgrounds’.
+- Find out your current working directory. `pwd`
+- Make a listing of all files and directories in your home directory. `l ~/`
+- Within your home directory, create a new directory named ‘techgrounds’. `sudo mkdir techgrounds`
 - Within the techgrounds directory, create a file containing some text.
+  1/ `sudo touch text.txt` 
+  2/ `echo "Techgrounds is knowledge 2024" >> text.txt`
 - Move around your directory tree using both absolute and relative paths.
-
 
 Result of these exercises:
 ![dir&txt.png](dir&txt.png)
