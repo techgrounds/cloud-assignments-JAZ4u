@@ -99,7 +99,11 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 
 - [Binary - The SIMPLEST explanation of Counting and Converting Binary numbers - YouTube](https://www.youtube.com/watch?v=RrJXLdv1i74)
 
-- 
+- [How To Convert Decimal to Binary - YouTube](https://www.youtube.com/watch?v=rsxT4FfRBaM)
+
+- [How To Convert Decimal to Hexadecimal - YouTube](https://www.youtube.com/watch?v=QJW6qnfhC70)
+
+### 
 
 ### Ervaren problemen
 

@@ -84,8 +84,6 @@ This change was made to remove potentially offensive or exclusionary language fr
 
 The default branch typically serves as the primary development branch where the latest changes and updates are merged. It's the branch that is checked out by default when someone clones the repository or navigates to it on GitHub. However, users can still create and work with branches with different names depending on their workflow and project requirements.
 
-
-
 - Branch
   In GitHub, a branch is a parallel version of a repository's codebase. It allows developers to work on different features, fixes, or experiments without affecting the main codebase. Branches are essential for collaborative development workflows and are commonly used in conjunction with pull requests for code review and integration.
 
