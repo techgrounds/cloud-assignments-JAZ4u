@@ -93,6 +93,14 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 
 - https://www.rapidtables.com/convert/number/binary-to-decimal.html [Binary to Decimal Converter]
 
+- [Counting in Hexadecimal - YouTube](https://www.youtube.com/watch?v=kYTQcZu3C0o)
+
+- [Read and Write in Hexadecimal, The Easy Way! - YouTube](https://www.youtube.com/watch?v=bt4zavZCrLg)
+
+- [Binary - The SIMPLEST explanation of Counting and Converting Binary numbers - YouTube](https://www.youtube.com/watch?v=RrJXLdv1i74)
+
+-  
+
 ### Ervaren problemen
 
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
@@ -129,19 +137,19 @@ In both binary and hexadecimal, counting works similarly to counting in decimal;
 
 | Decimal | Hex |
 | ------- | --- |
-| 15      |     |
-| 37      |     |
-| 246     |     |
-| 125     |     |
-| 209     |     |
+| 15      | F   |
+| 37      | 25  |
+| 246     | F6  |
+| 125     | 7D  |
+| 209     | D1  |
 
 - Translate the following hexadecimal numbers into decimal:
 
 |     |         |
 | --- | ------- |
 | Hex | Decimal |
-| 88  | <br>    |
-| e0  | <br>    |
-| cb  | <br>    |
-| 2f  | <br>    |
-| d8  | <br>    |
+| 88  | <136>   |
+| e0  | <224>   |
+| cb  | <203>   |
+| 2f  | <47>    |
+| d8  | <216>   |
