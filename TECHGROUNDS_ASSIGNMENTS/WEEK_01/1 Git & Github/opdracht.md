@@ -121,26 +121,31 @@ Opdracht 1:
   - <mark>[LINK naar TechGrounds CloudAssignments] JAZ4u GITHUB] [JAZ4u TechGrounds Cloudassignments/cloud-assignments-JAZ4u) · GitHub](https://github.com/techgrounds/cloud-assignments-JAZ4u)</mark>
 
 - Maak een repository op je GitHub account. Deze repository gebruik je alleen om te testen. Je mag hem na de opdracht weer verwijderen.
+  `https://github.com/JAZ4u?tab=repositories`
 
 - Geef permissies aan je teamgenoten om de repository te gebruiken.
 
 - Push code naar je repository. Het maakt niet uit wat voor code het is. Let op: je mag de 'upload file'-optie op de Github website niet gebruiken. 
+  
+  ![commit.png](commit.png)
 
 - Pull / Clone een repository van je peer.
+  
+  ![cloned_repositories.png](cloned_repositories.png)
 
 - Tip: In Slack vind je een link naar de officiële Git & Github Fundamentals Classroom
 
  Opdracht 2:
 
 - Maak een nieuwe repository aan voor je portfolio via de GitHub Classroom-link in Slack.
-  https://github.com/techgrounds/cloud-assignments-JAZ4u
+  `https://github.com/techgrounds/cloud-assignments-JAZ4u`
 
 - Beschrijf voor jezelf hoe je je repository gaat inrichten op een manier zodat het voor iedereen (jezelf en buitenstaanders) duidelijk is wat de structuur is.
-  
-  ****************
-  
-  Het opzetten van een goed gestructureerde repository is essentieel voor het begrijpen en onderhouden van een project, zowel voor jezelf als voor buitenstaanders. Hier zijn enkele stappen om een duidelijke structuur te creëren:
+
+```
+Het opzetten van een goed gestructureerde repository is essentieel voor het begrijpen en onderhouden van een project, zowel voor jezelf als voor buitenstaanders. Hier zijn enkele stappen om een duidelijke structuur te creëren:
   ​
+
 1. **Leesbare documentatie toevoegen**:
    Begin met het toevoegen van een README-bestand in de hoofdmap van je repository. Dit README-bestand moet een overzicht geven van het project, de doelstellingen, instructies voor installatie en gebruik, en eventuele bijzonderheden over de structuur van de repository.
    ​
@@ -148,7 +153,7 @@ Opdracht 1:
 2. **Mapstructuur definiëren**:
    Bedenk een logische mapstructuur die de verschillende componenten van je project organiseert. Bijvoorbeeld:
    ​
-   
+
    - `src/`: voor broncodebestanden.
    - `docs/`: voor documentatiebestanden.
    - `tests/`: voor testbestanden.
@@ -180,5 +185,4 @@ Opdracht 1:
    Stel een proces op voor het beoordelen van code voordat deze wordt samengevoegd in de hoofdtak van het project. Dit helpt bij het identificeren van fouten, het delen van kennis en het handhaven van codekwaliteit.
    ​
    Door deze richtlijnen te volgen, kun je een goed gestructureerde repository creëren die gemakkelijk te begrijpen en te onderhouden is voor zowel jou als anderen die aan het project werken.
-   
-   *************
+```
