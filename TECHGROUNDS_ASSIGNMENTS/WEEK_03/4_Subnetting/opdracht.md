@@ -132,8 +132,5 @@ In deze configuratie fungeert de NAT-router als een barrière tussen de LAN-subn
 Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Github repository die je met de learning coach hebt gedeeld.
 
 ```
-
+https://github.com/techgrounds/cloud-assignments-JAZ4u/blob/main/TECHGROUNDS_ASSIGNMENTS/WEEK_03/4_Subnetting/opdracht.md
 ```
-
-- Zie hier een voorbeeld van hoe je een netwerkarchitectuur kan visualiseren:
-  ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/b5c66c5ee828179643b0a492b59ae637.png)
