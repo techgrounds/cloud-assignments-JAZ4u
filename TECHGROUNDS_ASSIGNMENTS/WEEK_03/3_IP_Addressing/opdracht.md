@@ -148,7 +148,7 @@ Public IP on : Phone
   
   Dan is er geen unieke route, en zal netwerkverkeer niet aankomen bij de juiste gebruiker/pc.
   
-  ![same_IP.jpeg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_03\3_IP_Addressing\same_IP.jpeg)
+  ![same_IP.jpeg](same_IP.jpeg)
 
 - Probeer het privé IP adres van je mobiel te veranderen naar een adres buiten je netwerk. Wat gebeurt er dan?
   
