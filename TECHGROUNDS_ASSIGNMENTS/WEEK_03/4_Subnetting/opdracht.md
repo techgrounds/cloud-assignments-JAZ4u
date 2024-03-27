@@ -8,8 +8,6 @@
 
 ## Opdracht
 
-
-
 - Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
 
 - 1 subnet dat alleen van binnen het LAN bereikbaar is. Dit subnet moet minimaal 15 hosts kunnen plaatsen.
@@ -26,7 +24,7 @@
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Beer:30 - Network Architecture Review - YouTube](https://www.youtube.com/watch?v=oopkClg1kxM)
 
 ### Ervaren problemen
 

@@ -9,12 +9,17 @@
 ## Opdracht
 
 Exercise
+
 - Design a network architecture for the above use case.
 - Explain your design decisions
 
 ### Gebruikte bronnen
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- https://www.youtube.com/watch?v=oopkClg1kxM
+  
+  Beer:30 - Network Architecture Review
+  
+  
 
 ### Ervaren problemen
 
@@ -23,5 +28,6 @@ Exercise
 ### Resultaat
 
  Exercise
+
 - Design a network architecture for the above use case.
 - Explain your design decisions
