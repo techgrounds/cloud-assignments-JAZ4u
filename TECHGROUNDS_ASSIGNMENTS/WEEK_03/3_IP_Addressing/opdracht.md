@@ -21,6 +21,10 @@ Een andere oplossing is IPv6. IPv6 adressen bevatten 128 bits, en is vaak gesch
 - Prive Netwerk
 - Prive IP 
 - Public IP
+  
+  ![public_vs_privateIP.png](public_vs_privateIP.png)
+  
+  
 
 ## Opdracht
 
