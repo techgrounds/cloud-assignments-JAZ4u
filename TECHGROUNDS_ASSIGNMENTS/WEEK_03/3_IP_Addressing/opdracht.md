@@ -44,7 +44,9 @@ Opdracht:
 ### Gebruikte bronnen
 
 - CHAT GPT
-- 
+- [How to find your IP address - The Verge](https://www.theverge.com/23351435/ip-address-how-to-find-macos-windows-ios-android-iphone)
+- https://whatismyipaddress.com/
+- [How to Change IP Address on Android Devices - PureVPN Blog](https://www.purevpn.com/blog/change-ip-address-android-devices/#How_to_Change_Your_IP_Address_of_Android_Phone)
 
 ### Ervaren problemen
 
