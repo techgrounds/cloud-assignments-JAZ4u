@@ -17,14 +17,16 @@ Een andere oplossing is IPv6. IPv6 adressen bevatten 128 bits, en is vaak gesch
 ## Key-terms
 
 - IPv4
+
 - IPv6
+
 - Prive Netwerk
+
 - Prive IP 
+
 - Public IP
   
   ![public_vs_privateIP.png](public_vs_privateIP.png)
-  
-  
 
 ## Opdracht
 
@@ -145,7 +147,7 @@ Public IP on : Phone
 
 - Zijn de adressen hetzelfde of niet? Leg uit waarom.
   
-  Ja , deze zijn voor beide apparaten hetzelfde , omdat het het verkregen ISP ipv4 adress  (heeft de router ) een public IPv4 is : 86.80.26.243
+  Ja , deze zijn voor beide apparaten hetzelfde , omdat het het verkregen ISP IPv4 adress  (heeft de router ) een public IPv4 is : 86.80.26.243
 
 - Ontdek wat je privé IP adres is van je laptop en mobiel op wifi.
   
@@ -153,23 +155,27 @@ Public IP on : Phone
   
   ![IP_tablet.png](IP_tablet.png)
   
-  IP Phone : (192.168.2.254)
+  IP Phone : (192.168.2.2)
   
   ![IP_phone.png](IP_phone.png)
   
   - Zijn de adressen hetzelfde of niet? Leg uit waarom.
     
-    Nee , want deze private Ip adressen zijn verkregen door de router en zijn neit publiek bekend.
+    Nee , want deze private IP adressen zijn verkregen door de router ,en zijn niet publiek bekend.
+    
+    
 
 - Verander het privé IP adres van je mobiel naar dat van je laptop. Wat gebeurt er dan?
   
-  Dan is er geen unieke route, en zal netwerkverkeer niet aankomen bij de juiste gebruiker/pc.
+  Dan is er geen unieke route, en zal netwerkverkeer niet aankomen bij de juiste gebruiker/pc/device.
   
   ![same_IP.jpeg](same_IP.jpeg)
 
 - Probeer het privé IP adres van je mobiel te veranderen naar een adres buiten je netwerk. Wat gebeurt er dan?
   
-  - " As long its on the same subnet. If your router was 192.168.1.1 you would want to keep the 192.168.1.X. Im pretty sure changing the subnet can make problems."
+  - OK if : as long it is on the same subnet. If your router was 192.168.1.1 you would want to keep the 192.168.1.X. 
+    
+    Changing the subnet can make problems!
   
   - Als je het privé-IP-adres van je mobiele apparaat verandert naar een adres buiten je lokale netwerk, zou dit normaal gesproken niet werken, omdat privé-IP-adressen buiten je lokale netwerk niet geldig zijn voor directe communicatie over het internet.
     
