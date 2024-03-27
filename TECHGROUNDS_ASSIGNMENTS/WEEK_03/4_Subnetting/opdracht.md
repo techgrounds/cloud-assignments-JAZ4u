@@ -79,8 +79,9 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 ### Gebruikte bronnen
 
-- [Beer:30 - Network Architecture Review - YouTube](https://www.youtube.com/watch?v=oopkClg1kxM)
 - https://www.calculator.net/ip-subnet-calculator.html
+- [subnetting is simple - YouTube](https://www.youtube.com/watch?v=ecCuyq-Wprc)
+- 
 
 ### Ervaren problemen
 
