@@ -154,7 +154,7 @@ Public IP on : Phone
 
 - Probeer het privé IP adres van je mobiel te veranderen naar een adres buiten je netwerk. Wat gebeurt er dan?
   
-  - " As long its on the same subnet. If your router was 192.168.1.1 you would want to keep the 192.168.1.X. Im pretty sure changing the subnet can make problems.
+  - " As long its on the same subnet. If your router was 192.168.1.1 you would want to keep the 192.168.1.X. Im pretty sure changing the subnet can make problems."
   
   - Als je het privé-IP-adres van je mobiele apparaat verandert naar een adres buiten je lokale netwerk, zou dit normaal gesproken niet werken, omdat privé-IP-adressen buiten je lokale netwerk niet geldig zijn voor directe communicatie over het internet.
     
