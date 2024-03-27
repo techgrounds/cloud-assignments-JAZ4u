@@ -1,12 +1,54 @@
 # [4\ Subnetting]
 
-[Geef een korte beschrijving van het onderwerp]
+Een netwerk is gedefinieerd als twee of meer devices die met elkaar verbonden zijn zodat ze data kunnen uitwisselen. Een Local Area Network (LAN) wordt vaak uitgedrukt als een range aan IP addresses. Elk device (host) krijgt een eigen adres binnen die range.
 
-## Key-terms
+Om dit te ondersteunen hebben netwerken een subnet mask (prefix) die definieert hoeveel bits van het IP adres onderdeel uitmaken van het netwerkadres, en hoeveel bits gereserveerd zijn voor de host.
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+Een subnet is een kleiner netwerk dat onderdeel is van een groter netwerk. Subnets kunnen worden gebruikt om een deel van het netwerk logisch te isoleren. Een subnet heeft per definitie een grotere prefix dan het netwerk waar het subnet in zit.
 
-## Opdracht
+Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
+
+# Key-terms
+
+- Subnetting
+  
+  Subnetting is the process of dividing a larger network into smaller, more manageable sub-networks called subnets. It's a fundamental concept in IP networking and is used to optimize network performance, manage network traffic, and conserve IP addresses. Subnetting involves partitioning a single network into multiple smaller networks, each with its own unique subnet address range.
+  
+  Here's how subnetting works:
+  
+  1. **IP Address Classes:**
+     
+     - IPv4 addresses are divided into classes: A, B, and C.
+     - Class A addresses have a default subnet mask of 255.0.0.0 (/8 prefix).
+     - Class B addresses have a default subnet mask of 255.255.0.0 (/16 prefix).
+     - Class C addresses have a default subnet mask of 255.255.255.0 (/24 prefix).
+  
+  2. **Subnet Masks:**
+     
+     - A subnet mask is a 32-bit number that defines the network portion and the host portion of an IP address.
+     - It consists of a series of consecutive 1s followed by a series of consecutive 0s.
+     - The number of 1s in the subnet mask determines the size of the network portion, while the number of 0s determines the size of the host portion.
+  
+  3. **Subnetting Process:**
+     
+     - To subnet a network, you borrow bits from the host portion of the IP address to create additional subnet bits.
+     - By borrowing bits, you create smaller subnets with fewer host addresses per subnet.
+     - The number of bits borrowed determines the number of subnets and hosts per subnet.
+     - The subnet mask is adjusted accordingly to reflect the new subnet structure.
+  
+  4. **Benefits of Subnetting:**
+     
+     - Efficient Utilization of IP Addresses: Subnetting allows for more efficient use of IP address space by dividing a larger network into smaller, more manageable subnets.
+     - Improved Network Performance: Smaller subnets can reduce network congestion and improve performance by limiting broadcast domains and controlling traffic flow.
+     - Enhanced Security: Subnetting helps improve network security by isolating different parts of the network and controlling access between subnets using routers and access control lists (ACLs).
+  
+  5. **Subnetting Examples:**
+     
+     - For example, if you have a Class C network (e.g., 192.168.1.0) and you want to create four subnets, you would borrow two bits from the host portion of the IP address. This would result in four subnets with subnet masks of 255.255.255.192 (/26 prefix), each containing 62 usable host addresses.
+  
+  Overall, subnetting is a crucial aspect of IP networking that enables efficient address allocation, improved network performance, and enhanced security in large-scale networks.
+
+- ## Opdracht
 
 - Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
 
@@ -25,6 +67,7 @@
 ### Gebruikte bronnen
 
 - [Beer:30 - Network Architecture Review - YouTube](https://www.youtube.com/watch?v=oopkClg1kxM)
+- https://www.calculator.net/ip-subnet-calculator.html
 
 ### Ervaren problemen
 

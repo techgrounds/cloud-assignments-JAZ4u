@@ -145,5 +145,25 @@ Public IP on : Phone
     Nee , want deze private Ip adressen zijn verkregen door de router en zijn neit publiek bekend.
 
 - Verander het privé IP adres van je mobiel naar dat van je laptop. Wat gebeurt er dan?
+  
+  Dan is er geen unieke route, en zal netwerkverkeer niet aankomen bij de juiste gebruiker/pc.
+  
+  ![same_IP.jpeg](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_03\3_IP_Addressing\same_IP.jpeg)
 
 - Probeer het privé IP adres van je mobiel te veranderen naar een adres buiten je netwerk. Wat gebeurt er dan?
+  
+  - " As long its on the same subnet. If your router was 192.168.1.1 you would want to keep the 192.168.1.X. Im pretty sure changing the subnet can make problems.
+  
+  - Als je het privé-IP-adres van je mobiele apparaat verandert naar een adres buiten je lokale netwerk, zou dit normaal gesproken niet werken, omdat privé-IP-adressen buiten je lokale netwerk niet geldig zijn voor directe communicatie over het internet.
+    
+    Hier is wat er zou kunnen gebeuren:
+    
+    1. **Niet-Functionele Communicatie:** Als je een privé-IP-adres van buiten je lokale netwerk probeert te gebruiken, zal het apparaat waarschijnlijk geen functionele netwerkverbinding hebben. Dit komt doordat privé-IP-adressen zijn gereserveerd voor intern gebruik binnen een netwerk en niet worden gerouteerd via het openbare internet.
+    
+    2. **Onbereikbaarheid:** Apparaten en servers op internet zouden niet in staat zijn om rechtstreeks te communiceren met het apparaat met het ongeldige privé-IP-adres. Het verkeer zou waarschijnlijk worden verworpen door de routers op internet, omdat het afkomstig lijkt te zijn van een niet-toegewezen of ongeldig IP-adresbereik.
+    
+    3. **Natuurlijke Firewall:** Het apparaat zelf zou kunnen fungeren als een soort 'firewall', waarbij inkomend verkeer dat is gericht op een privé-IP-adres van buiten het lokale netwerk wordt verworpen vanwege het ongeldige adres.
+    
+    Over het algemeen is het niet mogelijk om een privé-IP-adres van buiten het lokale netwerk te gebruiken voor directe communicatie over het internet. Als je externe toegang tot je mobiele apparaat nodig hebt, zou je in plaats daarvan moeten kijken naar technieken zoals port forwarding, VPN (Virtual Private Network), of andere methoden voor externe toegang, afhankelijk van je specifieke behoeften.
+
+            
