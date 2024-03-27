@@ -47,8 +47,6 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
      - For example, if you have a Class C network (e.g., 192.168.1.0) and you want to create four subnets, you would borrow two bits from the host portion of the IP address. This would result in four subnets with subnet masks of 255.255.255.192 (/26 prefix), each containing 62 usable host addresses.
   
   Overall, subnetting is a crucial aspect of IP networking that enables efficient address allocation, improved network performance, and enhanced security in large-scale networks.
-  
-  
 
 - CIDR notation
   
@@ -63,23 +61,21 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
   - `2001:0db8:85a3::/48`: This represents the IPv6 address range from `2001:0db8:85a3:0000:0000:0000:0000:0000` to `2001:0db8:85a3:ffff:ffff:ffff:ffff:ffff`, where the first 48 bits represent the network portion, and the remaining bits represent the host portion.
   
   CIDR notation is commonly used in networking for routing purposes, as it allows for more flexible allocation of IP addresses compared to the traditional class-based IP addressing (Class A, B, and C) which had fixed subnet masks associated with each class. With CIDR notation, networks can be subdivided into smaller or larger subnets as needed, providing more efficient use of IP address space.
-  
-  
 
 - ## Opdracht
 
 - Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
-
+  
   - 1 subnet dat alleen van binnen het LAN bereikbaar is. Dit subnet moet minimaal 15 hosts kunnen plaatsen.
-
+  
   - 1 subnet dat internet toegang heeft via een router met NAT-functionaliteit. Dit subnet moet minimaal 30 hosts kunnen plaatsen (de 30 hosts is exclusief de router).
-
+  
   - 1 subnet met een network gateway naar het internet. Dit subnet moet minimaal 5 hosts kunnen plaatsen (de 5 hosts is exclusief de internet gateway).
 
 - Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Github repository die je met de learning coach hebt gedeeld.
 
 - Zie hier een voorbeeld van hoe je een netwerkarchitectuur kan visualiseren:
-![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/b5c66c5ee828179643b0a492b59ae637.png)
+  ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/b5c66c5ee828179643b0a492b59ae637.png)
 
 ### Gebruikte bronnen
 
@@ -94,15 +90,50 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 Opdracht:
 
-- Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
+Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
 
-  - 1 subnet dat alleen van binnen het LAN bereikbaar is. Dit subnet moet minimaal 15 hosts kunnen plaatsen.
+- 1 subnet dat alleen van binnen het LAN bereikbaar is. Dit subnet moet minimaal 15 hosts kunnen plaatsen.
 
-  - 1 subnet dat internet toegang heeft via een router met NAT-functionaliteit. Dit subnet moet minimaal 30 hosts kunnen plaatsen (de 30 hosts is exclusief de router).
+```
+    LAN Subnet (Private Subnet):
 
-  - 1 subnet met een network gateway naar het internet. Dit subnet moet minimaal 5 hosts kunnen plaatsen (de 5 hosts is exclusief de internet gateway).
 
-- Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Github repository die je met de learning coach hebt gedeeld.
+Subnet Range: 192.168.0.0/28
+Beschikbare Hostadressen: 192.168.0.1 - 192.168.0.14
+Subnet Mask: 255.255.255.240 (/28)
+Dit subnet is alleen bereikbaar van binnen het LAN en kan minimaal 15 hosts plaatsen.
+```
+
+- 1 subnet dat internet toegang heeft via een router met NAT-functionaliteit. Dit subnet moet minimaal 30 hosts kunnen plaatsen (de 30 hosts is exclusief de router).
+
+```
+NAT Subnet (Private Subnet met NAT-router):
+
+Subnet Range: 192.168.0.16/27
+Beschikbare Hostadressen: 192.168.0.17 - 192.168.0.46
+Subnet Mask: 255.255.255.224 (/27)
+Een router met NAT-functionaliteit verbindt dit subnet met het internet.
+Dit subnet heeft internettoegang en kan minimaal 30 hosts plaatsen.
+```
+
+- 1 subnet met een network gateway naar het internet. Dit subnet moet minimaal 5 hosts kunnen plaatsen (de 5 hosts is exclusief de internet gateway).
+
+```
+Internet Gateway Subnet (Public Subnet):
+Subnet Range: Public IP-adres
+Beschikbare Hostadressen: Public IP-adres van de internetgateway
+Subnet Mask: N/A (afhankelijk van het gebruikte IP-adres)
+Deze subnetfunctie omvat de internetgateway die verbinding maakt met het internet.
+Het heeft minimaal 5 hosts, die kunnen worden gebruikt voor netwerkapparatuur zoals routers, firewalls, enz.
+
+In deze configuratie fungeert de NAT-router als een barrière tussen de LAN-subnetten en het internet, waarbij het verkeer van de private subnets wordt omgezet naar het publieke IP-adres van de internetgateway. Het LAN-subnet is volledig gescheiden van het internet en alleen bereikbaar vanuit het lokale netwerk, terwijl het NAT-subnet toegang heeft tot internet via de NAT-router. De internetgateway subnet fungeert als de gateway naar het internet en biedt connectiviteit voor het NAT-subnet en eventuele andere externe services.  
+```
+
+Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Github repository die je met de learning coach hebt gedeeld.
+
+```
+
+```
 
 - Zie hier een voorbeeld van hoe je een netwerkarchitectuur kan visualiseren:
-![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/b5c66c5ee828179643b0a492b59ae637.png)
+  ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/b5c66c5ee828179643b0a492b59ae637.png)
