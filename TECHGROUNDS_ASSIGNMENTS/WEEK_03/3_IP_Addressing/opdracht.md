@@ -43,9 +43,20 @@ Opdracht:
 
 ### Gebruikte bronnen
 
+- [Private vs. Public IP Addresses | Differences Explained | Avast](https://www.avast.com/c-ip-address-public-vs-private)
+
 - CHAT GPT
+
 - [How to find your IP address - The Verge](https://www.theverge.com/23351435/ip-address-how-to-find-macos-windows-ios-android-iphone)
+
 - https://whatismyipaddress.com/
+
+- https://www.quora.com/What-happens-if-someone-were-to-change-their-IP-address-to-the-same-as-mine
+
+- https://www.quora.com/What-will-happen-if-a-private-IP-address-is-assigned-to-a-public-interface-connected-to-an-ISP
+
+- https://superuser.com/questions/192157/can-you-manually-assign-ip-address-that-is-out-of-the-dhcp-range
+
 - [How to Change IP Address on Android Devices - PureVPN Blog](https://www.purevpn.com/blog/change-ip-address-android-devices/#How_to_Change_Your_IP_Address_of_Android_Phone)
 
 ### Ervaren problemen
