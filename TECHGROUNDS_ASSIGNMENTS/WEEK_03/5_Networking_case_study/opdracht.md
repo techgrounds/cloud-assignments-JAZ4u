@@ -41,8 +41,6 @@ As a network administrator you get to choose which networking devices get used.
   6. **Export and Import:** Users can export diagrams in various formats, including PNG, JPEG, SVG, PDF, and XML. Additionally, diagrams created in other applications can be imported into diagrams.net for further editing or collaboration.
   
   Overall, diagrams.net is a versatile and user-friendly tool for creating diagrams and flowcharts, suitable for individuals, teams, and organizations across different industries and domains.
-  
-  
 
 - Network Case Study
   
@@ -73,6 +71,25 @@ As a network administrator you get to choose which networking devices get used.
   Overall, network case studies provide valuable insights into real-world networking scenarios, helping practitioners and organizations learn from both successes and failures in network design and management.
   
   
+
+- VLAN
+  A VLAN, or Virtual Local Area Network, is a technology used in computer networking to logically divide a single physical network into multiple broadcast domains. This segmentation allows network administrators to create isolated networks within the same physical infrastructure, providing improved security, performance, and manageability.
+  
+  Here are some key points about VLANs:
+  
+  1. **Logical Segmentation:** VLANs create virtual LANs by grouping together devices based on criteria such as department, function, or security requirements, regardless of their physical location within the network.
+  
+  2. **Broadcast Control:** By dividing the network into multiple VLANs, broadcast traffic is contained within each VLAN, reducing network congestion and improving overall network performance.
+  
+  3. **Enhanced Security:** VLANs provide security benefits by isolating traffic between different segments of the network. Devices within one VLAN typically cannot communicate directly with devices in another VLAN without the use of routing or firewall rules.
+  
+  4. **Flexibility and Scalability:** VLANs offer flexibility in network design and allow for easy reconfiguration as network requirements change. They also enable efficient use of network resources and facilitate network expansion without the need for physical reconfiguration.
+  
+  5. **Simplifies Network Management:** VLANs simplify network management by allowing administrators to apply consistent policies and configurations across groups of devices within a VLAN. This centralized management approach enhances network administration and troubleshooting.
+  
+  6. **Inter-VLAN Communication:** While VLANs isolate traffic within their own broadcast domain, communication between VLANs requires routing or Layer 3 devices such as routers or Layer 3 switches. This allows for controlled communication between different segments of the network while maintaining segmentation for security purposes.
+  
+  Overall, VLANs provide a powerful tool for network segmentation, enabling organizations to optimize network performance, enhance security, and streamline network management. They are widely used in enterprise environments, data centers, and service provider networks to create scalable and secure network architectures.
 
 ## Opdracht
 
