@@ -69,29 +69,95 @@ As a network administrator you get to choose which networking devices get used.
   - Security enhancements for a network infrastructure to protect against cyber threats and data breaches.
   
   Overall, network case studies provide valuable insights into real-world networking scenarios, helping practitioners and organizations learn from both successes and failures in network design and management.
+
+- Edge Router
+  
+  An edge router is a specialized network device located at the boundary or edge of a network, where a local network connects to external networks such as the internet or other wide area networks (WANs). Edge routers play a critical role in routing traffic between the local network and external networks, serving as the entry and exit points for data entering or leaving the network.
+  
+  Here are key aspects of edge routers:
+  
+  1. **Boundary Device:** Edge routers are positioned at the perimeter or boundary of a network, serving as the interface between the internal network infrastructure and external networks. They typically connect to internet service providers (ISPs) or other WAN connections.
+  
+  2. **Routing Functionality:** Edge routers perform the core function of routing, which involves forwarding data packets between networks based on IP addresses and routing tables. They make decisions about the optimal paths for data to travel, directing traffic to its destination efficiently.
+  
+  3. **Network Address Translation (NAT):** Edge routers often include NAT functionality, which allows them to translate between private IP addresses used within the local network and public IP addresses used on the internet. NAT helps conserve public IP addresses and adds a layer of security by hiding internal network addresses from external networks.
+  
+  4. **Firewall and Security Features:** Edge routers may incorporate firewall capabilities to enforce security policies and filter incoming and outgoing traffic. They can block unauthorized access attempts, prevent malicious traffic, and protect the internal network from external threats.
+  
+  5. **Quality of Service (QoS):** Some edge routers support QoS features, allowing administrators to prioritize certain types of traffic over others based on defined criteria. This ensures that critical applications or services receive sufficient bandwidth and network resources to operate effectively.
+  
+  6. **VPN Connectivity:** Edge routers often support virtual private network (VPN) functionality, allowing remote users or branch offices to securely connect to the corporate network over the internet. They establish encrypted tunnels to protect data transmission and provide secure remote access to network resources.
+  
+  7. **Load Balancing and Redundancy:** In high-availability environments, edge routers may include features for load balancing and redundancy to ensure continuous network operation. They can distribute traffic across multiple WAN links or paths and automatically failover to backup connections in case of link failures.
+  
+  Overall, edge routers are essential components of network infrastructure, serving as the gateway between internal and external networks while providing essential routing, security, and connectivity features. They play a crucial role in ensuring the reliability, performance, and security of network communications for organizations of all sizes.
+  
+  
+
+- Firewall
+  
+  A firewall is a network security device or software application that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Firewalls act as a barrier between a trusted internal network and untrusted external networks (such as the internet), inspecting each packet of data passing through and determining whether to allow or block it based on defined criteria.
+  
+  Here are key aspects of firewalls:
+  
+  1. **Packet Filtering:** Firewalls examine packets of data as they pass through the network and compare them against a set of rules or criteria. These criteria typically include attributes such as source and destination IP addresses, port numbers, and protocols (e.g., TCP, UDP).
+  
+  2. **Stateful Inspection:** Modern firewalls often incorporate stateful inspection, which tracks the state of active connections and makes decisions based on the context of the traffic flow. This approach helps identify and block unauthorized or malicious traffic more effectively.
+  
+  3. **Access Control:** Firewalls enforce access control policies that determine which types of traffic are allowed to enter or exit the network. This allows organizations to restrict access to sensitive resources and services, protecting against unauthorized access and potential security threats.
+  
+  4. **Application Layer Filtering:** Some advanced firewalls perform deep packet inspection (DPI) at the application layer, allowing them to analyze the contents of network packets and make decisions based on specific application protocols or payloads. This enables more granular control over traffic and helps detect and prevent advanced threats.
+  
+  5. **Network Segmentation:** Firewalls are commonly used to segment networks into security zones or segments, separating different parts of the network and controlling traffic flow between them. This helps contain security breaches and minimize the impact of potential security incidents.
+  
+  6. **VPN and Remote Access:** Firewalls often include features for virtual private network (VPN) connectivity and remote access. They can securely connect remote users or branch offices to the corporate network over the internet while encrypting traffic to ensure confidentiality and integrity.
+  
+  7. **Intrusion Prevention:** Some firewalls integrate intrusion prevention system (IPS) capabilities to actively detect and block suspicious or malicious traffic patterns in real-time. This adds an extra layer of defense against network-based attacks and exploits.
+  
+  Firewalls are a fundamental component of network security architecture, serving as the first line of defense against external threats and unauthorized access attempts. They play a crucial role in protecting the confidentiality, integrity, and availability of network resources and data.
+  
+  
+
+- ACL
+  
+  An ACL, or Access Control List, is a set of rules or configurations that control and filter network traffic based on defined criteria. ACLs are commonly used in network devices such as routers, switches, and firewalls to enforce security policies and regulate access to network resources.
+  
+  Here are some key aspects of ACLs:
+  
+  1. **Filtering Criteria:** ACLs use various criteria to filter traffic, including source and destination IP addresses, protocols (such as TCP, UDP, or ICMP), port numbers, and other packet attributes like VLAN tags or DSCP markings.
+  
+  2. **Rule Structure:** ACLs consist of individual rules, also known as access control entries (ACEs), that specify conditions for permitting or denying traffic. Each rule defines a particular set of criteria (such as source IP address range and destination port) and an action to take (permit or deny) when traffic matches those criteria.
+  
+  3. **Order of Processing:** ACL rules are typically processed in order, with traffic being compared against each rule sequentially until a match is found. Once a match is found, the corresponding action specified in the rule is applied, and further processing of the ACL stops. It's essential to consider the order of ACL rules to ensure that more specific rules precede more general ones.
+  
+  4. **Implicit Deny:** Many ACL implementations include an implicit "deny all" rule at the end of the ACL. This means that if traffic doesn't match any of the explicitly defined rules in the ACL, it is automatically denied by default. It's crucial to be mindful of this implicit deny rule when configuring ACLs to avoid inadvertently blocking desired traffic.
+  
+  5. **Directionality:** ACLs can be applied in different directions on a network interface, such as inbound or outbound on a router interface or ingress or egress on a switch port. The directionality determines whether the ACL applies to traffic entering or exiting the network interface.
+  
+  6. **Use Cases:** ACLs are used for various purposes, including network security, traffic filtering, access control, quality of service (QoS) enforcement, and network optimization. They help organizations enforce security policies, restrict access to sensitive resources, and manage network traffic effectively.
+  
+  Overall, ACLs play a critical role in network security and traffic management by allowing organizations to control and filter network traffic based on predefined criteria, thereby enhancing security, performance, and compliance with organizational policies.
   
   
 
 - VLAN
   
-  
   A VLAN, or Virtual Local Area Network, is a technology used in computer networking to logically divide a single physical network into multiple broadcast domains. This segmentation allows network administrators to create isolated networks within the same physical infrastructure, providing improved security, performance, and manageability.
   
   Here are some key points about VLANs:
-  
-  1. **Logical Segmentation:** VLANs create virtual LANs by grouping together devices based on criteria such as department, function, or security requirements, regardless of their physical location within the network.
-  
-  2. **Broadcast Control:** By dividing the network into multiple VLANs, broadcast traffic is contained within each VLAN, reducing network congestion and improving overall network performance.
-  
-  3. **Enhanced Security:** VLANs provide security benefits by isolating traffic between different segments of the network. Devices within one VLAN typically cannot communicate directly with devices in another VLAN without the use of routing or firewall rules.
-  
-  4. **Flexibility and Scalability:** VLANs offer flexibility in network design and allow for easy reconfiguration as network requirements change. They also enable efficient use of network resources and facilitate network expansion without the need for physical reconfiguration.
-  
-  5. **Simplifies Network Management:** VLANs simplify network management by allowing administrators to apply consistent policies and configurations across groups of devices within a VLAN. This centralized management approach enhances network administration and troubleshooting.
-  
-  6. **Inter-VLAN Communication:** While VLANs isolate traffic within their own broadcast domain, communication between VLANs requires routing or Layer 3 devices such as routers or Layer 3 switches. This allows for controlled communication between different segments of the network while maintaining segmentation for security purposes.
-  
-  Overall, VLANs provide a powerful tool for network segmentation, enabling organizations to optimize network performance, enhance security, and streamline network management. They are widely used in enterprise environments, data centers, and service provider networks to create scalable and secure network architectures.
+1. **Logical Segmentation:** VLANs create virtual LANs by grouping together devices based on criteria such as department, function, or security requirements, regardless of their physical location within the network.
+
+2. **Broadcast Control:** By dividing the network into multiple VLANs, broadcast traffic is contained within each VLAN, reducing network congestion and improving overall network performance.
+
+3. **Enhanced Security:** VLANs provide security benefits by isolating traffic between different segments of the network. Devices within one VLAN typically cannot communicate directly with devices in another VLAN without the use of routing or firewall rules.
+
+4. **Flexibility and Scalability:** VLANs offer flexibility in network design and allow for easy reconfiguration as network requirements change. They also enable efficient use of network resources and facilitate network expansion without the need for physical reconfiguration.
+
+5. **Simplifies Network Management:** VLANs simplify network management by allowing administrators to apply consistent policies and configurations across groups of devices within a VLAN. This centralized management approach enhances network administration and troubleshooting.
+
+6. **Inter-VLAN Communication:** While VLANs isolate traffic within their own broadcast domain, communication between VLANs requires routing or Layer 3 devices such as routers or Layer 3 switches. This allows for controlled communication between different segments of the network while maintaining segmentation for security purposes.
+   
+   Overall, VLANs provide a powerful tool for network segmentation, enabling organizations to optimize network performance, enhance security, and streamline network management. They are widely used in enterprise environments, data centers, and service provider networks to create scalable and secure network architectures.
 
 ## Opdracht
 
