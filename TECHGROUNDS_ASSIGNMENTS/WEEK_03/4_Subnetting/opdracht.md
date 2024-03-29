@@ -48,17 +48,35 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
   
   Overall, subnetting is a crucial aspect of IP networking that enables efficient address allocation, improved network performance, and enhanced security in large-scale networks.
 
+- NAT
+  
+  NAT stands for Network Address Translation. It's a method used in computer networking to modify network address information in the IP header of packets while they are in transit across a traffic routing device.
+  
+  The primary purpose of NAT is to conserve IP addresses. In the early days of the internet, IP addresses were a finite resource, and NAT allowed multiple devices within a private network to share a single public IP address. This is achieved by translating the private IP addresses of devices within the local network to a single public IP address when they communicate with devices outside of the local network, and vice versa.
+  
+  NAT comes in different types, including:
+  
+  1. **Static NAT:** In this type, a one-to-one mapping is established between a private IP address and a public IP address. It's typically used when a device within the local network needs to be accessible from the internet.
+  
+  2. **Dynamic NAT:** With dynamic NAT, the translation of private IP addresses to public IP addresses is done dynamically as needed. A pool of public IP addresses is usually configured, and they are assigned to devices on a first-come, first-served basis.
+  
+  3. **NAT Overload (PAT - Port Address Translation):** This is also known as NAT with Port Address Translation (PAT). In PAT, multiple private IP addresses are mapped to a single public IP address, differentiating them by using unique port numbers. This is the most common form of NAT used in home and small office networks.
+  
+  NAT provides a level of security by hiding the internal IP addresses of devices from the external network, acting as a barrier between the internal network and the internet. However, it can sometimes cause issues with certain types of network traffic, such as peer-to-peer applications or IP-based protocols that embed IP addresses within the data payload.
+  
+  
+
 - CIDR notation
-  
+
   CIDR notation, which stands for Classless Inter-Domain Routing notation, is a compact representation of an IP address and its associated network prefix. It's used to specify a range of IP addresses and their subnet masks in a concise format.
-  
+
   In CIDR notation, an IP address is followed by a slash ("/") and a number representing the number of significant bits in the network prefix. This number indicates the number of bits that are fixed for the network portion of the IP address.
-  
+
   For example:
-  
-  - `192.168.1.0/24`: This represents the IPv4 address range from `192.168.1.0` to `192.168.1.255`, where the first 24 bits (the first three octets) represent the network portion, and the last 8 bits (the fourth octet) represent the host portion.
-  
-  - `2001:0db8:85a3::/48`: This represents the IPv6 address range from `2001:0db8:85a3:0000:0000:0000:0000:0000` to `2001:0db8:85a3:ffff:ffff:ffff:ffff:ffff`, where the first 48 bits represent the network portion, and the remaining bits represent the host portion.
+
+- `192.168.1.0/24`: This represents the IPv4 address range from `192.168.1.0` to `192.168.1.255`, where the first 24 bits (the first three octets) represent the network portion, and the last 8 bits (the fourth octet) represent the host portion.
+
+- `2001:0db8:85a3::/48`: This represents the IPv6 address range from `2001:0db8:85a3:0000:0000:0000:0000:0000` to `2001:0db8:85a3:ffff:ffff:ffff:ffff:ffff`, where the first 48 bits represent the network portion, and the remaining bits represent the host portion.
   
   CIDR notation is commonly used in networking for routing purposes, as it allows for more flexible allocation of IP addresses compared to the traditional class-based IP addressing (Class A, B, and C) which had fixed subnet masks associated with each class. With CIDR notation, networks can be subdivided into smaller or larger subnets as needed, providing more efficient use of IP address space.
   
