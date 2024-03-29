@@ -63,15 +63,13 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
   3. **NAT Overload (PAT - Port Address Translation):** This is also known as NAT with Port Address Translation (PAT). In PAT, multiple private IP addresses are mapped to a single public IP address, differentiating them by using unique port numbers. This is the most common form of NAT used in home and small office networks.
   
   NAT provides a level of security by hiding the internal IP addresses of devices from the external network, acting as a barrier between the internal network and the internet. However, it can sometimes cause issues with certain types of network traffic, such as peer-to-peer applications or IP-based protocols that embed IP addresses within the data payload.
-  
-  
 
 - CIDR notation
-
+  
   CIDR notation, which stands for Classless Inter-Domain Routing notation, is a compact representation of an IP address and its associated network prefix. It's used to specify a range of IP addresses and their subnet masks in a concise format.
-
+  
   In CIDR notation, an IP address is followed by a slash ("/") and a number representing the number of significant bits in the network prefix. This number indicates the number of bits that are fixed for the network portion of the IP address.
-
+  
   For example:
 
 - `192.168.1.0/24`: This represents the IPv4 address range from `192.168.1.0` to `192.168.1.255`, where the first 24 bits (the first three octets) represent the network portion, and the last 8 bits (the fourth octet) represent the host portion.
@@ -109,11 +107,19 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 - [IP Subnetting from CIDR Notations - YouTube](https://www.youtube.com/watch?v=POPoAjWFkGg&ab_channel=JoshuaButcher)
 
+- [What is subnetting ? How subnetting works ? What is subnet mask? | Explained with real-life exmples - YouTube](https://www.youtube.com/watch?v=qulRjRFavJI)
+
+- [Subnetting a Class C IP Address: 192.168.100.154/27 - YouTube](https://www.youtube.com/watch?v=i5jcfbj_TrI)
+
+- [IPv4 Addressing Simplified ➕➖ - YouTube](https://www.youtube.com/watch?v=Hv4epEIP3Mk)
+
 - 
 
 ### Ervaren problemen
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- IPv4 is explained in different ways 
+
+- The fact that HEXADECIMAL IPv6 adresses are just too much for me to claculate
 
 # Resultaat
 
