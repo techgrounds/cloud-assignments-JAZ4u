@@ -91,8 +91,6 @@ As a network administrator you get to choose which networking devices get used.
   7. **Load Balancing and Redundancy:** In high-availability environments, edge routers may include features for load balancing and redundancy to ensure continuous network operation. They can distribute traffic across multiple WAN links or paths and automatically failover to backup connections in case of link failures.
   
   Overall, edge routers are essential components of network infrastructure, serving as the gateway between internal and external networks while providing essential routing, security, and connectivity features. They play a crucial role in ensuring the reliability, performance, and security of network communications for organizations of all sizes.
-  
-  
 
 - Firewall
   
@@ -115,8 +113,6 @@ As a network administrator you get to choose which networking devices get used.
   7. **Intrusion Prevention:** Some firewalls integrate intrusion prevention system (IPS) capabilities to actively detect and block suspicious or malicious traffic patterns in real-time. This adds an extra layer of defense against network-based attacks and exploits.
   
   Firewalls are a fundamental component of network security architecture, serving as the first line of defense against external threats and unauthorized access attempts. They play a crucial role in protecting the confidentiality, integrity, and availability of network resources and data.
-  
-  
 
 - ACL
   
@@ -137,6 +133,31 @@ As a network administrator you get to choose which networking devices get used.
   6. **Use Cases:** ACLs are used for various purposes, including network security, traffic filtering, access control, quality of service (QoS) enforcement, and network optimization. They help organizations enforce security policies, restrict access to sensitive resources, and manage network traffic effectively.
   
   Overall, ACLs play a critical role in network security and traffic management by allowing organizations to control and filter network traffic based on predefined criteria, thereby enhancing security, performance, and compliance with organizational policies.
+  
+  
+
+- Network Architecture
+  Network architecture refers to the design and structure of a computer network, encompassing its components, layout, protocols, and technologies. It defines how different devices and systems within the network are organized and connected to enable communication and data exchange.
+  
+  Key components of network architecture include:
+  
+  1. **Topology:** Network topology refers to the physical or logical layout of network devices and connections. Common topologies include star, bus, ring, mesh, and hybrid configurations, each with its own advantages and limitations in terms of scalability, fault tolerance, and performance.
+  
+  2. **Components:** Network architecture includes various hardware and software components such as routers, switches, firewalls, access points, servers, endpoints (e.g., computers, printers), cables, and networking devices. These components work together to facilitate communication and data transfer across the network.
+  
+  3. **Protocols:** Network protocols define the rules and standards for communication between devices on a network. This includes protocols at different layers of the OSI (Open Systems Interconnection) model, such as TCP/IP, Ethernet, Wi-Fi (802.11), DNS (Domain Name System), DHCP (Dynamic Host Configuration Protocol), and others.
+  
+  4. **Layers:** Network architecture often follows a layered approach, such as the OSI model or the TCP/IP model, to organize and standardize network functionality. Each layer addresses specific aspects of communication, such as physical transmission, addressing, routing, and application services.
+  
+  5. **Scalability:** Network architecture must be designed to accommodate growth and scalability, allowing for the addition of new devices, users, and services without significant disruption or degradation in performance. Scalability considerations include network bandwidth, addressing schemes, and capacity planning.
+  
+  6. **Security:** Security is a critical aspect of network architecture, involving measures to protect network resources, data, and communications from unauthorized access, tampering, or disruption. This includes implementing firewalls, intrusion detection/prevention systems, access control mechanisms, encryption, and security policies.
+  
+  7. **Reliability and Redundancy:** Network architecture should incorporate redundancy and fault tolerance mechanisms to ensure high availability and reliability. This may include redundant hardware components, backup links, failover configurations, and disaster recovery plans to minimize downtime and data loss.
+  
+  8. **Management and Monitoring:** Effective network architecture includes provisions for network management and monitoring, allowing administrators to configure, troubleshoot, and optimize network performance. This may involve network management tools, monitoring systems, logging, and performance analysis.
+  
+  Overall, network architecture plays a fundamental role in defining the structure, operation, and performance of computer networks. A well-designed architecture enables efficient communication, enhances security, supports scalability, and ensures the reliability of network services for organizations and users.
   
   
 
