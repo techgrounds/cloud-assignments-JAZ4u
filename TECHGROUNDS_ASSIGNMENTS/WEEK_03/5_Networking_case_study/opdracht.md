@@ -61,7 +61,7 @@ Exercise
 
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
-### Resultaat
+# Resultaat
 
  Exercise
 
