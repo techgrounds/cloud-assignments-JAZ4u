@@ -71,12 +71,35 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
   In CIDR notation, an IP address is followed by a slash ("/") and a number representing the number of significant bits in the network prefix. This number indicates the number of bits that are fixed for the network portion of the IP address.
   
   For example:
-
-- `192.168.1.0/24`: This represents the IPv4 address range from `192.168.1.0` to `192.168.1.255`, where the first 24 bits (the first three octets) represent the network portion, and the last 8 bits (the fourth octet) represent the host portion.
-
-- `2001:0db8:85a3::/48`: This represents the IPv6 address range from `2001:0db8:85a3:0000:0000:0000:0000:0000` to `2001:0db8:85a3:ffff:ffff:ffff:ffff:ffff`, where the first 48 bits represent the network portion, and the remaining bits represent the host portion.
+  
+  - `192.168.1.0/24`: This represents the IPv4 address range from `192.168.1.0` to `192.168.1.255`, where the first 24 bits (the first three octets) represent the network portion, and the last 8 bits (the fourth octet) represent the host portion.
+  
+  - `2001:0db8:85a3::/48`: This represents the IPv6 address range from `2001:0db8:85a3:0000:0000:0000:0000:0000` to `2001:0db8:85a3:ffff:ffff:ffff:ffff:ffff`, where the first 48 bits represent the network portion, and the remaining bits represent the host portion.
   
   CIDR notation is commonly used in networking for routing purposes, as it allows for more flexible allocation of IP addresses compared to the traditional class-based IP addressing (Class A, B, and C) which had fixed subnet masks associated with each class. With CIDR notation, networks can be subdivided into smaller or larger subnets as needed, providing more efficient use of IP address space.
+  
+  
+
+- Subnet Mask
+  
+  The subnet mask is a 32-bit number used in IPv4 networking to divide an IP address into two parts: the network address and the host address. It is represented in either dotted decimal notation (e.g., 255.255.255.0) or in CIDR notation (e.g., /24).
+  
+  Here's what the subnet mask does:
+  
+  1. **Defines the Network Portion:** The subnet mask determines which portion of an IP address identifies the network. Bits set to "1" in the subnet mask represent the network portion, while bits set to "0" represent the host portion.
+  
+  2. **Determines the Size of the Network:** By altering the number of bits set to "1" in the subnet mask, you can control the size of the network. A larger number of "1" bits creates smaller subnets with fewer host addresses, while a smaller number of "1" bits creates larger subnets with more host addresses.
+  
+  3. **Identifies the Host Portion:** The portion of the IP address not covered by the subnet mask is used to identify individual hosts within the network. These bits are available for assigning unique addresses to devices within the same subnet.
+  
+  For example, let's consider the subnet mask 255.255.255.0 (or /24 in CIDR notation). In binary, it looks like this: 11111111.11111111.11111111.00000000. In this subnet mask, the first 24 bits represent the network portion, and the last 8 bits represent the host portion.
+  
+  So, in the IP address 192.168.1.100 with the subnet mask 255.255.255.0:
+  
+  - The network portion is 192.168.1.0 (the first 24 bits).
+  - The host portion is 0.0.0.100 (the last 8 bits), which identifies the specific host within the network.
+  
+  Understanding the subnet mask is essential for subnetting, routing, and configuring IP addresses within a network. Different subnet masks can create different-sized subnets, allowing network administrators to efficiently allocate IP addresses based on their network requirements.
   
   ## Opdracht
 
