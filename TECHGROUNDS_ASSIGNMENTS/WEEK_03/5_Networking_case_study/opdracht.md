@@ -137,6 +137,8 @@ As a network administrator you get to choose which networking devices get used.
   
 
 - Network Architecture
+  
+  
   Network architecture refers to the design and structure of a computer network, encompassing its components, layout, protocols, and technologies. It defines how different devices and systems within the network are organized and connected to enable communication and data exchange.
   
   Key components of network architecture include:
