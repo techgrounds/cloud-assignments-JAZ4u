@@ -73,6 +73,8 @@ As a network administrator you get to choose which networking devices get used.
   
 
 - VLAN
+  
+  
   A VLAN, or Virtual Local Area Network, is a technology used in computer networking to logically divide a single physical network into multiple broadcast domains. This segmentation allows network administrators to create isolated networks within the same physical infrastructure, providing improved security, performance, and manageability.
   
   Here are some key points about VLANs:
