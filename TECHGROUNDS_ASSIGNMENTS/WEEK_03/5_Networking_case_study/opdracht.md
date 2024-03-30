@@ -2,7 +2,6 @@
 
 CASE STUDY:
 
-
 Case studies are a little different from the regular exercises you do here at Techgrounds. Up until now every exercise has introduced a new topic, where you had to figure out how to make it work. In a case study we combine your previously learned knowledge with a real life example (or a fictional example closely resembling a real life situation).
 
 In this case study you take the role of a network administrator setting up a network in the new office of a small e-commerce company. Of course there are multiple ways to go about this problem, but this company has specifically said that network security is extremely important to them.
@@ -185,6 +184,8 @@ Exercise
 - Explain your design decisions
 
 ### Gebruikte bronnen
+
+- [https://app.diagrams.net/](https://app.diagrams.net/)
 
 - https://www.youtube.com/watch?v=oopkClg1kxM
   
