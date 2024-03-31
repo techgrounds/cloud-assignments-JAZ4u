@@ -200,4 +200,47 @@ Exercise
  Exercise
 
 - Design a network architecture for the above use case.
+  
+  1. **Web Server**: Hosts the webshop. It should be connected to the internet via a firewall for security. Access to this server should be restricted to necessary ports (like 80 for HTTP and 443 for HTTPS).
+  
+  2. **Database Server**: Stores login credentials for users on the webshop. This server should be securely configured, with access restricted to authorized users and encrypted connections.
+  
+  3. **Workstations (5)**: These are the computers used by office workers. They should be connected to the internal network and configured with appropriate security measures such as antivirus software, firewalls, and regular software updates.
+  
+  4. **Printer**: Connected to the network to allow printing from any of the workstations. Access to the printer should be controlled to prevent unauthorized use.
+  
+  5. **Active Directory (AD) Server**: Manages user accounts, permissions, and access to network resources. It centralizes network administration and provides authentication and authorization services.
+  
+  6. **File Server**: Stores internal documents and files shared among office workers. Access to different folders/files should be controlled based on user permissions managed by the AD server.
+  
+  Here's a basic diagram illustrating the setup:
+  
+  ![network_webstore.png](network_webstore.png)
+  
+                                   [Internet]                   
+                                       |                   
+                                   [Firewall]                     
+                                       |      
+                       		---------------------------
+                       		|                         |    
+                    1  [Web Server]         2   [Database Server]       
+                       		|                         |     
+                    3  [5* Workstations]    4   [AD Server]
+                       		|                         |
+                    5  [Printer]            6  [File Server]
+  
+  This network setup provides a foundation for your webshop operations, ensuring security, accessibility, and centralized management of resources. Make sure to implement appropriate security measures, such as encryption, access controls, and regular backups, to protect your data and network from potential threats. Additionally, consider consulting with IT professionals to ensure proper configuration and maintenance of your network infrastructure.
+
 - Explain your design decisions
+
+- **Web Server**: Hosts the webshop. It should be connected to the internet via a firewall for security. Access to this server should be restricted to necessary ports (like 80 for HTTP and 443 for HTTPS).
+
+- **Database Server**: Stores login credentials for users on the webshop. This server should be securely configured, with access restricted to authorized users and encrypted connections.
+
+- **Workstations (5)**: These are the computers used by office workers. They should be connected to the internal network and configured with appropriate security measures such as antivirus software, firewalls, and regular software updates.
+
+- **Printer**: Connected to the network to allow printing from any of the workstations. Access to the printer should be controlled to prevent unauthorized use.
+
+- **Active Directory (AD) Server**: Manages user accounts, permissions, and access to network resources. It centralizes network administration and provides authentication and authorization services.
+
+- **File Server**: Stores internal documents and files shared among office workers. Access to different folders/files should be controlled based on user permissions managed by the AD server.
