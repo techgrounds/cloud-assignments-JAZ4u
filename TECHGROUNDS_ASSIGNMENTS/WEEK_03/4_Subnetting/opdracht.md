@@ -140,7 +140,7 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 - IPv4 is explained in different ways 
 
-- The fact that HEXADECIMAL IPv6 adresses are just too much for me to claculate
+- The fact that HEXADECIMAL IPv6 adresses are just too much for me to calculate
 
 # Resultaat
 
