@@ -8,6 +8,8 @@ Een subnet is een kleiner netwerk dat onderdeel is van een groter netwerk. Subne
 
 Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
+![subnet_table.png](subnet_table.png)
+
 ## Key-terms
 
 - Subnetting
