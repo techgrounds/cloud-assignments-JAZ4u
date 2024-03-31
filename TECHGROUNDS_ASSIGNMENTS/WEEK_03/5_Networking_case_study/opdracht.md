@@ -200,6 +200,8 @@ Exercise
  Exercise
 
 - Design a network architecture for the above use case.
+
+- Explain your design decisions
   
   1. **Web Server**: Hosts the webshop. It should be connected to the internet via a firewall for security. Access to this server should be restricted to necessary ports (like 80 for HTTP and 443 for HTTPS).
   
@@ -218,15 +220,15 @@ Exercise
   ![network_webstore.png](network_webstore.png)
   
                                    [Internet]                   
-                                       |                   
+                                           |                   
                                    [Firewall]                     
-                                       |      
-                       		---------------------------
-                       		|                         |    
+                                           |      
+                               ---------------------------
+                               |                         |    
                     1  [Web Server]         2   [Database Server]       
-                       		|                         |     
+                               |                         |     
                     3  [5* Workstations]    4   [AD Server]
-                       		|                         |
+                               |                         |
                     5  [Printer]            6  [File Server]
   
   This network setup provides a foundation for your webshop operations, ensuring security, accessibility, and centralized management of resources. Make sure to implement appropriate security measures, such as encryption, access controls, and regular backups, to protect your data and network from potential threats. Additionally, consider consulting with IT professionals to ensure proper configuration and maintenance of your network infrastructure.
