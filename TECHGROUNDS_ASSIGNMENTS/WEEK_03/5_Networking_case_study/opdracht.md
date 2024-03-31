@@ -199,9 +199,9 @@ Exercise
 
  Exercise
 
-- Design a network architecture for the above use case.
+- 1/Design a network architecture for the above use case.
 
-- Explain your design decisions
+- 2/Explain your design decisions
   
   1. **Web Server**: Hosts the webshop. It should be connected to the internet via a firewall for security. Access to this server should be restricted to necessary ports (like 80 for HTTP and 443 for HTTPS).
   
@@ -233,16 +233,64 @@ Exercise
   
   This network setup provides a foundation for your webshop operations, ensuring security, accessibility, and centralized management of resources. Make sure to implement appropriate security measures, such as encryption, access controls, and regular backups, to protect your data and network from potential threats. Additionally, consider consulting with IT professionals to ensure proper configuration and maintenance of your network infrastructure.
 
-- Explain your design decisions
+OR
 
-- **Web Server**: Hosts the webshop. It should be connected to the internet via a firewall for security. Access to this server should be restricted to necessary ports (like 80 for HTTP and 443 for HTTPS).
+  with 2 subnets and a router:
 
-- **Database Server**: Stores login credentials for users on the webshop. This server should be securely configured, with access restricted to authorized users and encrypted connections.
+- 1/Design a network architecture for the above use case.
 
-- **Workstations (5)**: These are the computers used by office workers. They should be connected to the internal network and configured with appropriate security measures such as antivirus software, firewalls, and regular software updates.
+- 2/Explain your design decisions
 
-- **Printer**: Connected to the network to allow printing from any of the workstations. Access to the printer should be controlled to prevent unauthorized use.
+Here's a network setup with multiple subnets:
 
-- **Active Directory (AD) Server**: Manages user accounts, permissions, and access to network resources. It centralizes network administration and provides authentication and authorization services.
+1. **Router**:
+   
+   - Purpose: Connects different subnets and manages data traffic between them.
+   - Configuration: Provides routing functionality to direct traffic between subnets and between the internal network and external networks.
 
-- **File Server**: Stores internal documents and files shared among office workers. Access to different folders/files should be controlled based on user permissions managed by the AD server.
+2. **Subnet 1**:
+   
+   - **Web Server**:
+     - Purpose: Hosts your webshop for online transactions.
+     - Configuration: Connected to Subnet 1 and accessible from the internet. Configured with security measures such as SSL/TLS encryption and regular updates.
+   - **Database Server**:
+     - Purpose: Stores login credentials and other data for the webshop users.
+     - Configuration: Connected to Subnet 1 and internal network. Secured with access controls and encryption.
+
+3. **Subnet 2**:
+   
+   - **AD Server**:
+     - Purpose: Manages user accounts, group policies, and network resources.
+     - Configuration: Connected to Subnet 2. Centralizes user authentication and authorization.
+   - **File Server**:
+     - Purpose: Stores internal documents and files shared among office workers.
+     - Configuration: Connected to Subnet 2. Access controlled by permissions managed through Active Directory.
+
+4. **Workstations** (Connected to both Subnets):
+   
+   - Purpose: Used by office workers for business tasks.
+   - Configuration: Connected to both Subnet 1 and Subnet 2. Equipped with security software like antivirus programs and firewalls.
+
+5. **Printer** (Connected to Subnet 2):
+   
+   - Purpose: Allows printing of documents for office workers.
+   - Configuration: Connected to Subnet 2. Access controlled through network permissions.
+
+Here's a simplified diagram illustrating the network setup:
+
+![network_webstore_2subn.png](network_webstore_2subn.png)
+
+                           [Internet]
+                               |
+                            [Router]
+                                -----------------------------                   
+                               |                             | 
+                            [Subnet 1]                     [Subnet 2]
+                           |         |                    |         |
+                    [Web Server]  [Database Server]  [AD Server] [File Server]
+                                     | 
+                                     [Workstations]              
+                                     |
+                                     [Printer]
+
+This network design with multiple subnets provides segmentation to isolate different types of traffic and enhance security. It also allows for more efficient management of network resources. The router facilitates communication between the subnets while controlling the flow of traffic to and from the internet.
