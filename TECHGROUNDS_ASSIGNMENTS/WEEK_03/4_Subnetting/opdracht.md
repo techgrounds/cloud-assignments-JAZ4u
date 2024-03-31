@@ -10,6 +10,8 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 ![subnet_table.png](subnet_table.png)
 
+![32bits_subnet.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_03\4_Subnetting\32bits_subnet.png)
+
 ## Key-terms
 
 - Subnetting
@@ -136,7 +138,7 @@ Om dit alles leesbaar te maken voor mensen maken we gebruik van CIDR notation.
 
 - [IPv4 Addressing Simplified ➕➖ - YouTube](https://www.youtube.com/watch?v=Hv4epEIP3Mk)
 
-- 
+- [Secret of subnet mask - YouTube](https://www.youtube.com/watch?v=yLeuGOOrUvo)
 
 ### Ervaren problemen
 
