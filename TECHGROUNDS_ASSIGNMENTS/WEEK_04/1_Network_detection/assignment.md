@@ -27,8 +27,6 @@ Nmap (Network Mapper) is a tool that scans a network to find information about i
   6. **Output Formats**: Nmap can generate output in various formats, including plain text, XML, and grep-able formats, making it flexible for different use cases and integrations with other tools.
   
   Nmap is widely used by network administrators, security professionals, and ethical hackers to assess the security posture of networks, perform security audits, and troubleshoot network issues. However, it's essential to use Nmap responsibly and with proper authorization, as it can be used for both legitimate security purposes and malicious activities.
-  
-  
 
 - network attacks
   
@@ -55,8 +53,6 @@ Nmap (Network Mapper) is a tool that scans a network to find information about i
   10. **Exploitation of Vulnerabilities**: Attackers exploit security vulnerabilities in network devices, servers, or applications to gain unauthorized access, escalate privileges, or execute arbitrary code.
   
   These are just a few examples of network attacks, and attackers continuously evolve their techniques to bypass security measures and exploit new vulnerabilities. To defend against such attacks, organizations deploy various security measures, including firewalls, intrusion detection/prevention systems, encryption, access control, and regular security audits and updates.
-  
-  
 
 - protocal analyser
   
@@ -81,8 +77,6 @@ Nmap (Network Mapper) is a tool that scans a network to find information about i
   8. **Packet Injection**: Some advanced protocol analyzers support packet injection capabilities, allowing users to simulate network traffic or send custom packets for testing purposes.
   
   Protocol analyzers are essential tools for network administrators, security professionals, and developers involved in network troubleshooting, performance optimization, and security analysis. They are used across various industries to ensure the reliability, security, and efficiency of computer networks. Popular examples of protocol analyzers include Wireshark, tcpdump, and Microsoft Network Monitor.
-  
-  
 
 - Wireshark
   
@@ -103,8 +97,6 @@ Nmap (Network Mapper) is a tool that scans a network to find information about i
   - **Community Support**: Wireshark has an active user community that contributes to its development, provides support, and shares knowledge about network analysis and troubleshooting techniques.
   
   Overall, Wireshark is a powerful tool for network professionals, security analysts, developers, and anyone interested in understanding network communications at a granular level. It can help with diagnosing network problems, optimizing performance, and investigating security incidents by examining the data packets flowing through a network.
-  
-  
 
 - network packets
   
@@ -123,8 +115,6 @@ Nmap (Network Mapper) is a tool that scans a network to find information about i
   When a packet reaches its destination, it is typically reassembled into its original form before being delivered to the receiving application or device. This process involves extracting the payload from the packet and passing it up the network stack to the appropriate higher-layer protocol (e.g., TCP, UDP, HTTP) for further processing.
   
   Understanding network packets is essential for network administrators, developers, and security professionals, as it enables them to analyze and troubleshoot network traffic, optimize network performance, and implement effective security measures to protect against various threats and attacks.
-  
-  
 
 ## Assignment
 
