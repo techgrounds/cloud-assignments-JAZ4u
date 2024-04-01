@@ -25,7 +25,9 @@ Study:
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Penetration Testing with Nmap: A Comprehensive Tutorial - YouTube](https://www.youtube.com/watch?v=wlqUO09J-nw)
+
+- 
 
 ### Encountered problems
 
