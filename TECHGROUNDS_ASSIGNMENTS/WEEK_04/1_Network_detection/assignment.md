@@ -4,6 +4,8 @@ In order to prevent or stop attacks on a network, you must be able to analyse yo
 
 Nmap (Network Mapper) is a tool that scans a network to find information about it. For example, what ports are open in a host in your network. Wireshark is a protocol analyzer. It looks at network traffic and shows information about packets like protocol and destination (among other things).
 
+![scanning.png](scanning.png)
+
 ## Key-terms
 
 - nmap (Network Mapper)
