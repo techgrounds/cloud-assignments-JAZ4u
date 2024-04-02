@@ -7,6 +7,12 @@ ssh jaz@18.193.223.166 -i "C:\Nest-Ja-Nieste.pem" -p 52202
 - shay will not be the presenter at 8th april , since he did it the last time
 - het topic van de presentatie zal pas de laatste woensdag verteld wordne : als we het eerder weten dan focussen we ons daar teveel op ( volgens casper)
 - over het implementeren van subnets zei casper: in azure is het veel makkelijker. 
-- over subnetten vewrtelde casper het verhaal van Walmart, waar men kon binnenkomen en creditcard gegevens kon delen vis het infiltreen van de AIRCONDITIONINGSystem.Als die Airkos op een ander subnet hadden egzeten dan kon men neit gelijk doordringen naar cruciale credicard gegevens die kennelijk op hetzelfde netwerk toegankelijk waren.
+- over subnetten vewrtelde casper het verhaal van Walmart, waar men kon binnenkomen en creditcard gegevens kon delen vis het infiltreen van de AIRCONDITIONINGSystem.Als die Airkos op een ander subnet hadden egzeten dan kon men niet gelijk doordringen naar cruciale credicard gegevens die kennelijk op hetzelfde netwerk toegankelijk waren.
 - Jaz merkte op dat hij voorkeur heeft om de algemene chat boven de exclusieve chatgroep te gebruiken: dit omdat Shikha en Casper ons dienen te monitoren en analysen over onze voortgang maar ook op onze softskills. Als zij geen input hebben kunnen ze dat niet doen.
-- 
+
+- proefperioode is voorbij , na 3 weken : communiceer de dingen goed, als je dat neit doet dna kan het problemen 
+- Bart van Zijl vragen of hij de opleidings overeenkomst update , of de nieuwe distribueert, zodat we hem kunnen tekenen.
+- het slack kanaal van techgrounds is een soort van surrogaat internet . We moeten ook een encrypted bericht sturen via PUBLIEKE channel.
+- web3 , casper is nog niet overtuigd van een nuttige usecase.
+- podcast : daniel verlaan "ik weet je wachtwoord"
+
