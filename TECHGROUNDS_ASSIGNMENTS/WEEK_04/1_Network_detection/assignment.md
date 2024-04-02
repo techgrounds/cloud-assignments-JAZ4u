@@ -1,6 +1,10 @@
 # [1/ Network detection]
 
-In order to prevent or stop attacks on a network, you must be able to analyse your network. There are many tools available to do this, but this exercise will focus on two very popular ones: nmap and Wireshark.
+
+
+<mark>In order to prevent or stop attacks on a network, you must be able to analyse your network.</mark>
+
+There are many tools available to do this, but this exercise will focus on two very popular ones: nmap and Wireshark.
 
 Nmap (Network Mapper) is a tool that scans a network to find information about it. For example, what ports are open in a host in your network. Wireshark is a protocol analyzer. It looks at network traffic and shows information about packets like protocol and destination (among other things).
 
