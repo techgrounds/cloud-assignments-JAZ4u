@@ -182,6 +182,8 @@ Opdracht:
 
 - I did not know how to verify apache status `sudo service apache2 status`
 
+- ERR_CONNECTION_TIMED_OUT when I tried to access my Default Apache webserver
+
 ### Result
 
 Bestudeer:
@@ -203,5 +205,9 @@ Opdracht:
 - Bekijk de standaardpagina die met de webserver geïnstalleerd is via je browser op je pc/laptop.
 
 - Stel de firewall zo in dat je webverkeer blokkeert, maar wel ssh-verkeer toelaat.
-
-- Controleer of de firewall zijn werk doet.
+  
+  &
+  
+  Controleer of de firewall zijn werk doet.
+  
+  ![firewall_deny_allow.png](firewall_deny_allow.png)
