@@ -12,7 +12,25 @@ A pipe can be used to have the output of one command be the input of another com
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- grep 
+  
+  In Ubuntu (and other Unix-like operating systems), `grep` is a command-line utility for searching plain-text data sets for lines that match a regular expression pattern. It stands for "Global Regular Expression Print". `grep` searches for the pattern in each line of a file and prints the lines that contain it.
+  
+  
+  
+  Here's the basic syntax of `grep`:
+  
+  `grep [options] pattern [file...]`
+  
+  - `[options]`: Optional parameters to modify `grep`'s behavior.
+  - `pattern`: The regular expression pattern to search for.
+  - `[file...]`: Optional file(s) to search in. If not provided, `grep` reads from standard input (e.g., piped output from other commands).
+  
+  For example, to search for the word "example" in a file named `file.txt`, you would use:
+  
+  `grep 'example' file.txt`
+  
+  `grep` is a powerful tool for text processing and is widely used in command-line environments for various tasks like filtering logs, searching for specific content in files, and more.
 
 ## Opdracht
 
@@ -40,5 +58,15 @@ Exercise:
 Exercise:
 
 - Use the echo command and output redirection to write a new sentence into your text file using the command line. The new sentence should contain the word ‘techgrounds’.
+  
+  ![grep2newtext.png](grep2newtext.png)
+
 - Use a command to write the contents of your text file to the terminal. Make use of a command to filter the output so that only the sentence containing ‘techgrounds’ appears.
+  
+  ![grep2terminal.png](grep2terminal.png)
+  
+  
+
 - Read your text file with the command used in the second step, once again filtering for the word ‘techgrounds’. This time, redirect the output to a new file called ‘techgrounds.txt’.
+  
+  ![grep2_techgrounds_txt.png](grep2_techgrounds_txt.png)
