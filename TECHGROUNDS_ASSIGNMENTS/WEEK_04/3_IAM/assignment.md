@@ -144,3 +144,12 @@ Study:
 - What the principle of least privilege is and how it improves security.
   
   Implementing the principle of least privilege helps organizations enhance security, reduce the likelihood of security incidents, and minimize the potential impact of security breaches or insider threats. It is a fundamental aspect of access control and security management practices across various industries and sectors.
+1. **Minimize Access**: Users should only be granted access to the resources, data, and functionalities required to perform their job duties effectively. Unnecessary access rights should be revoked to reduce the attack surface and mitigate the risk of unauthorized access or misuse.
+
+2. **Default Deny**: By default, access to resources or systems should be denied unless explicitly authorized. This approach ensures that users must request and justify access, promoting accountability and reducing the likelihood of unintended or unauthorized access.
+
+3. **Need-to-Know Basis**: Access should be granted on a need-to-know basis, meaning users should only have access to information or resources essential to their specific roles or tasks. This principle helps prevent the exposure of sensitive information to unauthorized individuals or entities.
+
+4. **Separation of Duties**: Responsibilities and access rights should be divided among multiple users or roles to prevent conflicts of interest and reduce the risk of insider threats. For example, the person responsible for approving transactions should not be the same person responsible for executing them.
+
+5. **Regular Reviews and Audits**: Access rights should be periodically reviewed and audited to ensure alignment with business requirements and security policies. This includes removing outdated or unnecessary access privileges and identifying and addressing potential security vulnerabilities.
