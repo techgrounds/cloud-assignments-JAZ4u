@@ -178,7 +178,9 @@ Opdracht:
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- I needed to install Apache `sudo apt install apache2`
+
+- I did not know how to verify apache status `sudo service apache2 status`
 
 ### Result
 
@@ -193,6 +195,15 @@ Bestudeer:
 Opdracht:
 
 - Installeer een webserver op je VM.
+  
+  `sudo apt install apache2`
+  
+  ![install_apache.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\2_Firewalls\install_apache.png)
+
 - Bekijk de standaardpagina die met de webserver geïnstalleerd is via je browser op je pc/laptop.
+  
+  
+
 - Stel de firewall zo in dat je webverkeer blokkeert, maar wel ssh-verkeer toelaat.
+
 - Controleer of de firewall zijn werk doet.
