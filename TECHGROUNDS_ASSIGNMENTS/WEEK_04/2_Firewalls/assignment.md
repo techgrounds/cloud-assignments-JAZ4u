@@ -198,11 +198,9 @@ Opdracht:
   
   `sudo apt install apache2`
   
-  ![install_apache.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\2_Firewalls\install_apache.png)
+  ![install_apache.png](install_apache.png)
 
 - Bekijk de standaardpagina die met de webserver geïnstalleerd is via je browser op je pc/laptop.
-  
-  
 
 - Stel de firewall zo in dat je webverkeer blokkeert, maar wel ssh-verkeer toelaat.
 
