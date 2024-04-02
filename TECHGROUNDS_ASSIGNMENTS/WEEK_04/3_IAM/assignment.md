@@ -122,5 +122,25 @@ Study:
 Study:
 
 - The difference between authentication and authorization.
+  
+  **Authorization**: Determining what actions and resources users are allowed to access based on their authenticated identity. This involves assigning permissions and privileges, often through role-based access control (RBAC) or attribute-based access control (ABAC) mechanisms.
+  
+  **Authorization**: Determining what actions and resources users are allowed to access based on their authenticated identity. This involves assigning permissions and privileges, often through role-based access control (RBAC) or attribute-based access control (ABAC) mechanisms.
+
 - The three factors of authentication and how MFA improves security.
+  
+  Typically, MFA involves the following factors of authentication:
+  
+  1. **Something You Know**: This factor refers to knowledge-based authentication, such as a password, PIN, or security questions. It is something that the user knows and can provide to prove their identity.
+  
+  2. **Something You Have**: This factor involves possession-based authentication, such as a physical token, smart card, or mobile device. It is something that the user possesses and can use to authenticate their identity.
+  
+  3. **Something You Are**: This factor is based on biometric authentication, such as fingerprint scans, facial recognition, iris scans, or voice recognition. It is something inherent to the user's physical characteristics that can be used to verify their identity.
+  
+  By requiring multiple factors from different categories, MFA significantly enhances security compared to traditional single-factor authentication methods, which typically rely solely on something the user knows (e.g., a password). Even if one factor is compromised (such as a stolen password), the additional factors provide an extra layer of defense against unauthorized access.
+  
+  MFA is commonly used in various contexts, including online accounts (such as email, banking, and social media), corporate networks, remote access systems, and cloud services. It helps organizations mitigate the risk of unauthorized access, data breaches, identity theft, and other security threats by ensuring that only authorized users can access protected resources.
+
 - What the principle of least privilege is and how it improves security.
+  
+  Implementing the principle of least privilege helps organizations enhance security, reduce the likelihood of security incidents, and minimize the potential impact of security breaches or insider threats. It is a fundamental aspect of access control and security management practices across various industries and sectors.
