@@ -134,3 +134,5 @@ In this assignment you will learn about the basics of cryptography, starting wit
   7. **Argon2**: Argon2 is a key derivation function designed specifically for hashing passwords. It's designed to be resistant to brute-force attacks and side-channel attacks and is recommended for securely hashing passwords in various applications.
 
 - Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. You are not allowed to use any private messages or other communication channels besides the public Slack channel. Analyse the shortcomings of symmetric encryption for sending messages.
+  
+  *N/A*

@@ -203,6 +203,8 @@ Opdracht:
   ![install_apache.png](install_apache.png)
 
 - Bekijk de standaardpagina die met de webserver geïnstalleerd is via je browser op je pc/laptop.
+  
+  **N/A*
 
 - Stel de firewall zo in dat je webverkeer blokkeert, maar wel ssh-verkeer toelaat.
   
