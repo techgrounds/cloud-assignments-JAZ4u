@@ -1,7 +1,5 @@
 # [1/ Network detection]
 
-
-
 <mark>In order to prevent or stop attacks on a network, you must be able to analyse your network.</mark>
 
 There are many tools available to do this, but this exercise will focus on two very popular ones: nmap and Wireshark.
@@ -135,11 +133,34 @@ Study:
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- I needed to install `sudo apt install net-tools` to find my ip adress and network of my Linux virtual machine
+
+- I needed to understand that with `ifconfig` I can see network (interface) information on my Linux VM.
 
 ### Result
 
 Study:
 
 - Scan the network of your Linux machine using nmap. What do you find?
+  
+      
+  
+      I did this:
+  - install nmap : `sudo apt install net-tools`
+  
+  - `sudo nmap -sn 10.125.78.0/24`
+  
+  Result:
+  
+  ![vm_nmap_scan.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\1_Network_detection\vm_nmap_scan.png)
 - Open Wireshark in Windows/MacOS Machine. Analyse what happens when you open an internet browser. (Tip: you will find that Zoom is constantly sending packets over the network. You can either turn off Zoom for a minute, or look for the packets sent by the browser between the packets sent by Zoom.)
+  
+  
+  - This is what happened when I started OPERA internet browser. I closed ZOOM first.
+    
+    My analysis: I see all kind of packets sent over TCP and UDP and TLSv1.2(or 1.3). 
+    The info of the packets is for example : handshake , application data, protected payload
+  
+  ![wireshark_start_Opera.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\1_Network_detection\wireshark_start_Opera.png)
+  
+  
