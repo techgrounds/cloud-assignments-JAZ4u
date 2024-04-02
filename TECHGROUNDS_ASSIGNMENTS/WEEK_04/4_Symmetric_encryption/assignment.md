@@ -118,6 +118,7 @@ In this assignment you will learn about the basics of cryptography, starting wit
   Playfair Cipher , Monoalphabetic Substitution Cipher , Polyalphabetic Substitution Cipher, Transposition Cipher
 
 - Find two digital ciphers that are being used today.
+  
   1. **AES (Advanced Encryption Standard)**: AES is one of the most widely used symmetric-key encryption algorithms. It's used in various applications ranging from securing sensitive data in databases to encrypting communication over the internet. AES supports key lengths of 128, 192, or 256 bits.
   
   2. **RSA (Rivest-Shamir-Adleman)**: RSA remains one of the most widely used asymmetric-key encryption algorithms, particularly for secure key exchange and digital signatures. It's commonly used in secure communication protocols like SSL/TLS for securing web traffic.
@@ -131,7 +132,5 @@ In this assignment you will learn about the basics of cryptography, starting wit
   6. **HMAC (Hash-based Message Authentication Code)**: HMAC is a method for generating a message authentication code (MAC) using a cryptographic hash function combined with a secret key. It's widely used for verifying both the integrity and authenticity of a message.
   
   7. **Argon2**: Argon2 is a key derivation function designed specifically for hashing passwords. It's designed to be resistant to brute-force attacks and side-channel attacks and is recommended for securely hashing passwords in various applications.
-     
-     
 
 - Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. You are not allowed to use any private messages or other communication channels besides the public Slack channel. Analyse the shortcomings of symmetric encryption for sending messages.
