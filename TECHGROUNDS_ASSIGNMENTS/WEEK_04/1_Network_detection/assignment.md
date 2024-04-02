@@ -152,7 +152,7 @@ Study:
   
   Result:
   
-  ![vm_nmap_scan.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\1_Network_detection\vm_nmap_scan.png)
+  ![vm_nmap_scan.png](vm_nmap_scan.png)
 - Open Wireshark in Windows/MacOS Machine. Analyse what happens when you open an internet browser. (Tip: you will find that Zoom is constantly sending packets over the network. You can either turn off Zoom for a minute, or look for the packets sent by the browser between the packets sent by Zoom.)
   
   
@@ -161,6 +161,6 @@ Study:
     My analysis: I see all kind of packets sent over TCP and UDP and TLSv1.2(or 1.3). 
     The info of the packets is for example : handshake , application data, protected payload
   
-  ![wireshark_start_Opera.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_04\1_Network_detection\wireshark_start_Opera.png)
+  ![wireshark_start_Opera.png](wireshark_start_Opera.png)
   
   
