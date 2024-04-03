@@ -87,8 +87,6 @@ Asymmetric encryption solves this issue. Instead of 1 key, you get 2: A public k
   - **Authentication**: Key pairs are used for user authentication in systems such as SSH (Secure Shell) and SSL/TLS (Secure Sockets Layer/Transport Layer Security). Users authenticate themselves by presenting credentials signed with their private keys, which can be verified using their corresponding public keys.
   
   Overall, key pairs play a crucial role in ensuring the security and integrity of cryptographic operations in asymmetric encryption systems. They enable secure communication, authentication, and digital signatures, helping to protect sensitive data and ensure trust in digital transactions.
-  
-  
 
 ## Assignment
 
@@ -97,11 +95,9 @@ Asymmetric encryption solves this issue. Instead of 1 key, you get 2: A public k
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
-
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- [Online AES Encryption / Decryption | Anycript](https://anycript.com/crypto)
 
 ### Result
 

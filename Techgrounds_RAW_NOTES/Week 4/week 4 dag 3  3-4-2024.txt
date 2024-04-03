@@ -1,0 +1,15 @@
+week 4 dag 3 / 3-4-2024
+
+ssh jaz@18.193.223.166 -i "C:\Nest-Ja-Nieste.pem" -p 52202
+
+
+- bart van zijl  : is op kantoor , opleidingsovereenkomst, studiegids 
+Bart heeft waarschijnlijk een leerwerkplek , wat een mogelijkheid kan worden 
+- bart heeft per 30 april een neiuwe baan , Ulviye gaat het overnemen. 
+Hij gaat bij Bender werken , dat is dichter bij hem.
+
+- casper: als je firewall aanzet , moet je nog wel steeds ssh aanhouden!!!
+- machine werkt op port 80 , op vm wordt het omgezet naar die van de VM
+- casper zegt blokkeer port 80 
+- 
+

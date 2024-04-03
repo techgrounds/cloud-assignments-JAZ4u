@@ -105,11 +105,11 @@ In this assignment you will learn about the basics of cryptography, starting wit
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Online AES Encryption / Decryption | Anycript](https://anycript.com/crypto)
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- needed to install python3-pip to encrypt with AES `sudo apt install python3-pip`
 
 ### Result
 
@@ -135,4 +135,16 @@ In this assignment you will learn about the basics of cryptography, starting wit
 
 - Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. You are not allowed to use any private messages or other communication channels besides the public Slack channel. Analyse the shortcomings of symmetric encryption for sending messages.
   
-  *N/A*
+  HOW TO :
+  
+  1. **Create a Public Post**: Craft a public post in the Slack channel where you share an encrypted message and announce that you've encrypted it using a shared key.
+  
+  2. **Encrypt the Message**: Use symmetric encryption to encrypt your message using a strong encryption algorithm like AES. Ensure the encryption key is robust and kept secret.
+  
+  3. **Share a Hint**: Instead of directly sharing the encryption key, provide a hint or clue within the same public post that hints at how the key can be derived. For example, you could provide a phrase or reference that only you and your intended recipient would understand.
+  
+  4. **Recipient Decrypts the Message**: The recipient, who knows the shared hint or clue, can use it to derive the encryption key and decrypt the message.
+  
+  5. **Key Rotation**: After the message has been decrypted, consider rotating the encryption key to enhance security. You can provide a new hint or clue for the updated key in a subsequent public post.
+     
+     RESULT:
