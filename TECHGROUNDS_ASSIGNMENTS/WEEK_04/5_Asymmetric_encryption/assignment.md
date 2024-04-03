@@ -95,11 +95,33 @@ Asymmetric encryption solves this issue. Instead of 1 key, you get 2: A public k
 
 ### Used sources
 
+[Online RSA Encryption, Decryption And Key Generator Tool](https://www.javainuse.com/rsagenerator)
+
 ### Encountered problems
 
 - [Online AES Encryption / Decryption | Anycript](https://anycript.com/crypto)
+- [RSA Encryption, Decryption And Key Generator Online | Devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption)
+- 
 
 ### Result
 
 - Generate a key pair.
+  
+  Here's a step-by-step guide:
+  
+  1. **Generate Asymmetric Key Pair**:
+     We'll generate an RSA key pair consisting of a public key (which will be used for encryption) and a private key (which will be used for decryption).
+  
+  2. **Encrypt Message with Recipient's Public Key**:
+     We'll encrypt the message using the recipient's public key.
+  
+  3. **Post Encrypted Message to Public Slack Channel**:
+     We'll post the encrypted message on a public Slack channel, ensuring that only the intended recipient has access to their private key and can decrypt the message.
+  
+  4. **Recipient Decrypts the Message**:
+     The recipient, having access to their private key, will retrieve the encrypted message from the public Slack channel and decrypt it using their private key.
+  
+  5. **Analysis of Asymmetric Encryption vs. Symmetric Encryption**:
+     We'll analyze the differences between asymmetric and symmetric encryption, focusing on aspects like key management, security, and ease of use.
+
 - Send an asymmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key. The recipient should be able to read the message, but it should remain a secret to everyone else. You are not allowed to use any private messages or other communication channels besides the public Slack channel. Analyse the difference between this method and symmetric encryption.
