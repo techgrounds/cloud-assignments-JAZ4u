@@ -97,5 +97,101 @@ X.509 is the standard which defines the process in which a PKI should function.Â
 ### Result
 
 - Create a self-signed certificate on your VM.
+  
+  To create a self-signed SSL certificate on an Ubuntu VM, you can use OpenSSL, which is a widely used tool for generating and managing certificates. Here's a step-by-step guide:
+  
+  1. **Install OpenSSL**:
+     If you don't have OpenSSL installed, you can install it using the following command:
+     
+     bashCopy code
+     
+     `sudo apt update sudo apt install openssl`
+  
+  2. **Generate the Private Key**:
+     Use OpenSSL to generate a private key. You can choose the key length according to your requirements. Here, we'll generate a 2048-bit key:
+     
+     bashCopy code
+     
+     `openssl genrsa -out private.key 2048`
+  
+  3. **Generate the Certificate Signing Request (CSR)**:
+     Use the private key to generate a CSR. This CSR will contain the information you want to include in the certificate, such as the domain name, organization details, etc.:
+     
+     bashCopy code
+     
+     `openssl req -new -key private.key -out server.csr`
+     
+     Follow the prompts to fill in the required information.
+  
+  4. **Generate the Self-Signed Certificate**:
+     Once you have the CSR, you can use it to generate the self-signed certificate:
+     
+     bashCopy code
+     
+     `openssl x509 -req -days 365 -in server.csr -signkey private.key -out server.crt`
+     
+     Adjust the `-days` parameter as needed to set the validity period of the certificate.
+  
+  5. **Verify the Certificate**:
+     You can verify the contents of the certificate using the following command:
+     
+     bashCopy code
+     
+     `openssl x509 -in server.crt -text -noout`
+     
+     This will display detailed information about the certificate.
+  
+  Now, you have generated a self-signed SSL certificate (`server.crt`) and its corresponding private key (`private.key`). You can use these files in your web server configuration or any other application that requires SSL/TLS encryption.
+  
+  Remember that self-signed certificates are not trusted by default in web browsers, so you may encounter warnings when accessing a website using such a certificate. They are primarily useful for testing purposes or for internal services where you control the client configuration. For production use or public-facing websites, it's recommended to use certificates signed by a trusted Certificate Authority (CA).
+  
+  ![gen_certificate_01.png](gen_certificate_01.png)
+  
+  ![gen_certificate_02.png](gen_certificate_02.png)
+  
+  ![gen_certificate_03.png](gen_certificate_03.png)
+
 - Analyze some certification paths of known websites (ex. techgrounds.nl / google.com / ing.nl).
+  
+  1. **techgrounds.nl**:
+     When analyzing the certification path of techgrounds.nl, we typically find a chain of certificates leading back to a trusted root CA. The certification path may look something like this:
+     
+     - Leaf Certificate (techgrounds.nl)
+     - Intermediate Certificate (Issued by a CA)
+     - Root Certificate (Trusted by browsers)
+     
+     The leaf certificate contains the public key and domain information for techgrounds.nl, while the intermediate certificate is typically issued by a CA like Let's Encrypt, Sectigo (formerly Comodo), or another trusted CA. The root certificate belongs to the CA itself and is included in the trust store of web browsers.
+  
+  2. **google.com**:
+     Google uses a complex certification path due to its scale and security requirements. The certification path for google.com may include multiple intermediate certificates, and it is likely to be signed by one of Google's own intermediate CAs, such as Google Trust Services. The path typically includes:
+     
+     - Leaf Certificate (google.com)
+     - Intermediate Certificates (Issued by Google's Intermediate CAs)
+     - Root Certificate (Trusted by browsers)
+     
+     Google's root certificates are included in most browsers' trust stores, ensuring that certificates issued by Google's intermediate CAs are trusted.
+  
+  3. **ing.nl**:
+     ING, a large bank, also uses a sophisticated certification path to secure its website. Similar to Google, the certification path for ing.nl may include multiple intermediate certificates, and it is likely to be signed by an intermediate CA owned by ING or another trusted CA. The path might look like this:
+     
+     - Leaf Certificate (ing.nl)
+     - Intermediate Certificates (Issued by ING's Intermediate CAs or another trusted CA)
+     - Root Certificate (Trusted by browsers)
+     
+     ING likely operates its own intermediate CAs to issue certificates for its various web services. These intermediate certificates are then cross-signed by trusted root CAs to establish trust in web browsers.
+  
+  Analyzing the certification paths of these websites shows that they all rely on a chain of trust, where intermediate certificates are issued by trusted root CAs, and leaf certificates are issued by intermediate CAs. This ensures that the SSL/TLS certificates presented by these websites are trusted by web browsers.
+
 - Find the list of trusted certificate roots on your pc/laptop (bonus points if you also find it in your VM).
+  
+  - On VM=
+  
+  `cat /etc/ssl/certs/ca-certificates.crt`
+  
+  ![my_ubuntu_certificates.png](my_ubuntu_certificates.png)
+  
+  - On Windows(in powershell)=
+    
+    `Get-ChildItem -Path Cert:\LocalMachine\Root`
+    
+    ![my_windows_certificates.png](my_windows_certificates.png)

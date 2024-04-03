@@ -8,8 +8,45 @@ Bart heeft waarschijnlijk een leerwerkplek , wat een mogelijkheid kan worden
 - bart heeft per 30 april een neiuwe baan , Ulviye gaat het overnemen. 
 Hij gaat bij Bender werken , dat is dichter bij hem.
 
+Learning Coach (casper) :
+troubleshoot sessies heeft hij geen tijd voor. Doet hij alleen als het iets specifieks buiten onze studenten macht om is!
+
+Over firewall opdracht icm webserver:
 - casper: als je firewall aanzet , moet je nog wel steeds ssh aanhouden!!!
 - machine werkt op port 80 , op vm wordt het omgezet naar die van de VM
 - casper zegt blokkeer port 80 
 - 
+
+Casper informatie:
+sprint review: NETWORKING CASE STUDY , security , firewalls(volgens casper is het een server met een firewall) , subnetting , 
+- inde cloud mogen we niet aan de hardware zitten , daar kunnen we ook niet bij , we gebruiken software ( azure firewalls) . Application firewall is neit software firewall.
+- we kunnen gewoon de excersize case gebruiken.
+- 
+
+Encryptie opodrachten:
+Voor encryptie mag je een website gebruiken : het punt is wat voor encryptie is er , wat voor sleutels zijn er , en waar is eht goed voor.
+Symmetirsche encryptie is niet handig voor eht internet: omdat men het kan uitvinden en achterhalen
+HTTPS gebruikt standaard encryptie , kijk maar naar certificatenh van websites.
+
+
+Softskills:
+- slides worden geshared
+- WAAR HET OM DRAAIT ga als je productief wilt zijn : werken aand e relevante dingen , doe de relevante dingen NIET of als je tijd hebt.
+- als je je echt wilt concentreren zet NOTIFICATIES UIT.
+- PRIORITIZE de belangrijkste dingen
+- Isenhour matrix : urgent/niet urgent , belangrijk/niet belangrijk
+- PLan ook rustmomenten in , dat kna op dagbasis , week basis , of maandbasis of zelfs jaarbasis. Dit is om mentaal te herstellen , anders ben ik ook uitgeteld ook al wil ik wel wat doen.
+- zorg dat je een gezond en fit tijdritme hebt , zodat je productief kunt zijn 
+- let op je energie niveau : als je sochtends scherper bent : doe de moeilijek taken DAN. En dan kan je de makkelijke dingen in je minder productieve uren doen.
+- Let op dat je pauzes maakt , put jezelf niet uit, ook ivm RSI. Zet een alarm, als hulpmiddel.
+- Pommodoro techniek is goed als je moeite hebt om je te concentreren( en productief te zijn)
+- TIMEBOX op informatie RESEARCH! (zet er een maximum op!)
+- voor de productieviteit neemt casper een werkplek in een APARTE KAMER , niet met spelcomputers in dezelfde kamer.
+- soms heb je terugval , dat kan gebeuren: NEVER MISS A GOOD HABIT TWICE. Als je TWEE keer terugvalt , dan kun je alweer een SLECHT patroon te worden.
+- ATOMIC HABITS is een boek die over cognitief gedrag gaat en misschien kan helpen , daar komt NEVER MISS A GOOD HABIT TWICE.
+https://jamesclear.com/atomic-habits
+- of ook over habits : https://open.spotify.com/episode/6BZci0Hx3zzIqDpr39d1ga?si=c987ea91fc32446a 
+- tijdens een easy game (mocht je toch willen gamen ) link het aan iets productiefs zoals luisteren van een productieve podcast
+- lees de reader over deze softskills !! en contact de learning coach indien nodig.
+
 
