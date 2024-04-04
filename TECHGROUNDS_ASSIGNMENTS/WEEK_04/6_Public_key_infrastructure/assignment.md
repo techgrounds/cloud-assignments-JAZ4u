@@ -128,7 +128,7 @@ X.509 is the standard which defines the process in which a PKI should function.Â
   4. **Generate the Self-Signed Certificate**:
      Once you have the CSR, you can use it to generate the self-signed certificate:
      
-     bashCopy code
+     
      
      `openssl x509 -req -days 365 -in server.csr -signkey private.key -out server.crt`
      
