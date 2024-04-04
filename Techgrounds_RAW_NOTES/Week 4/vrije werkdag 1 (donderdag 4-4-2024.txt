@@ -1,3 +1,0 @@
-vrije werkdag 1 (donderdag 4-4-2024)
-
-ssh jaz@18.193.223.166 -i "C:\Nest-Ja-Nieste.pem" -p 52202

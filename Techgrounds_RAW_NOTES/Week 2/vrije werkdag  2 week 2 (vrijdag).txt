@@ -1,8 +1,0 @@
-(prexentaties over cron job)
-https://www.hostinger.com/tutorials/cron-job
-https://slideplayer.com/slide/12180368/
-https://www.slideshare.net/IryneyBaran/cron-57746425
-https://code.tutsplus.com/scheduling-tasks-with-cron-jobs--net-8800t
-https://medium.com/blockchain-research-lab-akgec/introduction-to-cron-job-ac04e72a4b67
-https://tecadmin.net/cron-job-a-comprehensive-guide-for-beginners/
-https://en.wikipedia.org/wiki/Cron
