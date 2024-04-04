@@ -105,21 +105,21 @@ X.509 is the standard which defines the process in which a PKI should function.Â
   1. **Install OpenSSL**:
      If you don't have OpenSSL installed, you can install it using the following command:
      
-     bashCopy code
+     
      
      `sudo apt update sudo apt install openssl`
   
   2. **Generate the Private Key**:
      Use OpenSSL to generate a private key. You can choose the key length according to your requirements. Here, we'll generate a 2048-bit key:
      
-     bashCopy code
+     
      
      `openssl genrsa -out private.key 2048`
   
   3. **Generate the Certificate Signing Request (CSR)**:
      Use the private key to generate a CSR. This CSR will contain the information you want to include in the certificate, such as the domain name, organization details, etc.:
      
-     bashCopy code
+     
      
      `openssl req -new -key private.key -out server.csr`
      
@@ -137,7 +137,7 @@ X.509 is the standard which defines the process in which a PKI should function.Â
   5. **Verify the Certificate**:
      You can verify the contents of the certificate using the following command:
      
-     bashCopy code
+     
      
      `openssl x509 -in server.crt -text -noout`
      
