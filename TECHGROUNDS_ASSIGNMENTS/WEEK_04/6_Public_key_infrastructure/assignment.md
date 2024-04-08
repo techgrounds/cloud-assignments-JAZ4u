@@ -105,54 +105,42 @@ X.509 is the standard which defines the process in which a PKI should function.Â
   1. **Install OpenSSL**:
      If you don't have OpenSSL installed, you can install it using the following command:
      
-     
-     
      `sudo apt update sudo apt install openssl`
-  
-  2. **Generate the Private Key**:
-     Use OpenSSL to generate a private key. You can choose the key length according to your requirements. Here, we'll generate a 2048-bit key:
-     
-     
-     
+2. **Generate the Private Key**:
+   Use OpenSSL to generate a private key. You can choose the key length according to your requirements. Here, we'll generate a 2048-bit key:
+   
      `openssl genrsa -out private.key 2048`
-  
-  3. **Generate the Certificate Signing Request (CSR)**:
-     Use the private key to generate a CSR. This CSR will contain the information you want to include in the certificate, such as the domain name, organization details, etc.:
-     
-     
-     
-     `openssl req -new -key private.key -out server.csr`
-     
-     Follow the prompts to fill in the required information.
-  
-  4. **Generate the Self-Signed Certificate**:
-     Once you have the CSR, you can use it to generate the self-signed certificate:
-     
-     
-     
-     `openssl x509 -req -days 365 -in server.csr -signkey private.key -out server.crt`
-     
-     Adjust the `-days` parameter as needed to set the validity period of the certificate.
-  
-  5. **Verify the Certificate**:
-     You can verify the contents of the certificate using the following command:
-     
-     
-     
-     `openssl x509 -in server.crt -text -noout`
-     
-     This will display detailed information about the certificate.
-  
-  Now, you have generated a self-signed SSL certificate (`server.crt`) and its corresponding private key (`private.key`). You can use these files in your web server configuration or any other application that requires SSL/TLS encryption.
-  
-  Remember that self-signed certificates are not trusted by default in web browsers, so you may encounter warnings when accessing a website using such a certificate. They are primarily useful for testing purposes or for internal services where you control the client configuration. For production use or public-facing websites, it's recommended to use certificates signed by a trusted Certificate Authority (CA).
-  
-  ![gen_certificate_01.png](gen_certificate_01.png)
-  
-  ![gen_certificate_02.png](gen_certificate_02.png)
-  
-  ![gen_certificate_03.png](gen_certificate_03.png)
 
+3. **Generate the Certificate Signing Request (CSR)**:
+   Use the private key to generate a CSR. This CSR will contain the information you want to include in the certificate, such as the domain name, organization details, etc.:
+   
+     `openssl req -new -key private.key -out server.csr`
+   
+     Follow the prompts to fill in the required information.
+
+4. **Generate the Self-Signed Certificate**:
+   Once you have the CSR, you can use it to generate the self-signed certificate:
+   
+     `openssl x509 -req -days 365 -in server.csr -signkey private.key -out server.crt`
+   
+     Adjust the `-days` parameter as needed to set the validity period of the certificate.
+
+5. **Verify the Certificate**:
+   You can verify the contents of the certificate using the following command:
+   
+     `openssl x509 -in server.crt -text -noout`
+   
+     This will display detailed information about the certificate.
+   
+   Now, you have generated a self-signed SSL certificate (`server.crt`) and its corresponding private key (`private.key`). You can use these files in your web server configuration or any other application that requires SSL/TLS encryption.
+   
+   Remember that self-signed certificates are not trusted by default in web browsers, so you may encounter warnings when accessing a website using such a certificate. They are primarily useful for testing purposes or for internal services where you control the client configuration. For production use or public-facing websites, it's recommended to use certificates signed by a trusted Certificate Authority (CA).
+   
+   ![gen_certificate_01.png](gen_certificate_01.png)
+   
+   ![gen_certificate_02.png](gen_certificate_02.png)
+   
+   ![gen_certificate_03.png](gen_certificate_03.png)
 - Analyze some certification paths of known websites (ex. techgrounds.nl / google.com / ing.nl).
   
   1. **techgrounds.nl**:
