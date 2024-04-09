@@ -44,24 +44,17 @@ Everyone will use the same version of Python, and the same IDE. This way, it wil
 - Install the latest version of Python from https://www.python.org/
   
   - I installed:  python-3.12.2-amd64.exe
-    
-    
 
 - Install VS Code from https://code.visualstudio.com/download
   
   - I installed: VSCodeUserSetup-x64-1.88.0.exe
-    
-    
 
 - Install the Python plug-in in VS Code.
+  
   - I installed: Python plugin v2024.4.0
-    
-    
 
 - Write the following Python code. The output in the terminal should be the text “Hello world!”  
   
   `print("Hello world!")`
   
   ![python_hello.png](python_hello.png)
-  
-  

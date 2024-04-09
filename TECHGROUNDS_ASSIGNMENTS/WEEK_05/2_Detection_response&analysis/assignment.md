@@ -52,6 +52,8 @@ For these strategies it is always important to keep track of the following metri
     RPO ≈ 1 day - 15 minutes
     
     Therefore, the Recovery Point Objective (RPO) for the database in this scenario is approximately 1 day minus 15 minutes.
+    
+    
 
 - An automatic failover to a backup web server has been configured for a website. Because the backup has to be powered on first and has to pull the newest version of the website from GitHub, the process takes about 8 minutes. What is the RTO of the website
   
