@@ -46,12 +46,15 @@ For these strategies it is always important to keep track of the following metri
   Exercise:
 
 - A Company makes daily backups of their database. The database is automatically recovered when a failure happens using the most recent available backup. The recovery happens on a different physical machine than the original database, and the entire process takes about 15 minutes. What is the RPO of the database?
+  
   - Given that the backups are made daily and the recovery process takes about 15 minutes, the potential data loss (RPO) would be approximately one day, minus the time taken for recovery:
     
     RPO ≈ 1 day - 15 minutes
     
     Therefore, the Recovery Point Objective (RPO) for the database in this scenario is approximately 1 day minus 15 minutes.
+
 - An automatic failover to a backup web server has been configured for a website. Because the backup has to be powered on first and has to pull the newest version of the website from GitHub, the process takes about 8 minutes. What is the RTO of the website
+  
   - In this scenario, the RTO is the time it takes to bring the backup web server online and make it fully operational after a failure.
     
     Given that the process of failover to the backup web server takes about 8 minutes, including the time required to power on the server and pull the newest version of the website from GitHub, the RTO would be approximately 8 minutes.
