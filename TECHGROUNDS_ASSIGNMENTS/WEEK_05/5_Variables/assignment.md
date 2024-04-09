@@ -78,7 +78,7 @@ Remember that at any time in the code, you can put a print statement to read the
 
 - Result
 
-![var_name..png](\var_name..png)
+![var_name..png](var_name..png)
 
  Exercise 3:
 
