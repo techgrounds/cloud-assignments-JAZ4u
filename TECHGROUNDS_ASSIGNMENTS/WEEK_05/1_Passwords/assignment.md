@@ -191,7 +191,7 @@ On the back-end, passwords need to be stored securely. If your database (or /etc
   
   - **03D086C9B98F90D628F2D1BD84CFA6CA**
   
-  - 
+  - I can' t unhash this password , unfortunately
 
 - Create a new user in Linux with the password 12345. Look up the hash in a Rainbow Table.
   
