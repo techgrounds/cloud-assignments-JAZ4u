@@ -204,9 +204,7 @@ On the back-end, passwords need to be stored securely. If your database (or /etc
   - Elmaries salted "12345"=
     5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5
   
-  - Shays salted "12345"=
-    
-    $6$M4ArJDmkUYKZd5zi$rCsls/VCM9dYCJSOathSO6Z5MkU4QFQURsA6gHe94FF9vz3U.QVVPT5l7M4R5Ol/OAn/3sYXgXTH/WyWTY5Q41:19821:0:99999:7:::
+  - Shays salted "12345"= $6$M4ArJDmkUYKZd5zi$rCsls/VCM9dYCJSOathSO6Z5MkU4QFQURsA6gHe94FF9vz3U.QVVPT5l7M4R5Ol/OAn/3sYXgXTH/WyWTY5Q41:19821:0:99999:7:::
   
   - my salted password (of  useraccount "username") 12345 is salted like this (as seen in /etc/shadow): 
     
