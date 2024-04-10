@@ -96,5 +96,3 @@ Remember that at any time in the code, you can put a print statement to read the
 - Result
   
   ![var_3values.png](var_3values.png)
-  
-  
