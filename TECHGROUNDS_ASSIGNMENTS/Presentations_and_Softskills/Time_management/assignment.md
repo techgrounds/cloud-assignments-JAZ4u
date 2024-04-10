@@ -2,7 +2,6 @@
 
 Source :[Kopie van Micro_Presentatie_Time management - Google Presentaties](https://docs.google.com/presentation/d/1FOAO2bCH9mxC6T4WwZipjVRz_befRF_EM8jTbc5XjzY/edit#slide=id.g20f8b58b2c7_0_0)
 
-
 Time management provides overview, productivity, quality and helps you
 achieve your goals. In this handout we give you the essentials to perfect your
 time management and take your career to the next level.
@@ -51,24 +50,30 @@ career.
 1) Set goals that are achievable and measurable. Use the SMART method
    when setting goals. In essence, make sure the goals are Specific,
    Measurable, Attainable, Relevant and Timely.
+
 2) Prioritise tasks based on importance. Look at your daily tasks and
    determine which are important and urgent. Do tasks the right way:
    • Important but not urgent, decide when to do these tasks.
    • Urgent but not important, delegate these tasks if possible.
    • Not urgent and not important, set these aside to do later.
+
 3) Setting time constraints for completing taks helps you be more
    focused and efficient. Making the small extra effort to decide on how much
    time you need to allot for tasks can help you to recognise potential problems
    before they arise. That way you can make plans for dealing with them.
+
 4) When doing a lot of tasks without a break, it is harder to stay focused
    and motivated. Allow some downtime between tasks to clear your head and
    refresh yourself. Consider going for a short walk or meditate.
+
 5) Utilise your calendar for more long-term time management. Write
    down the deadlines for a project or for tasks which are part of the project.
    Think about which days might be best to dedicate to specific tasks.
+
 6) It is important to remove excess activities or tasks. Determine what is
    significant and what deserves your time. Removing non-essential tasks frees
    up more of your time to spent on genuinely important things.
+
 7) Make sure you start the day with a clear idea what needs to be done.
    Consider making it a habit to, at the end of the day, go ahead and write out
    your ‘to-do’ list for the next workday. That way you can hit the ground
@@ -89,9 +94,13 @@ career.
    
    # Questions on time management
 1. How do you prioritise tasks?
+
 2. How do you limit distractions?
+
 3. How do you manage deadlines?
+
 4. How do you balance work and personal life?
+
 5. How do you manage stress at work?
 
 ------------------------------------------------------------------------------------------------------------------
@@ -116,27 +125,29 @@ Source: [Kopie van Micro_Presentatie_Time management - Google Presentaties](http
 
 ![timemanagement.png](timemanagement.png)
 
-
-
-
-
-
-
-
-
-
-
 ## Key-terms
 
-- pommodoro technique
+- **Time Management**: The process of organizing and planning how to divide your time between specific activities to accomplish tasks effectively and efficiently.
 
+- **Pareto Analysis (Pareto Principle)**: Also known as the 80/20 rule, it states that roughly 80% of the effects come from 20% of the causes. In practical terms, it suggests focusing efforts on the most significant factors that yield the greatest results.
 
+- **Pomodoro Technique**: A time management method developed by Francesco Cirillo that involves breaking work into intervals, traditionally 25 minutes in length, separated by short breaks. This technique aims to improve focus and productivity by working in short bursts with regular breaks.
 
+- **Eisenhower Matrix**: A decision-making framework that helps prioritize tasks by categorizing them based on their urgency and importance. It consists of four quadrants: tasks that are urgent and important, important but not urgent, urgent but not important, and neither urgent nor important.
 
+- **Parkinson's Law**: The adage that work expands to fill the time available for its completion. It suggests that if you allocate more time for a task than necessary, it will often take longer to complete.
+
+- **Time Blocking Method**: A time management technique that involves dividing your day into blocks of time dedicated to specific tasks or activities. It helps minimize distractions and ensures focused work on priority tasks.
+
+- **GTD Method (Getting Things Done)**: A productivity methodology developed by David Allen, which emphasizes capturing all tasks and ideas into an external system, organizing them, and regularly reviewing and prioritizing them to achieve a clear mind and effective task management.
+
+- **RPM (Results, Purpose, Massive Action)**: A time management system created by Tony Robbins, focusing on clarifying goals, understanding their purpose, and taking massive action to achieve them.
+
+- **Pickle Jar Theory**: An analogy suggesting that one should prioritize tasks based on their significance, akin to filling a jar with large rocks (important tasks) first, then smaller pebbles (less important tasks), and finally sand (minor tasks) to fill any remaining space.
+
+- **Eat That Frog Technique**: Coined by Brian Tracy, it's based on the idea of tackling the most challenging or unpleasant task (the "frog") first in the day, as completing it early can increase productivity and reduce procrastination.
 
 ## Assignment
-
-
 
 ### Used sources
 
