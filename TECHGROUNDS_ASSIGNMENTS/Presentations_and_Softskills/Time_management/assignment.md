@@ -165,4 +165,46 @@ Source: [Kopie van Micro_Presentatie_Time management - Google Presentaties](http
 
 ### Result
 
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Questions on time management
+
+1. How do you prioritise tasks?
+   
+   a/ Most CRITICAL task
+   
+   b/ Most Urgent task
+   
+   c/ Most awkward and blocking task
+   
+   d/ Most valuable knowledge and experience providing task
+   
+   c/ Most Fun task 
+
+2. How do you limit distractions?
+   
+   a/ set a timer to focus on work as long as the timer is not going off
+   
+   b/ TURN OFF all notifications on my phone and computer
+   
+   c/ have a TIDY workspace
+   
+   d/ take good care of my health and basic needs
+
+3. How do you manage deadlines?
+   
+   A/ agendize them with multiple alerts
+   
+   b/ 
+
+4. How do you balance work and personal life?
+   
+   a/ setting a timer on work and breaks
+   
+   b/ not wanting a 100% , perfect result
+
+5. How do you manage stress at work?
+   
+   a/ talk about this with my fellow employees
+   
+   b/ discuss what needs to be done 
+   
+   c/ set goals and priorities together with the team/employees
