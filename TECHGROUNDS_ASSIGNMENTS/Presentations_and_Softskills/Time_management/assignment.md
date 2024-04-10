@@ -167,44 +167,29 @@ Source: [Kopie van Micro_Presentatie_Time management - Google Presentaties](http
 
 Questions on time management
 
-1. How do you prioritise tasks?
-   
-   a/ Most CRITICAL task
-   
-   b/ Most Urgent task
-   
-   c/ Most awkward and blocking task
-   
-   d/ Most valuable knowledge and experience providing task
-   
-   c/ Most Fun task 
+1.How do you prioritise tasks?
 
-2. How do you limit distractions?
-   
-   a/ set a timer to focus on work as long as the timer is not going off
-   
-   b/ TURN OFF all notifications on my phone and computer
-   
-   c/ have a TIDY workspace
-   
-   d/ take good care of my health and basic needs
+a/ Most CRITICAL task  
+b/ Most Urgent task  
+c/ Most awkward and blocking task  
+d/ Most valuable knowledge and experience providing task  
+e/ Most Fun task2. 
 
-3. How do you manage deadlines?
-   
-   A/ agendize them with multiple alerts
-   
-   b/ 
+2.How do you limit distractions?  
+a/ set a timer to focus on work as long as the timer is not going off  
+b/ TURN OFF all notifications on my phone and computer  
+c/ Have a TIDY workspace  
+d/ Take good care of my health and basic needs. 
 
-4. How do you balance work and personal life?
-   
-   a/ setting a timer on work and breaks
-   
-   b/ not wanting a 100% , perfect result
+3.How do you manage deadlines?  
+a/ Agendize them with multiple alerts  
+b/
 
-5. How do you manage stress at work?
-   
-   a/ talk about this with my fellow employees
-   
-   b/ discuss what needs to be done 
-   
-   c/ set goals and priorities together with the team/employees
+4.How do you balance work and personal life?  
+a/ setting a timer on work and take breaks  
+b/ not wanting a 100% , perfect result
+
+5.How do you manage stress at work?  
+a/  talk about my stress with my fellow employees  
+b/ communicate  with the team  , about what the team thinks that needs to be done first  
+c/ set goals and priorities together with the team/employees (edited)
