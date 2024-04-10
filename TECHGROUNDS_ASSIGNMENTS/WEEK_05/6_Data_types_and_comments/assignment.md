@@ -24,7 +24,9 @@ Comments are lines that do not get processed as code. This can be used for multi
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- non-exhaustive list
+
+- 
 
 ## Assignment
 
@@ -79,9 +81,15 @@ Exercise 1:
 - Determine the data types of all four variables ( a, b, c, d) using a built-in function.
 - Make a new variable x and give it the value b + d. Print the value of x. This will raise an error. Fix it so that print(x) prints a float.
 - Write a comment above every line of code that tells the reader what is going on in your script.
+  
+  ![4variables.png](4variables.png)
+  
+  
 
  Exercise 2:
 
 - Create a new script.
 - Use the input() function to get input from the user. Store that input in a variable.
 - Find out what data type the output of input() is. See if it is different for different kinds of input (numbers, words, etc.).
+  
+  ![user_input.png](user_input.png)
