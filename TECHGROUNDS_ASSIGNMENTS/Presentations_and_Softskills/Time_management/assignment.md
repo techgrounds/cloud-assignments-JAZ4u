@@ -9,10 +9,20 @@ time management and take your career to the next level.
 # Contents:
 
 • What is time management?
+
+
 • Why is time management such an important skill?
+
+
 • Advantages of smart time management.
+
+
 • How does one become better in time management?
+
+
 • Pitfalls concerning time management.
+
+
 • Questions on time management.
 
 # What is time management?
@@ -187,7 +197,7 @@ b/
 
 4.How do you balance work and personal life?  
 a/ setting a timer on work and take breaks  
-b/ not wanting a 100% , perfect result
+b/ not ONLY wanting a 100% , perfect result
 
 5.How do you manage stress at work?  
 a/  talk about my stress with my fellow employees  
