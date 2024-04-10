@@ -48,7 +48,9 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image4.png)
 
-Image label
+      -  My script: In this script, the `input()` function prompts the user to enter their name, which is stored in the variable `user_name`. Then, it checks if the user's name matches "jaz" (case-insensitive). If it does, a personalized welcome message is printed. If not, a different personalized message is printed addressing the user by their name.
+
+![name_condition.png](name_condition.png)
 
  Exercise 2:
 
@@ -58,6 +60,8 @@ Image label
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image3.png)
 
-Image label
-
 - Make the game repeat until the user inputs 100.
+  
+  - My script : In this script, an infinite loop is used to keep the game running until the user inputs 100. Inside the loop, the user is asked to input a number, which is stored in the variable `user_number`. Then, the script checks if the user's number is higher than, lower than, or equal to 100, and provides an appropriate response. If the user inputs 100, a congratulatory message is printed, and the loop breaks, ending the game.
+  
+  ![number100.png](number100.png)
