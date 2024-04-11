@@ -10,18 +10,13 @@ time management and take your career to the next level.
 
 • What is time management?
 
-
 • Why is time management such an important skill?
-
 
 • Advantages of smart time management.
 
-
 • How does one become better in time management?
 
-
 • Pitfalls concerning time management.
-
 
 • Questions on time management.
 
