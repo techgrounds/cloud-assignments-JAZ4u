@@ -201,8 +201,12 @@ On the back-end, passwords need to be stored securely. If your database (or /etc
 
 - Despite the bad password, and the fact that Linux uses common hashing algorithms, you won’t get a match in the Rainbow Table. This is because the password is salted. To understand how salting works, find a peer who has the same password in /etc/shadow, and compare hashes.
   
-  - Elmaries salted "12345"=
+  - Elmaries UNsalted "12345"=
     5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5
+  
+  - Elmaries SALTED "12345"=
+    
+    $6$YjzF1BnV.XVCND77$Prbln1r4cnUxfMSPj.wtWN7.GFB7/3S0o2xAS5r3.qc9HsJYipLbTx/qBf6Fqs374HbH8EQAEwmrVV0LNocNn1:19821:0:99999:7:::
   
   - Shays salted "12345"= $6$M4ArJDmkUYKZd5zi$rCsls/VCM9dYCJSOathSO6Z5MkU4QFQURsA6gHe94FF9vz3U.QVVPT5l7M4R5Ol/OAn/3sYXgXTH/WyWTY5Q41:19821:0:99999:7:::
   
