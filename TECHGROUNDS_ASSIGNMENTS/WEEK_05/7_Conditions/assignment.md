@@ -16,8 +16,6 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image4.png)
 
-
-
  Exercise 2:
 
 - Create a new script.
@@ -25,8 +23,6 @@ Exercise 1:
   Example output:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image3.png)
-
-
 
 - Make the game repeat until the user inputs 100.
 
@@ -66,24 +62,7 @@ else:
     # Printing a different personalized message for other users
 
     print("Hello, " + user_name + "! Nice to meet you!")
-    ```
-
-![name_condition.png](name_condition.png)
-
- Exercise 2:
-
-- Create a new script.
-- Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.  
-  Example output:
-
-![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image3.png)
-
-- Make the game repeat until the user inputs 100.
-
-  - My script : In this script, an infinite loop is used to keep the game running until the user inputs 100. Inside the loop, the user is asked to input a number, which is stored in the variable `user_number`. Then, the script checks if the user's number is higher than, lower than, or equal to 100, and provides an appropriate response. If the user inputs 100, a congratulatory message is printed, and the loop breaks, ending the game.
 ```
-
-- Exercise 2:
 
 - Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.  
   Example output:
@@ -91,8 +70,6 @@ else:
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/848ba7dad91c7336954f2562cbef558d/image3.png)
 
 - Make the game repeat until the user inputs 100. 
-  
-    
 
 ```
 # Infinite loop to keep the game running until the user inputs 100
