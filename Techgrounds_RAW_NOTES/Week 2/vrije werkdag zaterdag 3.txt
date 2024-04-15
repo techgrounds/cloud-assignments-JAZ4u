@@ -1,0 +1,8 @@
+ssh jaz@18.196.227.119 -i "C:\Nest-Ja-Nieste.pem" -p 52202
+
+OM je Bash interface te veranderen en taken te geven als je bash opstart dan heb je dit commando nodig. 
+Dan kun je daarin taken toevoegen of wijzigen.
+sudo nano ~/.bashrc
+
+crontab source:
+https://crontab.guru/

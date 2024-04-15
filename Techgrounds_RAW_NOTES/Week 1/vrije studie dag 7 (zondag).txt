@@ -1,0 +1,61 @@
+https://chat.openai.com/share/4cd7ae45-1523-4c83-b1da-5047077fa0b4
+ubuntu Start the telnet daemon.
+ChatGPT
+To start the Telnet daemon on Ubuntu, you'll need to follow these steps:
+
+***Install Telnet Server: If you haven't already installed the Telnet server, you can do so by running the following command:***
+
+
+Copy code
+sudo apt update
+sudo apt install telnetd
+Start the Telnet Daemon: Once Telnet server is installed, you can start the Telnet daemon with:
+
+
+Copy code
+sudo systemctl start telnetd
+Enable Telnet Daemon: To ensure that Telnet daemon starts automatically on system boot, you can enable it with:
+
+
+Copy code
+sudo systemctl enable telnetd
+Now, Telnet should be running on your Ubuntu system. However, please be aware that Telnet is inherently insecure because it transmits data, including passwords, in plain text. It's generally recommended to use SSH (Secure Shell) instead for remote access. If security is a concern, consider using SSH instead of Telnet.
+
+------------------
+**Find out how much memory telnet daemon is using.
+**
+ChatGPT
+You can find out how much memory the Telnet daemon is using by using the ps command along with grep to filter out the process and awk to extract the memory usage. Here's how you can do it:
+
+bash
+Copy code
+ps aux | grep telnetd | grep -v grep | awk '{print $6}'
+This command will give you the memory usage of the Telnet daemon process in kilobytes. If you want the output in a more human-readable format (such as megabytes), you can modify the command slightly:
+
+bash
+Copy code
+ps aux | grep telnetd | grep -v grep | awk '{print $6/1024}'
+This will give you the memory usage in megabytes.
+
+Please note that the memory usage reported by this command may include shared memory and other overhead, so it may not represent the exact memory usage of just the Telnet daemon process.
+
+-------------------
+
+***Stop or kill the telnet daemon process.***
+ChatGPT
+To stop or kill the Telnet daemon process, you can use the systemctl command to stop the service. Here's how you can do it:
+
+bash
+Copy code
+sudo systemctl stop telnetd
+This command will stop the Telnet daemon process. If you want to ensure that it doesn't start again on system boot, you can also disable it:
+
+bash
+Copy code
+sudo systemctl disable telnetd
+However, if you want to kill the Telnet daemon process forcefully, you can use the killall command:
+
+bash
+Copy code
+sudo killall telnetd
+This command will terminate all processes named "telnetd". Please note that killing processes forcefully may have unintended consequences and can result in loss of data or corruption, so it should be used with caution. It's generally better to stop services using the appropriate service management commands, such as systemctl, whenever possible.

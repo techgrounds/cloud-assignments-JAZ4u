@@ -1,0 +1,60 @@
+
+
+ `week 5 , dag 2
+Casper
+9-4-2024
+- vandaag AWS summit conventie, wordt aangeraden door Casper
+- je kan er zelfs vrij voor krijgen van de opleiding , want het is leuk , leerzaam en je kan er connecties krijgen. Zorg wel eerst dat je je Linked In op orde hebt .
+- De conventie schijnt nu ook in Utrecht zijn (volgens Elmarie?)
+- Casper spoort ons aan om een conventie te vinden waar we allemaal naar toe kunnen gaan
+
+Casper informeert over encrypting:
+- asymmetrische encryptie probleem : public en private key
+- je moet een rainbow table gebruiken voor HASH , onthashing. Het is een one way encryption.
+- er is een verschil tussen hashing en encryptie. Encryptie kan beide kanten op, hashing is one way.
+- MD5 is voor Hashing, SHA2 voor encryptie.
+- rainbow table is geen algoritme die een berekening maakt om te ontcijferen.
+- gebruik voor rainbowtables : crack station
+
+Casper gaat de MD files nakijken via Github
+- hij raad aan (over zijn feedback) niet te veel tijd aan te besteden ,hij informeert hierover per Slack
+- Casper raad aan nog wel even aan het einde (van de studie?) wel je  portfolio opteschonen en netjes te maken.
+
+Dit zijn mijn notes tijdens de middag meeting met Casper :
+
+- morgen weer Shikha
+
+** Over azure en AWS certificering en werk: 
+- Microsoft bied hetzelfde als Amazon kwa disaster recovery. Amazon bied zelfs meer dataverlies vermijding dan Microsoft (less dataloss) .
+- Microsoft , heeft goede design patterns " well architected framework" : dit is hoe je je IT het beste kan opzetten ( dit gaat uit van 5 pilaren :security/availabillity/Resiliencey/cost ??) . Dit is documentatie waarvan je de 5 pilaren dient te kennen!
+- Azure consultancy is het beste betaald, certificaten zijn daar ECHT BELANGRIJK. Zorg dat je 10-11 certificaten hebt over 10 jaar.
+- Nu gaan we AZ900 behalen via deze studie.
+- welke kant wil je hierna? Cloudpartitioner? /of richting AZ104?
+- als je verder aan het werk wilt : zorg dat je werkervaring hebt ,een portofolio project hebt, en begin zo spoedig mogelijk te werken (met 2 certificaten max op zak ).
+- Casper zegt Specialiseer je in Azure om uit te bouwen op wat je al hebt. Een uitzondering is security fundamentals. Dat kan nuttig zijn.
+- met consultancy heb je het meeste aan certificering want je kan jezelf verhuren. met 11 certificaten kun je  1100(per uur) vragen?
+- AI certificeringen zijn gebasseerd op AI research. Ai tools komen in de bestaande examens van developers(?)
+- Casper heeft zijn developer associate voor AWS.
+- Casper zegt dat de examenvragen niet heel diep gaan , maar je voornamelijk ondervraagt over wat de basis is en het aanbod is.
+- De eerste  AZ900 certificaat doet men allemaal best gemakkelijk. Voor 1 certificaat  (daarna)  doe je ongeveer 3-4 maanden als je er diep op in gaat. MAAR DOE WERKERVARIONG OP!!
+- Voor associate level adviseert men 1 jaar werkervaring. 3-5 jaar werkervaring adviseert men voor de professional levels.
+- we gaan toegang krijgen tot een oefenplatform , waar we ons kunnen voorbereiden op de vragen.
+- we krijgen alleen AZ900 van Techgrounds , maar andere examens kosten ongeveer 15 euro.
+- AWS900 heeft officieel 35-65 vragen? Je moet 700 van 1000 punten halen om te slagen. Casper zegt dat het Multiple choice vragen zijn.
+- Red-Hat examens : kunnen langer zijn dan 1 dag. Je krijgt bijvoorbeeld een machine  die stuk is : "MAAK HET" is dan de opdracht. Als je daarmee (Red Hat examens) slaagt dan kun je wel wat zegt Casper.
+- op je eerste betaalde baan : ga uit van TECH SUPPORT, en misschien CLOUD SUPPORT. De werkervaring plek van Techgrounds is wel zo goed mogelijk gericht op Cloud werk.
+- Killian ( misschien goed om contact mee op te nemen ) , hij doet Tech support , maar gerelateerd aan CLOUD vragen/omgeving?
+- TECH SUPPORT = vragen over algemeen technische zaken  
+- Cloud support = gaat echt over vragen in cloud omgevingen ( eigenlijk over hetgene we nu leren in de studie) 
+- MSP is goed om mensen te matchen.
+
+
+** Python vragen , en antwoorden van Casper:
+- de (toets?)opdracht voor Python : kan op niveau gedaan worden . als je er goed in bent dan kun je een moeilijkere test doen.
+- Reden dat Techgrounds Python doet: de makkelijkste taal om de basis concepten van programmeer talen te leren
+- Scripting gaan we nog terugvinden in de opdracht over virtuele machines.
+- er zijn geen programmeer cursussen die gespecificeerd zijn voor Cloud Engineering
+- voor coding videos raad casper aan : Coding met NANA
+- voor Azure uitleg raad Casper videos aan :John Seville
+- voor networking videos: Network Chuck
+-

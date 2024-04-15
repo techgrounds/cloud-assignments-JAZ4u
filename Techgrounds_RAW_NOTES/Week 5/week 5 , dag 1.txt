@@ -1,0 +1,31 @@
+week 5 , dag 1
+Shikha
+network case stude sprint review: 
+-goed gesegmenteerd netwerk
+-goed geconfigureerd firewall en beschrijving. there can be multiple firewalls.
+We need to explain which ports are open . Admin sevrer should be protected .
+
+**Be careful with your health , take careful breaks.Stay alive and healthy , than we can achieve something in live.**
+
+
+
+Shikha tips for assymetric and semetric encryption:
+https://www.okta.com/identity-101/asymmetric-encryption/
+Dit artikel legt het uit in stappen
+
+Shikha Jha 13:49
+the Diffie-Hellman exchange method.
+
+
+
+rgearding week 5
+-know when it is efective ( when to crack the password)
+
+Week 5 is about setting up Python:
+++++
+
+My presentation Feedback:
+-look at audience ehen presenting: make contact
+-voice modulation: more energy to this presentation
+-Do not make the presentation like it is just a normal conversation
+-ASK NEXT TIME ON WEDNESDAY WHAT IS EXPECTED IN THE PRESENMTATION!
