@@ -1,7 +1,6 @@
 Morning Notes with Shikha :
 Week 6 , dag 1 (15-4-2024)
 Shik ha
-Ochtend meeting:
 - 	Next week we have workshop at JP Morgan; it is about interview skills and stuff you need to know
 	It is at the office of JP Morgan
 -	Adress: Strawinskylaan 1135, Amsterdam, Netherlands
@@ -12,4 +11,16 @@ Ochtend meeting:
 ( They will expect you to do this homework  , it will describe you. It is about softskills : about what you want to achieve , and what your goals are.)
 -	Dress code : formal = (in suit?)  you present yourself, look your best
 -	We will do it together with the CRM group / and Cloud group (edited) 
+- 	the JP Morgan workshop: IT IS MANDATORY, we are ALL EXPECTED
 
+Afternoon notes, with Shikha (15-4-'24):
+- Shikha had us give an object to eachother before Check in , this was to make it more interesting ( playful excersice)
+- we have a new topic for the presentation it is about : Security ( on next monday )
+- Sprint Presentation 22nd of April, more details : It has to be about Asymmetric encryption. Give a brief explanation (what is it and how it is different from symmetric encryption)
+- Shikha will contact Monique , regarding this JP Morgan reassignment we need to do, as it is not sent to us yet?
+- Elmarie can't present this security ( she has an appointment) . So guess who has to present Security... If Sam does not show up then Shay or Jaz will have to present.
+- Reminder about the JP Morgan workshop: IT IS MANDATORY, we are ALL EXPECTED
+- in the future we have to do EACH week a Sprint Presentation, and the presentation will be prepared individually ( no longer with the team ). The Learning Coaches will choose with this wheel of fortune selection thing,
+- Shikha informed us  that Casper wants(has?)  to delete our virtual machines. I have asked to delete it 22-4-2024. She said OK to that.
+- Shikha suggests we do CKA: Certified Kubernetes Administrator ( this is to prove you are skilled with LINUX )
+- FoR CKA you can Start with Docker( to practise / or its free?) 
