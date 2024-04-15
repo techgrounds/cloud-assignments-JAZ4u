@@ -51,46 +51,35 @@ Exercise 1:
 | Company    | Techgrounds    |
 
 - Loop over the dictionary and print every key-value pair in the terminal.
-  
-  
-  
-  
-  
+
   Result of excercise 1:
-  
+
   This script will output each key-value pair in the `person_info` dictionary in the terminal.
-  
-  ```
-  # Create a dictionary with the specified keys and values
-  person_info = {
-      "First name": "Casper",
-      "Last name": "Velzen",
-      "Job title": "Learning coach",
-      "Company": "Techgrounds"
-  }
-  
-  # Loop over the dictionary and print every key-value pair
-  for key, value in person_info.items():
-      print(key + ":", value)
-  
-  ```
-  
+
+```
+# Create a dictionary with the specified keys and values
+person_info = {
+    "First name": "Casper",
+    "Last name": "Velzen",
+    "Job title": "Learning coach",
+    "Company": "Techgrounds"
+}
+
+# Loop over the dictionary and print every key-value pair
+for key, value in person_info.items():
+    print(key + ":", value)
+```
+
   ![key_value_pairs.png](key_value_pairs.png)
-  
-  
 
  Exercise 2:
 
 - Create a new script.
 - Use user input to ask for their information (first name, last name, job title, company). Store the information in a dictionary.
 - Write the information to a csv file (comma-separated values). The data should not be overwritten when you run the script multiple times.
-  
-  
-  
-  
-  
+
   Result of Excercise 2:
-  
+
   This script first defines two functions: `get_user_info()` to collect user information and `write_to_csv()` to append this information to a CSV file. The `main()` function orchestrates these actions. Each time you run the script, it prompts the user for their information, appends it to the CSV file, and prints a confirmation message. The CSV file is created if it doesn't exist, and subsequent runs of the script will append new entries without overwriting existing data.
 
 ```
@@ -128,7 +117,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 ```
 
 ![user_inf_csv.png](user_inf_csv.png)
