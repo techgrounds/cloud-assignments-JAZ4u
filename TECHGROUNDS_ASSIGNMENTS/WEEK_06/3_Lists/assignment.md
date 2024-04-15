@@ -21,8 +21,6 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/ae3ea63690cd68e7b44908417984166f/image4.png)
 
-Image label
-
  Exercise 2:
 
 - Create a new script.
@@ -37,8 +35,6 @@ Image label
   Example output:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/ae3ea63690cd68e7b44908417984166f/image3.png)
-
-Image label
 
 The first result above is created by adding 9 and 80. The second result is created by adding 80 and 16, etc. The last result is created by adding 35 and 9.
 
@@ -61,7 +57,17 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/ae3ea63690cd68e7b44908417984166f/image4.png)
 
-Image label
+```
+# Create a list of five names
+names = ["Jaz", "Elmarie", "Shay", "Sam", "Shikha"]
+
+# Loop over the list using a for loop
+for name in names:
+    # Print every individual name in the list on a new line
+    print(name)
+```
+
+![list_names.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\3_Lists\list_names.png)
 
  Exercise 2:
 
@@ -78,6 +84,26 @@ Image label
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/ae3ea63690cd68e7b44908417984166f/image3.png)
 
-Image label
-
 The first result above is created by adding 9 and 80. The second result is created by adding 80 and 16, etc. The last result is created by adding 35 and 9.
+
+Result of excercise 2:
+
+- We create a list of five integers named `numbers`.
+- We use a for loop to iterate over the indices of the list using `range(len(numbers))`.
+- For each index `i`, we calculate the index of the next item in the list using `(i + 1) % len(numbers)`. This ensures that when we reach the last item in the list, it wraps around to the first item.
+- We print the sum of the current item and the next item using `numbers[i] + numbers[next_index]`.
+
+```
+# Create a list of five integers
+numbers = [10, 20, 30, 40, 50]
+
+# Use a for loop to iterate over the list
+for i in range(len(numbers)):
+    # Calculate the index of the next item in the list
+    next_index = (i + 1) % len(numbers)
+
+    # Print the value of the current item added to the value of the next item
+    print(numbers[i] + numbers[next_index])
+```
+
+![list_5int.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\3_Lists\list_5int.png)
