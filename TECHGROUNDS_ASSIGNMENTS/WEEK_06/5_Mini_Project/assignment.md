@@ -49,7 +49,9 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
 - The player guesses a number. For every wrong answer the player receives a clue.
 - When the player guesses the right number, display a score.
 
-  Result Number Guessing:
+  
+
+Result Number Guessing:
 
   This script defines three functions:
 
@@ -90,6 +92,8 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
     play_game()
   ```
 
+
+
  Rock Paper Scissors:
 
 - The player plays against a computer opponent typing either a letter (rps) or an entire word (rock paper scissors) to play their move.
@@ -99,7 +103,9 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
 - Finally, create a function that keeps track of the score.
 - The game should be played in a predetermined number of rounds.
 
-  Result Rock/Paper/Scissors:
+ 
+
+ Result Rock/Paper/Scissors:
 
   This script defines several functions:
 
