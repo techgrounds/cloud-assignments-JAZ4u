@@ -68,6 +68,8 @@ for _ in range(5):
     print(random.randint(0, 100))
 ```
 
+![import_package.png](import_package.png)
+
 This script will generate and print 5 random integers, each between 0 and 100.
 
  Exercise 2:
@@ -97,6 +99,8 @@ myfunction_with_name("Jaz")
 
 The first part of the script calls `myfunction()`, which prints "Hello, world!" to the terminal. The second part defines a modified function `myfunction_with_name()` that takes a string argument `name` and prints "Hello, NAME!" using the provided name. Finally, it calls `myfunction_with_name("Jaz")` as an example.
 
+![myfunction.png](myfunction.png)
+
  Exercise 3:
 
 - Create a new script.
@@ -117,7 +121,8 @@ Copy the code below into your script.
   y = 255
   z = avg(x, y)
   print("The average of", x, "and", y, "is", z)
-  
   ```
   
   In this script, the avg() function takes two parameters x and y, calculates their average (x + y) / 2, and returns the result. The rest of the code remains unchanged, as per your instructions.
+
+![average.png](average.png)

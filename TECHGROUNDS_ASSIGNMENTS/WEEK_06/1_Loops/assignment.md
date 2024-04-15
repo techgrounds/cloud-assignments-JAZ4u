@@ -70,8 +70,6 @@ while x <= 10:
 
 ![varx_val0.png](varx_val0.png)
 
-
-
  Exercise 2:
 
 - Create a new script.
@@ -118,9 +116,6 @@ while x <= 10:
   for name in arr:
       # Print each name individually
       print(name)
-  
   ```
-  
-  
 
 ![array.png](array.png)
