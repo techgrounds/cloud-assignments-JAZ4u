@@ -18,8 +18,6 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/1fe0ad80bd665f0273c1bfb2ebc7a425/image4.png)
 
-Image label
-
  Exercise 2:
 
 - Create a new script.
@@ -58,7 +56,21 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/1fe0ad80bd665f0273c1bfb2ebc7a425/image4.png)
 
-Image label
+```
+# Create a variable x and give it the value 0
+
+x = 0
+
+# Use a while loop to print the value of x and increase it by 1
+
+while x <= 10:
+    print(x)
+    x += 1
+```
+
+![varx_val0.png](varx_val0.png)
+
+
 
  Exercise 2:
 
@@ -68,8 +80,26 @@ Image label
 `for i in range(10): # do something here`
 
 - Print the value of i in the for loop. You did not manually assign a value to i. Figure out how its value is determined.
+
 - Add a variable x with value 5 at the top of your script.
+
 - Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.
+  
+  ```
+  # Add a variable x with value 5
+  x = 5
+  
+  # Use a for loop to iterate over a range of 10
+  for i in range(10):
+      # Print the value of i in the for loop
+      print("Value of i:", i)
+      # Print the value of x multiplied by the value of i
+      print("Value of x * i:", x * i)
+  ```
+  
+  In this script, the `for` loop iterates over a range of numbers from 0 to 9 (inclusive). The variable `i` is automatically assigned each value from the range in each iteration of the loop. Then, the value of `x` is multiplied by the current value of `i`, and the result is printed.
+  
+  ![i_range10.png](i_range10.png)
 
  Exercise 3:
 
@@ -79,3 +109,18 @@ Image label
 > `arr = ["Shikha", "Casper", "Bart", "Ruben", "Ulviye"]`
 
 - Use a for loop to loop over the array. Print every name individually.
+  
+  ```
+  # Define the array
+  arr = ["Shikha", "Casper", "Bart", "Ruben", "Ulviye"]
+  
+  # Use a for loop to iterate over the array
+  for name in arr:
+      # Print each name individually
+      print(name)
+  
+  ```
+  
+  
+
+![array.png](array.png)
