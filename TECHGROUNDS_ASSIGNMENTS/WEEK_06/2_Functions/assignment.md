@@ -19,8 +19,6 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/50733c31626de82900d79da6463e2176/image4.png)
 
-Image label
-
  Exercise 2:
 
 - Create a new script.
@@ -61,7 +59,16 @@ Exercise 1:
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/50733c31626de82900d79da6463e2176/image4.png)
 
-Image label
+```
+# Import the random package
+import random
+
+# Print 5 random integers between 0 and 100
+for _ in range(5):
+    print(random.randint(0, 100))
+```
+
+This script will generate and print 5 random integers, each between 0 and 100.
 
  Exercise 2:
 
@@ -72,7 +79,23 @@ Image label
 
 ![](https://lwfiles.mycourse.app/642fed69f84f1f76d03f116a-public/ebook/50733c31626de82900d79da6463e2176/image3.png)
 
-Image label
+```
+# Define the custom function myfunction() to print "Hello, world!"
+def myfunction():
+    print("Hello, world!")
+
+# Call myfunction
+myfunction()
+
+# Modified function to take a string argument and print "Hello, NAME!"
+def myfunction_with_name(name):
+    print("Hello,", name + "!")
+
+# Call myfunction_with_name with a name argument
+myfunction_with_name("Jaz")
+```
+
+The first part of the script calls `myfunction()`, which prints "Hello, world!" to the terminal. The second part defines a modified function `myfunction_with_name()` that takes a string argument `name` and prints "Hello, NAME!" using the provided name. Finally, it calls `myfunction_with_name("Jaz")` as an example.
 
  Exercise 3:
 
@@ -83,3 +106,18 @@ Copy the code below into your script.
 `   def avg():   # write your code here   # you are not allowed to edit any code below here      x = 128   y = 255   z = avg(x,y)      print("The average of",x,"and",y,"is",z)   `
 
 - Write the custom function avg() so that it returns the average of the given parameters. You are not allowed to edit any code below the second comment.
+  
+  ```
+  def avg(x, y):
+      # Calculate the average of x and y
+      return (x + y) / 2
+  
+  # you are not allowed to edit any code below here
+  x = 128
+  y = 255
+  z = avg(x, y)
+  print("The average of", x, "and", y, "is", z)
+  
+  ```
+  
+  In this script, the avg() function takes two parameters x and y, calculates their average (x + y) / 2, and returns the result. The rest of the code remains unchanged, as per your instructions.
