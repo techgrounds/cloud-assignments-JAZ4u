@@ -75,7 +75,7 @@ Exercise 1:
   
   ```
   
-  ![key_value_pairs.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\4_Key_value_pairs\key_value_pairs.png)
+  ![key_value_pairs.png](key_value_pairs.png)
   
   
 
@@ -131,4 +131,4 @@ if __name__ == "__main__":
 
 ```
 
-![user_inf_csv.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\4_Key_value_pairs\user_inf_csv.png)
+![user_inf_csv.png](user_inf_csv.png)

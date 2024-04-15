@@ -67,7 +67,7 @@ for name in names:
     print(name)
 ```
 
-![list_names.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\3_Lists\list_names.png)
+![list_names.png](list_names.png)
 
  Exercise 2:
 
@@ -106,4 +106,4 @@ for i in range(len(numbers)):
     print(numbers[i] + numbers[next_index])
 ```
 
-![list_5int.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\TECHGROUNDS_ASSIGNMENTS\WEEK_06\3_Lists\list_5int.png)
+![list_5int.png](list_5int.png)
