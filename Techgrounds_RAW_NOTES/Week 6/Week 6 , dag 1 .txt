@@ -1,6 +1,6 @@
 Morning Notes with Shikha :
 Week 6 , dag 1 (15-4-2024)
-Shik ha
+
 - 	Next week we have workshop at JP Morgan; it is about interview skills and stuff you need to know
 	It is at the office of JP Morgan
 -	Adress: Strawinskylaan 1135, Amsterdam, Netherlands
@@ -13,14 +13,20 @@ Shik ha
 -	We will do it together with the CRM group / and Cloud group (edited) 
 - 	the JP Morgan workshop: IT IS MANDATORY, we are ALL EXPECTED
 
+
 Afternoon notes, with Shikha (15-4-'24):
-- Shikha had us give an object to eachother before Check in , this was to make it more interesting ( playful excersice)
-- we have a new topic for the presentation it is about : Security ( on next monday )
-- Sprint Presentation 22nd of April, more details : It has to be about Asymmetric encryption. Give a brief explanation (what is it and how it is different from symmetric encryption)
-- Shikha will contact Monique , regarding this JP Morgan reassignment we need to do, as it is not sent to us yet?
-- Elmarie can't present this security ( she has an appointment) . So guess who has to present Security... If Sam does not show up then Shay or Jaz will have to present.
-- Reminder about the JP Morgan workshop: IT IS MANDATORY, we are ALL EXPECTED
-- in the future we have to do EACH week a Sprint Presentation, and the presentation will be prepared individually ( no longer with the team ). The Learning Coaches will choose with this wheel of fortune selection thing,
-- Shikha informed us  that Casper wants(has?)  to delete our virtual machines. I have asked to delete it 22-4-2024. She said OK to that.
-- Shikha suggests we do CKA: Certified Kubernetes Administrator ( this is to prove you are skilled with LINUX )
-- FoR CKA you can Start with Docker( to practise / or its free?) 
+
+- 	Shikha had us give an object to eachother before Check in , this was to make it more interesting ( playful excersice)
+- 	we have a new topic for the presentation , it is about : Security ( on next monday 22nd of April)
+- 	Sprint Presentation 22nd of April, more details : It has to be about Asymmetric encryption. Give a brief explanation , about what it is , and how it is different from symmetric encryption.
+- 	Shikha will contact Monique , regarding this JP Morgan reassignment we need to do, as it is not sent to us yet?
+- 	Elmarie can't present the Presentation after the next upcoming presentation , so she must present next presentation about  security on 22nd of April ( she is  going away with family as it's school holiday around then) . So guess who has to present the next time after  Elmarie (on the 29th of April)?
+  BTW:If a presenter does not show up , then another team member must do it ( eventhough he may allready presented a sprint presentation in a previous week !)
+Bottomline: Elmarie has to present next presentation about Security.
+- 	Reminder about the JP Morgan workshop: IT IS MANDATORY, we are ALL EXPECTED
+- 	in the future we have to do EACH week a Sprint Presentation, and the presentation will be prepared individually ( no longer with the team ). The Learning Coaches will choose with this wheel of fortune selection thing,
+- 	Shikha informed us  that Casper wants(/has?)  to delete our virtual machines. I have asked to delete it 22-4-2024. She said OK to that.
+- 	Shikha suggests we do CKA: Certified Kubernetes Administrator ( this is to prove you are skilled with LINUX )
+She says about this:
+" Certifiied Kubernetes Administrator is issued by The Linux Foundation. In addition, please dive deep into Linux once done with the course as Linux, Python, Kubernetes are must have for aspiring Cloud Professionals."
+- 	For CKA (Certifiied Kubernetes Administrator) you can start with Docker( to practise / or because its free?)

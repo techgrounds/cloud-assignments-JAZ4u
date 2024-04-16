@@ -1,0 +1,13 @@
+Week 6 , dag 2:
+Ochtend Notes, met Casper van Velzen
+16-4-2024
+-	1 van eerste opdrachten in Azure gaat over kosten , als je voorzichtig bent dan is er niet veel aan de hand, maak bewuste keuzes wat je doet
+-	we moeten maandag onze email in de gaten houden ( waarschijnlijk voor Azure abonnement)
+- 	Nogmaals let op met je Azure abonnement :  let op de kosten die je kunt maken  (vraag terzijnertijd duidelijk aan Casper waar je NIET op moet clicken?)
+- 	maandag 22-4-2024  gaat onze Linux Virtual Machine eruit
+- 	Casper zegt dat de JP Morgan workshop vaak beschouwd wordt als beste baan verwerver, het is valuable dus
+-	morgen doet Casper softskill onderwerp : selfreflection
+-	Casper bevestigde het presentatie onderwerp : het is asymmetric encryption
+-	Elmarie doet de eerstvolgende Security presentatie op 22-4-2024 ( over asymmetric encryption)
+-	Caspers tips voor presentatie : ken de theorie goed, vraag team om hulp
+-	Sam is bezig met iets (externs?) , en heeft zijn AZ900 nodig voor iets
