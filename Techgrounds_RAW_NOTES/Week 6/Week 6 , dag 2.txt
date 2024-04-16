@@ -11,3 +11,19 @@ Ochtend Notes, met Casper van Velzen
 -	Elmarie doet de eerstvolgende Security presentatie op 22-4-2024 ( over asymmetric encryption)
 -	Caspers tips voor presentatie : ken de theorie goed, vraag team om hulp
 -	Sam is bezig met iets (externs?) , en heeft zijn AZ900 nodig voor iets
+
+Middag notes met Casper/ 16-4-2024:
+- 	python defmain gebruik je vooral als je meerdere python scrip[ts in een script hebt. Dan is het een indicatie wat de computer dient aftespelen , bijvoorbeeld "main"
+-	python oefeningen zijn zodat je basisconcepten weet te begrijpen en erover kunt meepraten, het is om context te kunnen geven. Het zal waarschijnlijk niet ze zijn dat je moet kunnen scripten in je eerste baan , tenzij je developer wordt
+-	Elmarie moet gaan , ze moet de kinderen ophalen, en zal morgen weer aanwezig zijn .
+-	Volgens Casper: Sam heeft een blessure aan zijn hand , en dat hindert hem. Dat kan wel 2 weken duren voor hij weer een beetje goed kan typen
+-	Python is een vand e onderwerpen waar Certificerinigen weinig uitmaakt: toon gewoon projectjes. Preogrammeren is echt PRAKTIJK en ervaring opdoen.Theorie is leuk , maar "laat maar zien dat je het kan".
+- 	Je kan Python gebruiken om statistieken te berekenen en te verkrijgen , door bijvoorbeeld een miljoen keer een worp met 2 dobbelstenen.
+-	als je chatgpt gebruikt verifeeer de code , let ook op dat je bepaalde onderedelen in ministukjes aan het werk krijgt. Dus blok voor blok. 
+-	Casper zegt Printstatements zijn je vriend ( het is een debugtool)
+-	Chatgpt 4 is beter dan 3,5 chatgpt ( grait) in clean code schrijven.
+- 	w3 schools , is een goede soource waar je "hoe-te-codering" kan vinden: https://www.w3schools.com/python/default.asp 
+-	een goed Python book volgens Elmarie : Python for Everybody by Charles Severance
+-	
+
+	
