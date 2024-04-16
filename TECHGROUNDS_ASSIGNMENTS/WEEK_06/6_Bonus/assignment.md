@@ -20,7 +20,9 @@ Exercise:
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- The Techgrounds ‘Pls fix’ folder ,which contains 16 very small Python scripts that are somehow broken.
+
+- 
 
 ### Encountered problems
 
@@ -31,3 +33,43 @@ Exercise:
 Exercise:
 
 - Fix the 16 broken Python scripts
+
+- 1
+  
+  ![1.png](1.png)
+
+- 2
+  
+  ![2.png](2.png)
+
+- 3
+  
+  ![3.png](3.png)
+
+- 4
+  
+  ![4.png](4.png)
+
+- 5
+
+- 6
+
+- 7
+
+- 8
+
+- 9
+
+- 10
+
+- 11
+
+- 12
+
+- 13
+
+- 14
+
+- 15
+
+- 16
