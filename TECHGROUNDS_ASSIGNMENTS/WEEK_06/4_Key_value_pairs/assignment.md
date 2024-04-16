@@ -5,8 +5,6 @@ Key-value pairs are a general concept you will definitely encounter. Some exampl
 ## Key-terms
 
 - NoSQL
-  
-  
 
 - Dictionaries (dict)
 

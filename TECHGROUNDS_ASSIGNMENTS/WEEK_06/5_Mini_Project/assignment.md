@@ -90,6 +90,8 @@ Result Number Guessing:
     play_game()
   ```
 
+![number_guess.png](number_guess.png)
+
  Rock Paper Scissors:
 
 - The player plays against a computer opponent typing either a letter (rps) or an entire word (rock paper scissors) to play their move.
@@ -172,6 +174,8 @@ if __name__ == "__main__":
     play_game(rounds)
 ```
 
+![rock_paper_scissor.png](rock_paper_scissor.png)
+
  Tic-Tac-Toe:
 
 - Generate a 3x3 board on the command line.
@@ -237,3 +241,5 @@ def play_game():
 if __name__ == "__main__":
     play_game()
 ```
+
+![tic_tac_toe.png](tic_tac_toe.png)
