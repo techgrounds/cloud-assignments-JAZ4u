@@ -2,7 +2,47 @@ Week 6 , dag 3
 17-4-2024
 ochtend notes met Casper
 
--	zoom call kan max 36 uur aan 
--	vanmiddag over softskills
--	Casper is vandaag Jarig
+-	zoom call voor techgrounds kan maximaal 36 uur aan 
+-	vanmiddag over softskills: Selfreflection
+-	Casper is vandaag Jarig (27 jaar geworden) 
+-	nogmaals de bonus opdrachten : 1 ding corrigeren voornamelijk , geen printstatement doen , de code moet goed werken.
+-	
+middag notes met Casper:
+17-4-2024
+SOFTSKILLS (SELF REFLECTIE)
+-	softskills : selfreflectie slides zijn geshared?
+-	zorg dat je self reflectie Structureel doet
+-	doe selfreflectie  om te leren over jezelf, zodat anderen het ook minder hoeven doen . Wat wel eens awkward kan zijn. Feedback van anderen kan altijd komen en kan nuttig gebruikt worden.
+-	(Self) Reflectie zit in ook in Scrum
+- 	Volgens Casper is in 99% van de IT banen Scrum geimplementeerd.
+-	Vaak laten bedrijven die Scrum implementeren : "retrospective " vallen na verloop van tijd , zorg dan dat je het op een of andere manier doet
+-	Bij de Scrum " restrospective " is alleen het team aanwezig : vaak gaat het over een overschatting of onderschatting.
+Gevaar kan zijn dat men met deze informatie niets meer mee gaat doen! Let erop dat dit door gaat.
+-	selfreflectie = what am I doing / Why am I doing it / is there a better way. This is to optimise your skills , and cut off harmful habits or ineffective methods.
+-	About habits , Elmarie recommended the book : " Atomic habits "
+-	meeste reflection models zijn gebasseerd op PDCA cycle ( plan/do/check/act). Het is een cyclus , dus je begint na een cycle weer opnieuw ( om iets nieuws te identificeren en/of te proberen)
+- 	Voorbeelden van reflection models: STARR / Korthagen / GIBSS ( deze staan in de handout reader, neem deze door )
+-	Casper raad aan : Als dingen fout gaan , doe dan neit alles tegelijk ; doe het in delen om het optelossen. Als je alles tegelijk wil aanpakken kan je heel traag vooruitkomen ( omdat het misschien te veel is om te bevatten?)
+-	Casper raad aan om de belangrijkste zaken te reflecten , het essentieelste. Het is bijvoobeeld minder van belang om selfreflectie te doen over hoe je de afwas doet ( maar het kan wel natuurlijk).
+-	je kan de selfreflectie  registreren .Zodat je inzicht hebt in wat je hebt gedaan, en hoe je het hebt gedaan , of hoe je tot een bepaald punt/doel bent gekomen .
+-      Selfreflectie kan met de STARR methode bijvoorbeeld. Zodoende kun je ook (jezelf) aantonen dat je je zelf kan verbeteren , en de methodiek kunt toepassen en implementeren in je leven.
+-	Als je selfreflectie vaak doet , dan kun je je ontwikkelingen beter peilen. Je kunt misschien zodoende  beter begrijpen hoe goed je growth is.
+-	Doe selfreflectie op een vast tijdstip , bijvoorbeeld elke eind van de week , eind van de dag. Zodat je er een gewoonte van maakt.
+-	Zorg dat je op basis van objectiviteit je zelfreflectie doet: niet op basis van persoonlijke emotie (of persoonlijke opinie dus)
+-	Een "summary" slide is (naar mijn en Caspers mening) goed om een presentaite te eindigen. Omdat het publiek dat laatste meestal goed onthoud , of de big picture krijgt voor afsluiting)
+-	Elmarie brought in the 360 feedback : leidinggevenden implemneteren gestructureerd selfreflectie in ( bedrijven met OKRS of V2bom ?). Dit is een van de vele self reflectie methodes.
+-	het bespreken en blijven documenteren van het behalen van goals , behaald/failed? Is een vorm van selfreflectie?
+- 	NB : laat je niet gek maken over altijd bij leren , soms is de learning curve wat minder stijl.
+- 	Selfreflectie is om je eigen blinde spot te belichten . Accepteer  feedback  en benut die .Goede Selfreflectie kan awkward feedback van anderen REDUCEREN.
+WERK?SOLLICITATIE
+-	Als je solliciteert : begin niet gelijk over het loon , dat kan misschien de indruk wekken dat je het voor het geld doet , en dat dat je hoofd motivatie is ( ipv graag het werk willen doen voor dat bedrijf).
+-	het bedrijf laat je meestal vrij over welk certificeringspad je wilt gaan volgen ; maar laat ze wel in de richting zijn van je werk.
+SCRUM:
+-	Hoe kun je SCRUM leren:  we doen dit al verweven in deze Techgrounds opleiding  (Check in / Sprint review) . We worden aangeraden om vanaf nu voortaan ook een RETROSPECTIVE te doen. De retrospective kan bijvoorbeeld aan het einde van de week.
+JP MORGAN:
+-	Hoe zit het met de JP Morgan assignment:  die hebben we vandaag ontvangen in de mail als attachment.
+-	BTW : Is de JP Morgan workshop en het maken van een geupdate Linked_In bewust aansluitend op de softskill : selfreflectie?
+FEEDBACK OVER OPLEIDING:
+-	feedback: over 2 weken  is het week 8 al , dan gaat er een feedback verzoek komen van Casper over de opleiding ( op woensdag).
+-	Casper neemt die feedback mee naar de volgende techgrounds group , zoals Cloud14. 
 -	
