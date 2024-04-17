@@ -14,15 +14,11 @@ The exercises are approximately ordered based on difficulty level, but you might
 
 - **ls** and **ln**: These are typically commands used in Unix-like operating systems (such as Linux) rather than Python. `ls` is used to list directory contents, while `ln` is used to create links between files.
 
-- 
-
 - **random.randint**: `random.randint` is a function provided by the `random` module in Python. It's used to generate random integers within a specified range.
   
   Example:
   
   `import random x = random.randint(1, 100)`
-  
-  
 
 - **+=** and **-=**: `+=` and `-=` are augmented assignment operators in Python. They are used to add or subtract a value from a variable and then assign the result back to the variable.
   

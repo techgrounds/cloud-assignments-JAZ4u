@@ -18,8 +18,6 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
   
   Example:
   
-  pythonCopy code
-  
   `result = 5 + 3  # Addition result = 5 - 3  # Subtraction`
   
   
