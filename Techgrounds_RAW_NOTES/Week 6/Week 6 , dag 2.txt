@@ -13,17 +13,20 @@ Ochtend Notes, met Casper van Velzen
 -	Sam is bezig met iets (externs?) , en heeft zijn AZ900 nodig voor iets
 
 Middag notes met Casper/ 16-4-2024:
-- 	python defmain gebruik je vooral als je meerdere python scrip[ts in een script hebt. Dan is het een indicatie wat de computer dient aftespelen , bijvoorbeeld "main"
--	python oefeningen zijn zodat je basisconcepten weet te begrijpen en erover kunt meepraten, het is om context te kunnen geven. Het zal waarschijnlijk niet ze zijn dat je moet kunnen scripten in je eerste baan , tenzij je developer wordt
--	Elmarie moet gaan , ze moet de kinderen ophalen, en zal morgen weer aanwezig zijn .
--	Volgens Casper: Sam heeft een blessure aan zijn hand , en dat hindert hem. Dat kan wel 2 weken duren voor hij weer een beetje goed kan typen
--	Python is een vand e onderwerpen waar Certificerinigen weinig uitmaakt: toon gewoon projectjes. Preogrammeren is echt PRAKTIJK en ervaring opdoen.Theorie is leuk , maar "laat maar zien dat je het kan".
-- 	Je kan Python gebruiken om statistieken te berekenen en te verkrijgen , door bijvoorbeeld een miljoen keer een worp met 2 dobbelstenen.
--	als je chatgpt gebruikt verifeeer de code , let ook op dat je bepaalde onderedelen in ministukjes aan het werk krijgt. Dus blok voor blok. 
--	Casper zegt Printstatements zijn je vriend ( het is een debugtool)
--	Chatgpt 4 is beter dan 3,5 chatgpt ( grait) in clean code schrijven.
-- 	w3 schools , is een goede soource waar je "hoe-te-codering" kan vinden: https://www.w3schools.com/python/default.asp 
--	een goed Python book volgens Elmarie : Python for Everybody by Charles Severance
--	
 
-	
+- 	python `defmain` command gebruik je vooral als je meerdere python scripts in een script hebt. Dan kan het een indicatie zijn voor welk script de computer dient aftespelen , bijvoorbeeld "main"
+-	python techgrounds oefeningen zijn er zodat je basisconcepten weet te begrijpen en erover kunt meepraten, het is om context te kunnen geven. Het zal waarschijnlijk niet zo zijn dat je veel moet gaan scripten in je eerste baan . Tenzij je developer wordt.
+-	Elmarie moet gaan , ze moet de kinderen ophalen, en zal morgen weer aanwezig zijn .
+-	Volgens Casper: Sam heeft een blessure aan zijn hand , en dat hindert hem. Dat kan wel 2 weken duren voor hij weer een beetje goed kan typen. Meer nieuws weet hij ook niet op het moment.
+-	Python is een van de onderwerpen waar certificeringen weinig uitmaakt: toon gewoon projectjes. Programmeren is echt PRAKTIJK en ervaring opdoen. Ofwel: Theorie over programmeren weten is leuk , maar "laat maar zien dat je het kan".
+- 	Je kan Python scryptjes gebruiken om statistieken te berekenen en te verkrijgen , door bijvoorbeeld een miljoen keer een worp met 2 dobbelstenen te laten uitvoeren. Casper gebruikte het om een gebruiksefficiency in een (Pokemon) spel te bepalen bijvoorbeeld.
+-	als je Chatgpt gebruikt verifieer de code ! Als je zelf van nul begint : verdeel je project in (mini)stukjes  . Let er dan op dat je bepaalde onderdelen in ministukjes aan het werk krijgt. Dus blok voor blok. Alles in een keer aan het werk willen kan "overwhelming" zijn.
+-	Casper zegt : Printstatements zijn je vriend ( het is een debugtool)
+-	Chatgpt 4 is beter dan chatgpt  3,5 ( de gratis versie) in clean code schrijven.
+- 	w3 schools , is een goede source waar je "hoe-te-coderen" kan vinden: https://www.w3schools.com/python/default.asp
+-	een goed Python book volgens Elmarie :  "Python for Everybody by Charles Severance "  ( https://www.google.nl/books/edition/Python_for_Everybody/zjqzDAEACAAJ?hl=en ) ?
+-	Casper gaat  het morgen bij Softskills hebben over: Zelfreflectie
+-	Morgen hebben we Casper weer als Learning coach
+-	Python techgrounds learning opdrachten : in elke bonus script zit maar 1 error, syntax error of verkeerde statement (misschien ook 1 verkeerde line zelfs?)
+-	Lees de error messages  goed als je programmeert, run het script en zie wat Visual Studio code " te mekkeren" heeft , dat kan je goede aanwijzingen geven voor het vinden en oplossen van de errors. Dit is geen cheatwerkwijze om de bonus opdrachten te maken.
+-	Morgen verder  niet veel bijzonders , dan dat er softskills gedaan moeten woden , en een sprint presentatie voorbereid moet worden.

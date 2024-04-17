@@ -4,4 +4,4 @@ The output should be:
 '''
 foo = 10
 bar = 2
-print(foo**bar)
+print(foo*bar)

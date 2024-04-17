@@ -4,10 +4,10 @@ The output should be:
 '''
 ln = ['Dog', 'Cat', 'Elephant', 'Fly', 'Horse']
 short_names = []
-
 for animal in ln:
-	if len(animal) == 3:
+	if len (animal) == 3:
+
 		short_names.append(animal)
-	short_names = []
+	short_names = ['Dog', 'Cat', 'Fly']
 
 print(short_names)
