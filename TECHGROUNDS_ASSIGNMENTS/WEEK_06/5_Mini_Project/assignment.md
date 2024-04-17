@@ -19,8 +19,6 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
   Example:
   
   `result = 5 + 3  # Addition result = 5 - 3  # Subtraction`
-  
-  
 
 - **==**: `==` is the equality operator in Python. It's used to compare two values to determine if they are equal. It returns `True` if the values are equal and `False` otherwise.
   
@@ -89,13 +87,14 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
 
 ### Result
 
- Number Guessing:
+Number Guessing:
 
-- Generate a random number between 1 and 100 (or any other range).
+ Generate a random number between 1 and 100 (or any other range).
+
 - The player guesses a number. For every wrong answer the player receives a clue.
 - When the player guesses the right number, display a score.
 
-Result Number Guessing:
+# Result Number Guessing:
 
   This script defines three functions:
 
@@ -152,7 +151,7 @@ Result Number Guessing:
 
 - The game should be played in a predetermined number of rounds.
   
-  Result Rock/Paper/Scissors:
+  # Result Rock/Paper/Scissors:
   
   This script defines several functions:
 
@@ -230,7 +229,7 @@ if __name__ == "__main__":
 
 - Bonus: create a single-player version that you can play against the computer.
   
-  Result Tic-Tac-Toe:
+  # Result Tic-Tac-Toe:
   
   This script allows two players to play Tic-Tac-Toe in the command line. Players take turns entering row and column numbers to place their marks ('X' or 'O') on the board. The game continues until one player wins or the board is filled, resulting in a tie.
 
