@@ -10,7 +10,35 @@ The exercises are approximately ordered based on difficulty level, but you might
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- **foo** and **bar**: `foo` and `bar` are commonly used as placeholder variable names in programming examples, tutorials, and documentation. They do not have any special meaning in Python but are used to represent generic variables or functions.
+
+- **ls** and **ln**: These are typically commands used in Unix-like operating systems (such as Linux) rather than Python. `ls` is used to list directory contents, while `ln` is used to create links between files.
+
+- 
+
+- **random.randint**: `random.randint` is a function provided by the `random` module in Python. It's used to generate random integers within a specified range.
+  
+  Example:
+  
+  `import random x = random.randint(1, 100)`
+  
+  
+
+- **+=** and **-=**: `+=` and `-=` are augmented assignment operators in Python. They are used to add or subtract a value from a variable and then assign the result back to the variable.
+  
+  Example:
+  
+  `x = 5 x += 2  # Equivalent to x = x + 2 x -= 3  # Equivalent to x = x - 3`
+
+- **==**, **<**, and **>**: These are comparison operators in Python used for equality, less than, and greater than comparisons, respectively.
+  
+  - `==` checks if two values are equal.
+  - `<` checks if the left operand is less than the right operand.
+  - `>` checks if the left operand is greater than the right operand.
+  
+  Example:
+  
+  `x = 5 y = 10 result1 = (x == y)  # False result2 = (x < y)   # True result3 = (x > y)   # False`
 
 ## Assignment
 
@@ -331,42 +359,24 @@ Exercise:
 - 7
   
   ![7.png](7.png)
-  
-  
 
 - 8
   
   ![8.png](8.png)
-  
-  
 
 - 9
-  
-  
 
 - 10
-  
-  
 
 - 11
-  
-  
 
 - 12
-  
-  
 
 - 13
-  
-  
 
 - 14
-  
-  
 
 - 15
-  
-  
 
 - 16
 
