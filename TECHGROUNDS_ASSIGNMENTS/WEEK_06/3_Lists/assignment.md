@@ -8,7 +8,36 @@ You can loop over a list using a for loop. Instead of a number within a range, 
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- **len**: `len()` is a built-in function used to determine the length of a sequence or collection, such as a string, list, tuple, or dictionary. It returns the number of items in the specified sequence.
+  
+  Example:
+  
+  `my_list = [1, 2, 3, 4, 5] length = len(my_list)`
+
+- **next**: `next()` is a built-in function used with iterators to get the next item from the iterator. When called, it returns the next element from the iterator.
+  
+  Example:
+  
+  `my_iterator = iter([1, 2, 3]) next_element = next(my_iterator)`
+
+- **index**: In Python, `index` typically refers to the position of an element in a sequence. For example, the index of the first element in a list is 0, the index of the second element is 1, and so on. You can use the `index()` method to find the index of a specific element in a sequence.
+  
+  Example:
+  
+  `my_list = ['a', 'b', 'c', 'd'] index_of_c = my_list.index('c')`
+
+- **Square Brackets [ ]**: In Python, square brackets are used for various purposes, including:
+  
+  - Creating lists: `[1, 2, 3]`
+  - Accessing elements of a sequence: `my_list[0]`
+  - Slicing sequences: `my_list[1:3]`
+  - List comprehensions: `[x**2 for x in range(5)]`
+
+- **i**: In Python, `i` is often used as a variable name, especially as a loop counter or iterator variable. It's a common convention to use `i`, `j`, `k`, etc., as loop counters in `for` loops, especially when iterating over a range of numbers.
+  
+  Example:
+  
+  `for i in range(5):     print(i)`
 
 ## Assignment
 

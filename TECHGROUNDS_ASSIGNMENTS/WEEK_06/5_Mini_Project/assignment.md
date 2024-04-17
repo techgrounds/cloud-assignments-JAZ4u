@@ -8,7 +8,55 @@ Now that you’ve encountered the basic puzzle pieces, it’s time to build some
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- **def**: `def` is a keyword used to define functions in Python. It's followed by the function name and a pair of parentheses containing the function's parameters. The function body is indented below the `def` statement.
+  
+  Example:
+  
+  `def greet(name):     print("Hello, " + name + "!")`
+
+- **+ -**: In Python, `+` and `-` are arithmetic operators used for addition and subtraction, respectively.
+  
+  Example:
+  
+  pythonCopy code
+  
+  `result = 5 + 3  # Addition result = 5 - 3  # Subtraction`
+  
+  
+
+- **==**: `==` is the equality operator in Python. It's used to compare two values to determine if they are equal. It returns `True` if the values are equal and `False` otherwise.
+  
+  Example:
+  
+  `x = 5 y = 5 result = (x == y)  # True`
+
+- ******: `**` is the exponentiation operator in Python. It's used to raise a number to the power of another number.
+  
+  Example:
+  
+  `result = 2 ** 3  # 2 raised to the power of 3, result is 8`
+
+- **break**: The `break` statement is used to exit a loop prematurely. It's often used in `for` and `while` loops to terminate the loop iteration when a certain condition is met.
+
+- **while true**: `while True` is an infinite loop in Python. It continues executing its block of code indefinitely until a `break` statement or other condition that exits the loop is encountered.
+
+- **for _ in range**: `for _ in range` is a syntax used in Python to iterate a specific number of times. The underscore `_` is often used as a placeholder when the loop variable is not needed.
+  
+  Example:
+  
+  `for _ in range(5):     print("Hello")`
+
+- **return True**: `return True` is a statement used inside a function to return the boolean value `True` as the result of the function.
+
+- **return False**: `return False` is a statement used inside a function to return the boolean value `False` as the result of the function.
+
+- **row**: `row` typically refers to a single horizontal line of data in a table or matrix. It's often used in the context of data manipulation and analysis.
+
+- **col**: `col` typically refers to a single vertical column of data in a table or matrix. It's often used in the context of data manipulation and analysis.
+
+- **int**: `int` is a built-in data type in Python used to represent integers (whole numbers).
+
+- **(input)**: `(input)` might refer to the `input()` function in Python, which is used to prompt the user to enter input from the keyboard.
 
 ## Assignment
 

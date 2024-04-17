@@ -4,11 +4,43 @@ Key-value pairs are a general concept you will definitely encounter. Some exampl
 
 ## Key-terms
 
-- NoSQL
+- **Key-value pairs**: Key-value pairs are a fundamental data structure where each key is associated with a corresponding value. In Python, dictionaries (`dict`) are used to store key-value pairs, where keys are unique and immutable and values can be of any data type.
+  
+  Example:
+  
+  `my_dict = {'name': 'John', 'age': 30}`
 
-- Dictionaries (dict)
+- **NoSQL databases**: NoSQL databases are non-relational databases that provide a mechanism for storage and retrieval of data modeled in ways other than the tabular relations used in relational databases. Python has various libraries and frameworks for interacting with NoSQL databases, such as MongoDB, CouchDB, Redis, etc.
 
-- Python : curly brackets {}
+- **AWS/Azure resource tags**: AWS (Amazon Web Services) and Azure (Microsoft Azure) are cloud computing platforms that allow users to tag resources with metadata for organization, cost tracking, access control, and automation. Tags are key-value pairs associated with AWS or Azure resources.
+
+- **Dictionaries (dict)**: A dictionary in Python is an unordered collection of key-value pairs enclosed within curly braces {}. Dictionaries are mutable, and the keys must be unique and immutable.
+  
+  Example:
+  
+  `my_dict = {'name': 'John', 'age': 30}`
+
+- **Curly Brackets {}**: In Python, curly brackets are used to define dictionaries, sets, and also for dictionary and set comprehensions.
+
+- **CSV file (Comma-Separated Values)**: A CSV file is a plain text file that stores tabular data in a plain text format, with each line representing a row and fields separated by commas. Python has built-in support for reading and writing CSV files using the `csv` module.
+
+- **Import**: The `import` statement in Python is used to import modules or specific objects (functions, classes, variables) from modules into the current namespace. It allows you to reuse code from other Python files or libraries.
+  
+  Example:
+  
+  `import math`
+
+- **Subsequent runs**: Subsequent runs refer to running a Python script or program multiple times, typically after making modifications or updates. Each run of the program starts fresh, and any changes made during previous runs are not retained unless explicitly saved or persisted.
+
+- **def main()**: `def main()` is a common convention in Python for defining the entry point of a script or program. It typically contains the main logic of the program and is executed when the script is run.
+  
+  Example:
+  
+  `def main():     print("Hello, World!")  if __name__ == "__main__":     main()`
+
+- **with**: The `with` statement in Python is used to simplify exception handling and resource management by ensuring that certain operations are properly cleaned up, even if exceptions occur. It's commonly used with file I/O operations to automatically close files after they are no longer needed.
+
+- **open**: The `open()` function in Python is used to open files for reading, writing, or appending data. It returns a file object that provides methods and attributes for accessing and manipulating the file's contents.
 
 ## Assignment
 

@@ -6,7 +6,53 @@ There are two types of loops in Python: the *while* loop and the *for* loop
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- **Loop**: A loop in Python allows you to repeatedly execute a block of code. Common types of loops include `for` loops and `while` loops.
+
+- **IF**: The `if` statement in Python is used for conditional execution. It allows you to execute a block of code if a certain condition is true.
+
+- **WHILE**: The `while` loop in Python is used to repeatedly execute a block of code as long as a specified condition is true.
+
+- **FOR**: The `for` loop in Python is used to iterate over a sequence (such as a list, tuple, or string) or other iterable objects.
+
+- **Algorithm**: In Python, an algorithm is a step-by-step procedure or a set of rules for solving a particular problem, often expressed in the form of functions or methods.
+
+- **Array**: While Python does not have built-in support for arrays in the traditional sense, it has lists which are similar to arrays. Lists can hold multiple items of any data type in a single variable.
+
+- **RANGE**: `range()` is a Python built-in function used to generate a sequence of numbers. It's often used with loops, particularly `for` loops, to iterate a specific number of times.
+
+- **Variable**: In Python, a variable is a name that refers to a value. Variables can be assigned different values throughout the execution of a program. Python is dynamically typed, meaning you don't need to declare the type of a variable before using it.
+
+- **Iterate**: In Python, iteration refers to the process of repeatedly executing a block of code or performing a set of operations on each item in a sequence, such as a list, tuple, dictionary, or string. Iteration allows you to go through each element of the sequence one by one, performing some action or checking some condition on each iteration.
+
+- **String**: A string is a sequence of characters enclosed within either single quotes (''), double quotes ("), or triple quotes (''' or """). Strings are immutable, meaning they cannot be changed once created.
+
+- **Tuple**: A tuple is an ordered collection of elements enclosed within parentheses (). Tuples are immutable, like strings, but can contain elements of different data types.
+
+- **Sequence**: In Python, a sequence is an ordered collection of elements. Strings, lists, and tuples are examples of sequences. Sequences support various operations like indexing, slicing, and iteration.
+
+- **Dictionary**: A dictionary is an unordered collection of key-value pairs enclosed within curly braces {}. Each key-value pair maps the key to its corresponding value. Dictionaries are mutable and can store elements of different data types.
+
+- **Object**: Everything in Python is an object, including integers, strings, lists, functions, and classes. Objects have attributes (characteristics) and methods (functions associated with the object).
+
+- **Script**: In Python, a script refers to a file containing Python code that can be executed. Scripts are typically used to perform specific tasks or implement functionalities.
+
+- **Console**: The console refers to the interactive command-line interface where you can type Python code and see the results immediately. It's commonly used for testing snippets of code, debugging, or executing Python scripts directly.
+
+- **Print Statement**: The `print()` statement in Python is used to display output on the screen or console. It can be used to print strings, variables, expressions, or a combination of these. In Python 2.x, `print` was a statement, while in Python 3.x, it's a function.
+  
+  Example:`print("Hello, World!")`
+
+- **Expression**: An expression is a combination of values, variables, operators, and function calls that evaluates to a single value. Expressions can be simple, like `2 + 2`, or complex, involving multiple operators and function calls.
+  
+  Example:`x = 5 y = 2 result = x + y * 3`
+
+- **Function**: A function is a block of reusable code that performs a specific task. Functions take input arguments, perform operations, and return a result. In Python, functions are defined using the `def` keyword.
+  
+  Example:`def add(a, b):     return a + b`
+
+- **Statement**: A statement is a complete instruction that the Python interpreter can execute. Python supports several types of statements, including assignment statements, conditional statements, loop statements, and import statements. Statements typically end with a newline character, but they can also be terminated with a semicolon `;`.
+  
+  Example:`x = 5  # Assignment statement if x > 0:  # Conditional statement     print("Positive")  # Statement within the if block`
 
 ## Assignment
 
