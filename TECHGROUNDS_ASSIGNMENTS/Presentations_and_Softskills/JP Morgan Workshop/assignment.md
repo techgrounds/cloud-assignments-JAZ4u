@@ -74,31 +74,48 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
     Wisdom
     
     Infinity
-    
-    
-    
-    
 
 - **4]** Cluster your list into three to five core or compound values; for instance, my core value of Growth includes Courage, Learning and Creativity. Put your list of core values where you can see them every day, for instance on your desk or a screensaver. You can also anchor them with an object or picture that reminds you of them. 
+  
+  - | **My core value** | **includes**                                                                           |
+    | ----------------- | -------------------------------------------------------------------------------------- |
+    | Righteousness     | Godlevel honesty , Godlevel truth                                                      |
+    | Power             | Divine knowledge , worshipping the true God                                            |
+    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness |
+    | Wisdom            | learning from God , chosing what God wants you to do and be                            |
+    | Infinity          | Godgiven immaculate health and spirit                                                  |
+    |                   |                                                                                        |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
-
-
+  
+  
 
 **Self- Evaluation**
 
 - How was it to do this exercise?
+  
+  It was fun , enlighting and a great spiritual experience
 
 - What effects did this exercise have?
+  
+  Giving me insight in where I stand , and lets me know what I want.
 
 - Did this exercise motivate or inspire you? If so, how?
+  
+  Yes it did , because I know what direction to go. and who to follow now.
 
 **Workshop – share your results**
 
 - Once you have identified what your personal values are, then you can ask yourself these questions:
   
   - How am I honoring my values?
+    
+    Reading about Gods word , visiting meetings where Gods word is taught
   
   - How am I dishonoring my values?
+    
+    Not reading Gods word , not visiting Gods meetings where his word is taught, not socializing with Gods cimmunity , not giving him my best and 100%
   
   - How might I do or be something in a way that honors my values
+    
+    To make steps in gods community : become baptised , serve in his community , preach his word.
