@@ -6,10 +6,13 @@ ochtend notes met Casper
 -	vanmiddag over softskills: Selfreflection
 -	Casper is vandaag Jarig (27 jaar geworden) 
 -	nogmaals de bonus opdrachten : 1 ding corrigeren voornamelijk , geen printstatement doen , de code moet goed werken.
--	
-middag notes met Casper:
+
+
+Middag notes met Casper:
 17-4-2024
-SOFTSKILLS (SELF REFLECTIE)
+
+SOFTSKILLS (SELF REFLECTIE):
+
 -	softskills : selfreflectie slides zijn geshared?
 -	zorg dat je self reflectie Structureel doet
 -	doe selfreflectie  om te leren over jezelf, zodat anderen het ook minder hoeven doen . Wat wel eens awkward kan zijn. Feedback van anderen kan altijd komen en kan nuttig gebruikt worden.
@@ -34,15 +37,22 @@ Gevaar kan zijn dat men met deze informatie niets meer mee gaat doen! Let erop d
 -	het bespreken en blijven documenteren van het behalen van goals , behaald/failed? Is een vorm van selfreflectie?
 - 	NB : laat je niet gek maken over altijd bij leren , soms is de learning curve wat minder stijl.
 - 	Selfreflectie is om je eigen blinde spot te belichten . Accepteer  feedback  en benut die .Goede Selfreflectie kan awkward feedback van anderen REDUCEREN.
+
 WERK?SOLLICITATIE
+
 -	Als je solliciteert : begin niet gelijk over het loon , dat kan misschien de indruk wekken dat je het voor het geld doet , en dat dat je hoofd motivatie is ( ipv graag het werk willen doen voor dat bedrijf).
 -	het bedrijf laat je meestal vrij over welk certificeringspad je wilt gaan volgen ; maar laat ze wel in de richting zijn van je werk.
+
 SCRUM:
+
 -	Hoe kun je SCRUM leren:  we doen dit al verweven in deze Techgrounds opleiding  (Check in / Sprint review) . We worden aangeraden om vanaf nu voortaan ook een RETROSPECTIVE te doen. De retrospective kan bijvoorbeeld aan het einde van de week.
+
 JP MORGAN:
+
 -	Hoe zit het met de JP Morgan assignment:  die hebben we vandaag ontvangen in de mail als attachment.
 -	BTW : Is de JP Morgan workshop en het maken van een geupdate Linked_In bewust aansluitend op de softskill : selfreflectie?
+
 FEEDBACK OVER OPLEIDING:
+
 -	feedback: over 2 weken  is het week 8 al , dan gaat er een feedback verzoek komen van Casper over de opleiding ( op woensdag).
--	Casper neemt die feedback mee naar de volgende techgrounds group , zoals Cloud14. 
--	
+-	Casper neemt die feedback mee naar de volgende techgrounds group , zoals Cloud14.
