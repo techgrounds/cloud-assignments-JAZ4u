@@ -87,9 +87,9 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
     | -------------------- | ----------------------------------------------------------------------------------------------------------------- |
     | Righteousness        | Godly honesty , Godlily truth.                                                                                    |
     | Power                | Divine knowledge , worshipping the true God , being in Gods approval , having Gods blessing .                     |
-    | Love                 | humility , altruism , resembling God , obedience to God , appreciation and gratefulness.                          |
+    | Love                 | Humility , altruism , resembling God , obedience to God , appreciation and gratefulness.                          |
     | Truth                | The only right direction , the only right practice , the only version of how everything happened and will happen. |
-    | Wisdom               | learning from God , choosing what God wants you to do and be , asking God for help in Prayer.                     |
+    | Wisdom               | Learning from God , choosing what God wants you to do and be , asking God for help in Prayer.                     |
     | (Infinity            | God-given immaculate health and spirit.)                                                                          |
     |                      |                                                                                                                   |
 
