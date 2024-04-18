@@ -96,11 +96,11 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - What effects did this exercise have?
   
-  Giving me insight in where I stand , and lets me know what I want.
+  Giving me insight in where I stand , and lets me know what I want , and which direction to head.
 
 - Did this exercise motivate or inspire you? If so, how?
   
-  Yes it did , because I know what direction to go. and who to follow now.
+  Yes it did , because I know what direction to go, and who to follow now.
 
 **Workshop – share your results**
 
