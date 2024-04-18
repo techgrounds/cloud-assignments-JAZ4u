@@ -122,4 +122,4 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - How might I do or be something in a way that honors my values?
     
-    To make steps in gods community : become baptised , serve in his community , preach his word.
+    To make steps in gods community : become baptised , serve in his community , preach&practise his word.
