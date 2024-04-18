@@ -44,7 +44,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - **1]** Visualize your perfect day: a day when you feel alive, when you are in your full power, living your fullest potential. Be specific. This might not be a time when you are lying on a beach, it could be a day of crisis or challenge, when you are stepping up and feeling a sense of achievement. Write it down.
   
-  - My perfect day would be when everyone is save and free from death , disease , pain , sadness , hate,  spiritual and physical imperfection , poverty , unrighteousness.
+  - My perfect day would be when everyone is save ,and free from: death , disease , pain , sadness , hate,  spiritual and physical imperfection , poverty , unrighteousness.
     
     IMAGINE how much potential we could use to really build each other up and no longer use our potentials to kill destroy , hate or ruin each other. Wouldn't the sky become a closer limit?
   
