@@ -83,14 +83,15 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - **4]** Cluster your list into three to five core or compound values; for instance, my core value of Growth includes Courage, Learning and Creativity. Put your list of core values where you can see them every day, for instance on your desk or a screensaver. You can also anchor them with an object or picture that reminds you of them. 
   
-  - | **My core value** | **includes**                                                                           |
-    | ----------------- | -------------------------------------------------------------------------------------- |
-    | Righteousness     | Godlevel honesty , Godlevel truth                                                      |
-    | Power             | Divine knowledge , worshipping the true God                                            |
-    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness |
-    | Wisdom            | learning from God , chosing what God wants you to do and be                            |
-    | Infinity          | Godgiven immaculate health and spirit                                                  |
-    |                   |                                                                                        |
+  - | **My core value** | **includes**                                                                                                      |
+    | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+    | Righteousness     | Godlevel honesty , Godlevel truth                                                                                 |
+    | Power             | Divine knowledge , worshipping the true God                                                                       |
+    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness                            |
+    | Truth             | The only right direction , the only right practise , the only version of how everything happened and will happen. |
+    | Wisdom            | learning from God , chosing what God wants you to do and be                                                       |
+    | Infinity          | Godgiven immaculate health and spirit                                                                             |
+    |                   |                                                                                                                   |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
 
