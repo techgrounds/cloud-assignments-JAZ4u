@@ -71,9 +71,11 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
     
     Truth
     
+    Wisdom
+    
     Infinity
     
-    Wisdom
+    
     
     
 
