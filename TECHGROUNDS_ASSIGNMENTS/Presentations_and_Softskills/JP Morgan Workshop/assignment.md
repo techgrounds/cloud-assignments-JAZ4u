@@ -55,6 +55,27 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   - I feel free , constructive , loved and loving .
 
 - **3]** Mine your visualization by asking what is important to you about it. For instance, is it because you are making a difference in some way? Are you feeling energized because you feel a strong connection to someone? Write down a list of the values you uncover. The examples given here are intended to help but resist the urge to pick them without starting with your peak experience.
+  
+  - The importance is that the ruler of this all is an inifnite God. God is far beyond everyones cumulative power and imagination. He is a ruler with inifite characteristics , Like inifinite power , infinite wisdom , infinite existence , infiinit love.
+     My love for him humbles me . Even knowing we will never ever understand or match him ; we are convinced there is no better one to follow, honor and worship.
+  
+  - Just knowing his existence , his name,  and have a human idea of the amount of power, love and righteousness he has ; allready gives us hope and beleive that everything will be all right.
+  
+  - List of values:
+    
+    Righteousness
+    
+    Power
+    
+    Love
+    
+    Truth
+    
+    Infinity
+    
+    Wisdom
+    
+    
 
 - **4]** Cluster your list into three to five core or compound values; for instance, my core value of Growth includes Courage, Learning and Creativity. Put your list of core values where you can see them every day, for instance on your desk or a screensaver. You can also anchor them with an object or picture that reminds you of them. 
 
