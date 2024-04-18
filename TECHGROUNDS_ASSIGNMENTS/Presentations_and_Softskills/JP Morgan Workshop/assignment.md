@@ -85,12 +85,12 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - | **My core value** | **includes**                                                                                                      |
     | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-    | Righteousness     | Godlevel honesty , Godlevel truth                                                                                 |
-    | Power             | Divine knowledge , worshipping the true God                                                                       |
-    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness                            |
+    | Righteousness     | Godlevel honesty , Godlevel truth.                                                                                |
+    | Power             | Divine knowledge , worshipping the true God , being in Gods approval , having Gods blessing .                     |
+    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness.                           |
     | Truth             | The only right direction , the only right practise , the only version of how everything happened and will happen. |
-    | Wisdom            | learning from God , chosing what God wants you to do and be                                                       |
-    | Infinity          | Godgiven immaculate health and spirit                                                                             |
+    | Wisdom            | learning from God , chosing what God wants you to do and be , asking God for help in Prayer.                      |
+    | Infinity          | Godgiven immaculate health and spirit.                                                                            |
     |                   |                                                                                                                   |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
