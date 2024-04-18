@@ -87,8 +87,6 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
     |                   |                                                                                        |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
-  
-  
 
 **Self- Evaluation**
 
@@ -114,8 +112,8 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - How am I dishonoring my values?
     
-    Not reading Gods word , not visiting Gods meetings where his word is taught, not socializing with Gods cimmunity , not giving him my best and 100%
+    Not reading Gods word , not visiting Gods meetings where his word is taught, not socializing with Gods community , not giving him my best and not giving him 100%.
   
-  - How might I do or be something in a way that honors my values
+  - How might I do or be something in a way that honors my values?
     
     To make steps in gods community : become baptised , serve in his community , preach his word.
