@@ -111,7 +111,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 **Workshop – share your results**
 
-- Once you have identified what your personal values are, then you can ask yourself these questions:
+- <mark>Once you have identified what your personal values are, then you can ask yourself these questions:</mark>
   
   - How am I honoring my values?
     
