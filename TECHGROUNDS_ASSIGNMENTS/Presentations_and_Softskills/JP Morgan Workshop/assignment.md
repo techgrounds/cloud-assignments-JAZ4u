@@ -44,28 +44,28 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - **1]** Visualize your perfect day: a day when you feel alive, when you are in your full power, living your fullest potential. Be specific. This might not be a time when you are lying on a beach, it could be a day of crisis or challenge, when you are stepping up and feeling a sense of achievement. Write it down.
   
-  - My perfect day would be when everyone is save ,and free from: death , disease , pain , sadness , hate,  spiritual and physical imperfection , poverty , unrighteousness.
+  - My perfect day would be when everyone is save ,and free from: death, disease, pain, sadness, hate, spiritual and physical imperfection, poverty, unrighteousness.
     
-    IMAGINE how much potential we could use to really build each other up and no longer use our potentials to kill destroy , hate or ruin each other. Wouldn't the sky become a closer limit?
+    IMAGINE how much potential we could use to really build each other up and no longer use our potentials to kill, destroy, hate or ruin each other. Wouldn't the sky become a closer limit?
   
     
 
 - **2]** Get interested in the detail of this image. Where are you? What are you doing? What can you see, hear, touch, taste and smell? What are you wearing? Are you alone or are you with another person, or more than one? What is important to you about that relationship? How do you feel? 
   
-  - I am in Paradise or maybe even Heaven. I am learning , working , loving , caring , building , respecting.
+  - I am in Paradise or maybe even Heaven. I am learning, working, loving, caring, building, respecting.
   
-  - I am wearing white clothes , completely clean and I am with millions of good people with the same mindset and motivation to honor this mindset.
+  - I am wearing white clothes, completely clean and I am with millions of good people with the same mindset and motivation to honor this mindset.
   
-  - It is important that everyone is striving and upholding  love , peace and righteousness in this relationship. 
+  - It is important that everyone is striving and upholding  love, peace and righteousness in this relationship. 
   
-  - I feel free , constructive , loved and loving .
+  - I feel free, constructive, loved and loving .
 
 - **3]** Mine your visualization by asking what is important to you about it. For instance, is it because you are making a difference in some way? Are you feeling energized because you feel a strong connection to someone? Write down a list of the values you uncover. The examples given here are intended to help but resist the urge to pick them without starting with your peak experience.
   
-  - The importance is that the ruler of this all is an infinite God. God is far beyond everyone's cumulative power and imagination. He is a ruler with infinite characteristics , Like infinite power , infinite wisdom , infinite existence , infinite love.
-     My love for him humbles me . Even knowing we will never ever understand or match him ; we are convinced there is no better one to follow, honor and worship.
+  - The importance is that the ruler of this all is an infinite God. God is far beyond everyone's cumulative power and imagination. He is a ruler with infinite characteristics, Like infinite power, infinite wisdom, infinite existence, infinite love.
+     My love for him humbles me. Even knowing we will never ever understand or match him ; we are convinced there is no better one to follow, to honor and to worship.
   
-  - Just knowing his existence , his name,  and have a human idea of the amount of power, love and righteousness he has ; already gives us hope and believe that everything will be all right.
+  - Just knowing his existence, his name, and have a human idea of the amount of power, love and righteousness he has ; already gives us hope and believe that everything will be all right.
   
   - List of values:
     
@@ -83,15 +83,15 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - **4]** Cluster your list into three to five core or compound values; for instance, my core value of Growth includes Courage, Learning and Creativity. Put your list of core values where you can see them every day, for instance on your desk or a screensaver. You can also anchor them with an object or picture that reminds you of them. 
   
-  - | **My 5 core values** | **includes**                                                                                                      |
-    | -------------------- | ----------------------------------------------------------------------------------------------------------------- |
-    | Righteousness        | Godly honesty , Godlily truth.                                                                                    |
-    | Power                | Divine knowledge , worshipping the true God , being in Gods approval , having Gods blessing .                     |
-    | Love                 | Humility , altruism , resembling God , obedience to God , appreciation and gratefulness.                          |
-    | Truth                | The only right direction , the only right practice , the only version of how everything happened and will happen. |
-    | Wisdom               | Learning from God , choosing what God wants you to do and be , asking God for help in Prayer.                     |
-    | ( Infinity           | God-given immaculate health and spirit. )                                                                         |
-    |                      |                                                                                                                   |
+  - | **My 5 core values** | **includes**                                                                                                    |
+    | -------------------- | --------------------------------------------------------------------------------------------------------------- |
+    | Righteousness        | Godly honesty, Godlily truth.                                                                                   |
+    | Power                | Divine knowledge, worshipping the true God, being in Gods approval, having Gods blessing .                      |
+    | Love                 | Humility, altruism, resembling God, obedience to God, appreciation and gratefulness.                            |
+    | Truth                | The only right direction, the only right practice, the only version of how everything happened and will happen. |
+    | Wisdom               | Learning from God, choosing what God wants you to do and be, asking God for help in Prayer.                     |
+    | ( Infinity           | God-given immaculate health and spirit. )                                                                       |
+    |                      |                                                                                                                 |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
 
@@ -99,15 +99,15 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - How was it to do this exercise?
   
-  It was fun , enlightening and a great spiritual experience
+  It was fun, enlightening and a great spiritual experience.
 
 - What effects did this exercise have?
   
-  Giving me insight in where I stand , and lets me know what I want , and which direction to head.
+  Giving me insight in where I stand, and lets me know what I want, and in which direction to head.
 
 - Did this exercise motivate or inspire you? If so, how?
   
-  Yes it did , because I know what direction to go, and who to follow now.
+  Yes it did, because I know what direction to go, and who to follow now.
 
 **Workshop – share your results**
 
@@ -115,12 +115,12 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - How am I honoring my values?
     
-    Reading about Gods word , visiting meetings where Gods word is taught
+    Reading about Gods word, visiting meetings where Gods word is taught.
   
   - How am I dishonoring my values?
     
-    Not reading Gods word , not visiting Gods meetings where his word is taught, not socializing with Gods community , not giving him my best and not giving him 100%.
+    Not reading Gods word, not visiting Gods meetings where his word is taught, not socializing with Gods community, not giving him my best and not giving him 100%.
   
   - How might I do or be something in a way that honors my values?
     
-    To make steps in gods community : become baptized , serve in his community , preach&practice his word.
+    To make steps in gods community: become baptized, serve in his community, preach&practice his word.
