@@ -8,7 +8,7 @@
 
 ## Assignment
 
-![dia1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP%20Morgan%20Workshop\dia1.png)
+![](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP_Morgan_Workshop\dia1.png)
 
 ### Used sources
 
@@ -20,6 +20,6 @@
 
 ### Result
 
-![dia1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP%20Morgan%20Workshop\dia1.png)
+![dia1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP_Morgan_Workshop\dia1.png)
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
