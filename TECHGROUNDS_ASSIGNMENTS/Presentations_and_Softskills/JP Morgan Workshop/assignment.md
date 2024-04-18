@@ -90,7 +90,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
     | Love                 | Humility , altruism , resembling God , obedience to God , appreciation and gratefulness.                          |
     | Truth                | The only right direction , the only right practice , the only version of how everything happened and will happen. |
     | Wisdom               | Learning from God , choosing what God wants you to do and be , asking God for help in Prayer.                     |
-    | (Infinity            | God-given immaculate health and spirit.)                                                                          |
+    | ( Infinity           | God-given immaculate health and spirit. )                                                                         |
     |                      |                                                                                                                   |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
