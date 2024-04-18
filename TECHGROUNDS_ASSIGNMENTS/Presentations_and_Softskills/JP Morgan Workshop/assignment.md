@@ -46,7 +46,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - My perfect day would be when everyone is save and free from death , disease , pain , sadness , hate,  spiritual and physical imperfection , poverty , unrighteousness.
     
-    IMAGINE how much potential we could use to really build eachother up and no longer use our potentials to kill destroy , hate or ruin eachother. Wouldn't the sky become a closer limit?
+    IMAGINE how much potential we could use to really build each other up and no longer use our potentials to kill destroy , hate or ruin each other. Wouldn't the sky become a closer limit?
   
     
 
@@ -56,16 +56,16 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - I am wearing white clothes , completely clean and I am with millions of good people with the same mindset and motivation to honor this mindset.
   
-  - It is important that everyone strifes to uphold  love , peace and righteousness in this relationship. 
+  - It is important that everyone is striving and upholding  love , peace and righteousness in this relationship. 
   
   - I feel free , constructive , loved and loving .
 
 - **3]** Mine your visualization by asking what is important to you about it. For instance, is it because you are making a difference in some way? Are you feeling energized because you feel a strong connection to someone? Write down a list of the values you uncover. The examples given here are intended to help but resist the urge to pick them without starting with your peak experience.
   
-  - The importance is that the ruler of this all is an inifnite God. God is far beyond everyones cumulative power and imagination. He is a ruler with inifite characteristics , Like inifinite power , infinite wisdom , infinite existence , infiinit love.
+  - The importance is that the ruler of this all is an infinite God. God is far beyond everyone's cumulative power and imagination. He is a ruler with infinite characteristics , Like infinite power , infinite wisdom , infinite existence , infinite love.
      My love for him humbles me . Even knowing we will never ever understand or match him ; we are convinced there is no better one to follow, honor and worship.
   
-  - Just knowing his existence , his name,  and have a human idea of the amount of power, love and righteousness he has ; allready gives us hope and beleive that everything will be all right.
+  - Just knowing his existence , his name,  and have a human idea of the amount of power, love and righteousness he has ; already gives us hope and believe that everything will be all right.
   
   - List of values:
     
@@ -83,15 +83,15 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - **4]** Cluster your list into three to five core or compound values; for instance, my core value of Growth includes Courage, Learning and Creativity. Put your list of core values where you can see them every day, for instance on your desk or a screensaver. You can also anchor them with an object or picture that reminds you of them. 
   
-  - | **My core value** | **includes**                                                                                                      |
-    | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-    | Righteousness     | Godlevel honesty , Godlevel truth.                                                                                |
-    | Power             | Divine knowledge , worshipping the true God , being in Gods approval , having Gods blessing .                     |
-    | Love              | humilty , altruism , resembling God , obedience to God , appreciation and gratefulness.                           |
-    | Truth             | The only right direction , the only right practise , the only version of how everything happened and will happen. |
-    | Wisdom            | learning from God , chosing what God wants you to do and be , asking God for help in Prayer.                      |
-    | Infinity          | Godgiven immaculate health and spirit.                                                                            |
-    |                   |                                                                                                                   |
+  - | **My 5 core values** | **includes**                                                                                                      |
+    | -------------------- | ----------------------------------------------------------------------------------------------------------------- |
+    | Righteousness        | Godly honesty , Godlily truth.                                                                                    |
+    | Power                | Divine knowledge , worshipping the true God , being in Gods approval , having Gods blessing .                     |
+    | Love                 | humility , altruism , resembling God , obedience to God , appreciation and gratefulness.                          |
+    | Truth                | The only right direction , the only right practice , the only version of how everything happened and will happen. |
+    | Wisdom               | learning from God , choosing what God wants you to do and be , asking God for help in Prayer.                     |
+    | (Infinity            | God-given immaculate health and spirit.)                                                                          |
+    |                      |                                                                                                                   |
 
 - **5]** Consciously tune up living your values by choosing one and honoring it for a day. For instance, for Appreciation, you could start a meeting by offering it to people. With practice, consciously living your values will become second nature.
 
@@ -99,7 +99,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
 
 - How was it to do this exercise?
   
-  It was fun , enlighting and a great spiritual experience
+  It was fun , enlightening and a great spiritual experience
 
 - What effects did this exercise have?
   
@@ -123,4 +123,4 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - How might I do or be something in a way that honors my values?
     
-    To make steps in gods community : become baptised , serve in his community , preach&practise his word.
+    To make steps in gods community : become baptized , serve in his community , preach&practice his word.
