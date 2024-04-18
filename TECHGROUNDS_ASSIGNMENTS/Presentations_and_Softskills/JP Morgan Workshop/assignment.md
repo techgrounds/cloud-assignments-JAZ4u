@@ -28,7 +28,7 @@ By integrating these elements into your life, you can foster personal growth, de
 
 ## Assignment
 
-![](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP_Morgan_Workshop\dia1.png)
+![dia1.png](dia1.png)
 
 ### Used sources
 
@@ -40,6 +40,6 @@ By integrating these elements into your life, you can foster personal growth, de
 
 ### Result
 
-![dia1.png](C:\Users\Administrator\OneDrive\Documenten\TechGrounds\Clone\cloud-assignments-JAZ4u\00_includes\Presentation_Screenshots\JP_Morgan_Workshop\dia1.png)
+![dia1.png](dia1.png)
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
