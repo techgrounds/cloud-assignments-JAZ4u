@@ -119,7 +119,7 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   
   - How am I dishonoring my values?
     
-    Not reading Gods word, not visiting Gods meetings where his word is taught, not socializing with Gods community, not giving him my best and not giving him 100%.
+    Not reading Gods word, not visiting Gods meetings where his word is taught, not socializing with Gods community, not acting/thinking in life how he commands, not giving him my best and not giving him 100%.
   
   - How might I do or be something in a way that honors my values?
     
