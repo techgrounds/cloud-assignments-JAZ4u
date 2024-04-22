@@ -47,7 +47,6 @@ Exercise 1:
       -  My script: In this script, the `input()` function prompts the user to enter their name, which is stored in the variable `user_name`. Then, it checks if the user's name matches "jaz" (case-insensitive). If it does, a personalized welcome message is printed. If not, a different personalized message is printed addressing the user by their name.
 
 ```
-
 # Asking the user for their name and storing it in a variable
 user_name = input("What is your name? ")
 
