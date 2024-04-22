@@ -70,7 +70,7 @@ Task:
 
 ### Result
 
- Study :
+Study :
 
 - 1. **The Azure principles for cost management**:
      
