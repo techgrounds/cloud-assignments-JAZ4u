@@ -17,3 +17,22 @@ Today first day Azure:
 -	On 24th April, we will have NHT for "Self-reflection".
 
 -	Username: jaz@caspertechgrounds.onmicrosoft.com / Wachtwoord: Molu881480
+
+
+Regarding Elmaries presentation feedback :
+Elmaries own opinion about the presentation:
+
+Questions:why was it challenging, but in retrospect not?
+ - 	where would you choose assymetrical or symmetrical encryption
+
+
+Feedback of Shikha:
+-	The assignment part in the presenatiton wat copied 1 on 1 too much 
+- 	slides are not to let the public READ, they will take away the attention ( so do not write too much information on the slides)  Try to use small sentences. 
+otherwise Neat presentation. Shikha said she found herself " reading" the slides too much.
+* my own learningpoint from this presentation: I should bring only facts and verifiable information , or SPECIFICALLY say it is my idea or view ( which may be of less importance)
+
+Afternoon notes:
+-	Shikha had us present our checkins again with a tool 
+- 	Shay was tired and had a skin problem: he starts in the afternoon on his Azure assignments
+- 	TIP regarding MD files: put all screenshots in the include folder, becuase than you could theoretically change the md file position without losing/breaking the image links.
