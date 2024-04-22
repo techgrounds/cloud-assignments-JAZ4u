@@ -8,15 +8,15 @@ If you have created a 'Pay-as-you-go' subscription, there are some services that
 
 Azure has the following principles to successfully reduce your costs:
 
--  (Planning)
+- (Planning)
 
--  (Visibility)
+- (Visibility)
 
--  (Accountability)
+- (Accountability)
 
--  (Optimization)
+- (Optimization)
 
--  (Iteration)
+- (Iteration)
 
 The Total Cost of Ownership (TCO) is used to calculate how much an infrastructure costs when hosted in the traditional way. With the TCO calculator, you can compare the costs of a traditional infrastructure with the costs for the same infrastructure on Azure.
 
@@ -62,7 +62,7 @@ Task:
 
 - Azure documentation
 
-- 
+- [Pricing Calculator | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 ### Encountered problems
 
@@ -93,7 +93,7 @@ Study :
   4. **The TCO calculator**:
      
      - The Total Cost of Ownership (TCO) calculator is a tool provided by Azure to estimate and compare the total cost of owning and operating a particular workload or deployment scenario in Azure compared to on-premises or alternative cloud solutions. The TCO calculator takes into account factors such as infrastructure costs, operational expenses, and potential savings from using Azure services. It helps organizations make informed decisions about the cost-effectiveness of migrating to Azure and provides insights into potential cost savings.
-Task:
+       Task:
 
 - 1. **Set up Cost Management Alerts**:
      
