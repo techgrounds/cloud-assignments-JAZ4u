@@ -19,20 +19,33 @@ Today first day Azure:
 -	Username: jaz@caspertechgrounds.onmicrosoft.com / Wachtwoord: Molu881480
 
 
-Regarding Elmaries presentation feedback :
-Elmaries own opinion about the presentation:
-
-Questions:why was it challenging, but in retrospect not?
- - 	where would you choose assymetrical or symmetrical encryption
 
 
-Feedback of Shikha:
--	The assignment part in the presenatiton wat copied 1 on 1 too much 
-- 	slides are not to let the public READ, they will take away the attention ( so do not write too much information on the slides)  Try to use small sentences. 
-otherwise Neat presentation. Shikha said she found herself " reading" the slides too much.
-* my own learningpoint from this presentation: I should bring only facts and verifiable information , or SPECIFICALLY say it is my idea or view ( which may be of less importance)
 
-Afternoon notes:
--	Shikha had us present our checkins again with a tool 
-- 	Shay was tired and had a skin problem: he starts in the afternoon on his Azure assignments
-- 	TIP regarding MD files: put all screenshots in the include folder, becuase than you could theoretically change the md file position without losing/breaking the image links.
+Afternoon notes, with Shikha 22-4-2024:
+General:
+- Shikha had us present our check-ins again with an object.
+- Shay was absent for part of this morning because he was tired and had a medical problem that needed attention. He starts after lunch with his Azure assignments.
+- Elmarie had to leave after her presentation for personal reasons. She had informed us beforehand. And she needs to go at 16:30.
+
+
+Shikha's MD file review:
+- TIP regarding MD files & screenshots: Put all screenshots in the Includes folder. This way, you could theoretically change the MD file position without losing or breaking the image links. Keep putting the images in the Includes folder!
+- Jaz's MD file feedback: Fill in USED SOURCES for whatever source you used, and in ENCOUNTERED PROBLEMS, fill in any problem you encountered. When you did not encounter a problem, fill in "No problem encountered."
+- Elmarie's MD file feedback: A good point was that Elmarie used pictures to describe things easily. That is a very good way to make things clear. Do it whenever you can. Shikha suggested she ANSWER questions in the shortest description possible first and then elaborate afterwards, when needed.
+- Shay's MD file feedback: Put all the assignments of the specific week in the same folder. Do not mix assignments from different weeks in the same folder. Also, use more bolding/bullet points/highlighting.
+- Sam's MD file feedback: Create separate folders for separate topics. Python for Python assignments, Linux for Linux assignments, Security for security assignments. Mind your formatting; use different font sizes.
+- NOTE: Shikha sees in general no problems with the MD files of the current students.
+
+
+Regarding Elmarie's SPRINT presentation:
+Questions:
+- Why was it challenging, but in retrospect not? (Would have been Jaz's question.)
+- Shikha asked: When would you choose asymmetrical or symmetrical encryption?
+Feedback of Shikha to Elmarie regarding Sprint Presentation:
+- The assignment part in the presentation was copied one-on-one too much.
+- Shikha said she found herself "reading" the slides too much. Slides are not for the audience to read; they will take away attention. So, do not write too much information on the slides. Try to use small sentences or terms.
++ Other than that: Neat presentation.
+- Jaz's personal learning point from this presentation: I should bring only facts and verifiable information or emphasize that it is my own idea or view (which, in my humble opinion, should be short and considered less important, unless specifically asked)
+
+
