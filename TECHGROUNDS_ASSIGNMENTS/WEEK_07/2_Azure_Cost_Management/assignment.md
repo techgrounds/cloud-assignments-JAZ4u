@@ -8,15 +8,15 @@ If you have created a 'Pay-as-you-go' subscription, there are some services that
 
 Azure has the following principles to successfully reduce your costs:
 
-- Plan (Planning)
+-  (Planning)
 
-- Visibility (Visibility)
+-  (Visibility)
 
-- Accountability (Accountability)
+-  (Accountability)
 
-- Optimization (Optimization)
+-  (Optimization)
 
-- Iteration (Iteration)
+-  (Iteration)
 
 The Total Cost of Ownership (TCO) is used to calculate how much an infrastructure costs when hosted in the traditional way. With the TCO calculator, you can compare the costs of a traditional infrastructure with the costs for the same infrastructure on Azure.
 
