@@ -93,7 +93,6 @@ Study :
   4. **The TCO calculator**:
      
      - The Total Cost of Ownership (TCO) calculator is a tool provided by Azure to estimate and compare the total cost of owning and operating a particular workload or deployment scenario in Azure compared to on-premises or alternative cloud solutions. The TCO calculator takes into account factors such as infrastructure costs, operational expenses, and potential savings from using Azure services. It helps organizations make informed decisions about the cost-effectiveness of migrating to Azure and provides insights into potential cost savings.
-
 Task:
 
 - 1. **Set up Cost Management Alerts**:
