@@ -56,7 +56,7 @@ Task:
 
 - Understand the options Azure offers to view your expenses.
 
-- ### Used sources
+### Used sources
 
 - Azure Cloud environment (https://portal.azure.com/)
 
