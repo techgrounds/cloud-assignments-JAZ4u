@@ -1,20 +1,24 @@
 # # [2/ Azure Cost Management]
 
-Een veelgenoemd voordeel van de cloud is dat je alleen betaalt voor wat je gebruikt. Het gaat hier om OPEX in plaats van CAPEX uitgaven. De “Cost Management + Billing” tool geeft inzicht in je uitgaven in Azure en stelt je in staat je subscriptions te beheren.
+A frequently mentioned benefit of the cloud is that you only pay for what you use. This concerns OPEX expenses instead of CAPEX expenditures. The "Cost Management + Billing" tool provides insight into your expenses in Azure and allows you to manage your subscriptions.
 
-Wanneer je een ‘Free Account’ of een ‘Student Account’ aanmaakt krijg je een bedrag van Microsoft cadeau om in Azure mee te experimenteren. Houd er rekening mee dat na 30 dagen je subscription automatisch stop wordt gezet, waardoor al je nog draaiende diensten uitgezet worden.
+When you create a 'Free Account' or a 'Student Account', Microsoft gives you a certain amount to experiment with Azure. Keep in mind that after 30 days, your subscription will be automatically stopped, resulting in all your running services being shut down.
 
-Als je een ‘Pay-as-you-go’ subscription heb aangemaakt is er een aantal diensten die tot op zekere hoogte altijd gratis zijn. Begrijp wel dat deze diensten soms geïntegreerd zijn met andere diensten waar je wel voor moet betalen.
+If you have created a 'Pay-as-you-go' subscription, there are some services that are always free to a certain extent. However, understand that these services are sometimes integrated with other services for which you have to pay.
 
-Azure heeft de volgende principes om succesvol je kosten te reduceren:
+Azure has the following principles to successfully reduce your costs:
 
 - Plan (Planning)
-- Zichtbaarheid (Visibility)
-- Verantwoording (Accountability)
-- Optimalisatie (Optimization)
-- Iteratie (Iteration)
 
-De Total Cost of Ownership (TCO) wordt gebruikt om te berekenen hoeveel een infrastructuur kost als het op de traditionele manier gehost wordt. Met de TCO-calculator kan je de kosten van een traditionele infrastructuur vergelijken met de kosten voor dezelfde infrastructuur op Azure.
+- Visibility (Visibility)
+
+- Accountability (Accountability)
+
+- Optimization (Optimization)
+
+- Iteration (Iteration)
+
+The Total Cost of Ownership (TCO) is used to calculate how much an infrastructure costs when hosted in the traditional way. With the TCO calculator, you can compare the costs of a traditional infrastructure with the costs for the same infrastructure on Azure.
 
 ## Key-terms
 
@@ -37,23 +41,22 @@ De Total Cost of Ownership (TCO) wordt gebruikt om te berekenen hoeveel een infr
 6. **Total Cost of Ownership (TCO)**: TCO is the total cost associated with owning and operating a particular asset or service over its entire lifecycle. In the context of Azure, TCO analysis helps organizations evaluate the overall cost-effectiveness of using Azure compared to on-premises or alternative cloud solutions.
 
 7. **TCO-calculator**: Azure provides tools and calculators to estimate and compare the total cost of ownership for different deployment scenarios. These calculators take into account factors such as infrastructure costs, operational expenses, and potential savings from using Azure services.
-- ## Assignment
+   
+   ## Assignment
+   
+   Study:
+- The Azure principles for cost management
+- The terms of the 'Free subscription'
+- The difference between CAPEX and OPEX.
+- The TCO calculator
 
- Bestudeer:
+Task:
 
-- De Azure principes voor kostenmanagement
+- Set up an alert to monitor your own costs.
 
-- De voorwaarden van de ‘Free subscription’
+- Understand the options Azure offers to view your expenses.
 
-- Het verschil tussen CAPEX en OPEX.
-
-- De TCO-calculator
-  
-  Opdracht:
-  Maak een alert aan waarmee je eigen kosten kan monitoren.
-  Begrijp de opties die Azure aanbiedt om je uitgaven in te zien.
-  
-  ### Used sources
+- ### Used sources
 
 - Azure Cloud environment (https://portal.azure.com/)
 
