@@ -1,4 +1,4 @@
-# # [2/ Azure Cost Management]
+# [2/ Azure Cost Management]
 
 A frequently mentioned benefit of the cloud is that you only pay for what you use. This concerns OPEX expenses instead of CAPEX expenditures. The "Cost Management + Billing" tool provides insight into your expenses in Azure and allows you to manage your subscriptions.
 

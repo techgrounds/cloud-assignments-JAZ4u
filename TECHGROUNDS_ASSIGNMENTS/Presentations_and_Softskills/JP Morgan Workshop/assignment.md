@@ -30,13 +30,15 @@ By integrating these elements into your life, you can foster personal growth, de
 
 ![dia1.png](dia1.png)
 
+![dia2.png](dia2.png)
+
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- JP Morgan presentation
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- no problems
 
 # <u>Result</u>
 
@@ -124,3 +126,20 @@ This exercise uncovers your authentic values-in-action. You will need a pen and 
   - How might I do or be something in a way that honors my values?
     
     To make steps in gods community: become baptized, serve in his community, preach&practice his word.
+
+![dia2.png](dia2.png)
+
+****Exercise 4 – Tell your life story How many times have you been asked "So, what's your story?" and then feel you were not prepared and missed an opportunity? 
+
+1. Take a couple of minutes to reflect on what are the words that represent relevant milestones of your life, or form a re-occurring motive, words that show your core values, your passion or your ambitions. Think about your visions for your future, how you want to achieve them, what impact do you want to make on your community, workplace, colleagues, clients. 
+- My story is  story of many lows, and I am now seeking the highs. True ,healthy constructive , highs . My Story was also a quest for truth and understanding what is really good and not good.
+- The most valuable lessons in life I learned so far is that everyone is imperfect and that no human has true  control over things and life. 
+- I also learned people can be misled and be blind or even ignorant. Most of the Times it is because we are simply not allpowerful and do not have all wisdom. 
+- Even though I know I will not achieve to obtain these infinite and perfect qualities: I came to realize:" it is best I try to anyways"
+- I learned all life is divine and precious and should be loved and preserved. 
+
+ 2. Use these 3-5 words to build your story. Remember the elements of your Branding framework. Emphasize what makes you/your story unique. 
+
+Even though it is impossible to be perfect , I can still do my best to resemble it . 
+
+3. Pitch your life story, receive feedback and try to incorporate those in the next version. Building confidence, learning to present is a journey, be open for feedback and embrace the learning process. And don’t forget to have fun…!
