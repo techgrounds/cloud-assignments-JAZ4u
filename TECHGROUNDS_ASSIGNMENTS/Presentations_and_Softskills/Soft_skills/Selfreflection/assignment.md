@@ -24,7 +24,7 @@ Several models support the reflection process, such as the STARR method, Korthag
 
 1) Make self-reflection a habit by scheduling regular sessions.
 2) Strive to be objective and avoid judgment.
-3) Utilize reflection models to guide the pr8`ocess effectively.
+3) Utilize reflection models to guide the process effectively.
 
 Incorporating self-reflection into routine practice can lead to personal and professional growth by enhancing self-awareness and driving continuous improvement.
 
@@ -62,6 +62,8 @@ Incorporating self-reflection into routine practice can lead to personal and pro
 
 ## Assignment
 
+Hoe zie je self reflection in relatie tot jou werkzaamheden als ITer?
+
 ### Used sources
 
 Techgrounds handout and presentation 
@@ -72,4 +74,28 @@ No Problems
 
 ### Result
 
-no result needed
+Hoe zie je self reflection in relatie tot jou werkzaamheden als ITer?
+
+Als ITer ben ik bezig met gevoelige data  en taken die van belang kunnen zijn voor hele afdelingen.
+
+Ik dien alert te zijn , moreel bewust , en op tijd en secuur. 
+Indien er problemen zijn DOOR MIJN TOEDOEN, dan dien ik daar verantwoordelijkheid voor te nemen en acties te nemen om dat voortaan te voorkomen. 
+
+
+
+
+Het GIBBS model in praktijk nemend:
+
+
+- **Description:** SAM's example: about HIRING persons
+
+- **Feelings:** Feelings of Anger and Disappointment
+
+- **Evaluation:** Assessing what went well or poorly during the experience.
+
+- **Analysis:** Analyzing the situation, identifying key factors and implications.
+
+- **Conclusion:** Regarding HIRING process :You need to be confident , stay focussed 
+
+- **Action Plan:** Turn off emotions: and decided to do it myself
+  
