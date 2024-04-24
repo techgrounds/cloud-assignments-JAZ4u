@@ -113,7 +113,11 @@ If you are confronted with a question which you cannot answer: make it broader, 
 This guy does not like: made-up BS. A no-go!
 Say instead "I do not know", and tell something which you DO know (relatable)
 
-Feedback about my life story speech:
+
+**Exercise:**
+1-minute pitch, with feedback.
+
+My Personal Feedback about my life story speech:
 - make it short, I exceeded 1 minute
 - make it fluent
 - you can tell about where you come from, and what you have done. And where I want to head to.
@@ -122,14 +126,41 @@ Feedback about my life story speech:
 - the person who you apply to has to have the feeling he wants to know you more.
 - make a story, that is easier to remember also.
 
-**Exercise:**
-1-minute pitch, with feedback.
+**Afternoon Notes with Shikha - Soft Skill Presentation about Self-Reflection:**
+- **Shay:**
+  - Currently on assignment 3 of Azure.
+  - Noticed passiveness in himself and mentioned it to the team.
 
-AFternoon notes with Shikha
-Softskill presentation about Self reflection
--	Shay is assignment 3 of Azure , he siad he noticed some passivness in himself. He mentioned it to the team.
--	Elmarie 
--	Jaz is feeling lowpower , he made some notes of the day and is busy with the JP Morgan notes, did not look at his Azure homework today. He is at 2nd Azure Assignment still.
--	Sam was busy with his Azure MD files this morning (at 2nd assignment?)
--	Shikhas softskill question :When something goes wrong with your job what would your approach be going forward , which model would you chose. Explain how and why.
--	
+- **Elmarie:**
+  - Busy with JP Morgan notes in the morning.
+
+- **Jaz:**
+  - Feeling low-energy.
+  - Made notes of the day.
+  - Busy with JP Morgan notes.
+  - Created a quick Self-reflection MD file.
+  - Hasn't looked at his Azure homework yet, still on the 2nd Azure Assignment.
+
+- **Sam:**
+  - Busy with Azure MD files in the morning (presumably on the 2nd assignment).
+
+- **Shikha's Soft Skill Question:**
+  - "How do you see self-reflection in relation to your work as an ITer?"
+
+- **Shikha's Feedback on Self-Reflection Presentation:**
+  - Should have focused more on IT-related aspects rather than HR Recruitment.
+  - Suggested implementing certification processes, background verification, trial periods, and ISO 27001 standards for hiring.
+
+- **Next Week:**
+  - Casper will lead the Self-Reflection session.
+
+- **Next Sprint Presentation:**
+  - Sam will present on Azure Cost Management and cloud advantages.
+
+- **Retrospective for This Week:**
+  - We Designed a structure for answering the self-reflection test more conveniently and timely, focusing on participation and timely delivery of answers. Structure involves individual answers, group comparison, and discussion/practice presentation to Shikha/Casper.
+Softskills Presentation structure :
+We focus on participation , and timely delivery of an answer (15 minutes).
+1/ 	in the first 5 minutes we all come up with the answers (individually).
+2/	in the second 5 minutes we all compare our answers , we then group the answers and make 1 result.
+3/	in the third 5 minutes we can discuss and practise presentation to Shika/Casper.
