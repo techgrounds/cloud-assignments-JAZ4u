@@ -1,4 +1,4 @@
-# [Selfrefelction]
+# [Self Reflection]
 
 Self-reflection is a crucial skill for personal and professional development. It involves objectively examining one's actions, understanding motivations, and identifying areas for improvement. Here's a summary of key points:
 
@@ -64,7 +64,7 @@ Incorporating self-reflection into routine practice can lead to personal and pro
 
 ### Used sources
 
-Techgrounds handout and presentaion 
+Techgrounds handout and presentation 
 
 ### Encountered problems
 
@@ -72,4 +72,4 @@ No Problems
 
 ### Result
 
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+no result needed
