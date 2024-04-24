@@ -65,6 +65,8 @@ Conduct a 1-minute pitch; afterwards, you will get feedback.
 - Include relevant personal and technical experiences.
 - Focus on making it memorable as a story.
 
+
+
 **Afternoon Notes with Shikha - Soft Skill Presentation about Self-Reflection:**
 - **Shay:**
   - Currently on assignment 3 of Azure.
@@ -75,8 +77,8 @@ Conduct a 1-minute pitch; afterwards, you will get feedback.
 
 - **Jaz:**
   - Feeling low-energy.
-  - Made notes of the day.
   - Busy with JP Morgan notes.
+
   - Created a quick Self-reflection MD file.
   - Hasn't looked at his Azure homework yet, still on the 2nd Azure Assignment.
 
