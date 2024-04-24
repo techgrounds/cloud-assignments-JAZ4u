@@ -30,7 +30,9 @@ Incorporating self-reflection into routine practice can lead to personal and pro
 
 ## Key-terms
 
-1. **STARR Method:** The STARR method is a structured approach to reflection, commonly used in evaluating experiences or events. It stands for Situation, Task, Action, Result, and Reflection. Each component prompts individuals to systematically analyze a situation, their role within it, the actions taken, outcomes achieved, and reflections on the experience.
+    1. **STARR Method:** The STARR method is a structured approach to reflection, commonly used in evaluating experiences or events. It stands for Situation, Task, Action, Result, and Reflection. Each component prompts individuals to systematically analyze a situation, their role within it, the actions taken, outcomes achieved, and reflections on the experience.
+
+![STARR_model.png](STARR_model.png)
 
 2. **Korthagen Model:** The Korthagen model is a reflective learning model developed by Fred Korthagen. It consists of five phases:
    
@@ -40,14 +42,23 @@ Incorporating self-reflection into routine practice can lead to personal and pro
    - **Alternative:** Exploring alternative perspectives or actions and their potential consequences.
    - **Experiment:** Implementing new approaches, learning from mistakes, and refining strategies.
 
-3. **Gibbs Model:** The Gibbs model is a structured reflection model commonly used in healthcare and education. It involves six stages:
+3. ![Korthagen_model.png](Korthagen_model.png)
+   
+   **Gibbs Model:** The Gibbs model is a structured reflection model commonly used in healthcare and education. It involves six stages:
    
    - **Description:** Describing the event or experience.
+   
    - **Feelings:** Expressing thoughts and emotions related to the experience.
+   
    - **Evaluation:** Assessing what went well or poorly during the experience.
+   
    - **Analysis:** Analyzing the situation, identifying key factors and implications.
+   
    - **Conclusion:** Drawing conclusions about the experience, identifying lessons learned.
+   
    - **Action Plan:** Developing strategies for future actions based on insights gained from reflection.
+     
+     ![Gibbs_model.png](Gibbs_model.png)
 
 ## Assignment
 
