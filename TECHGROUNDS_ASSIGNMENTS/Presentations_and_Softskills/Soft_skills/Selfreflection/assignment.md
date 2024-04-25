@@ -41,7 +41,8 @@ Incorporating self-reflection into routine practice can lead to personal and pro
    - **Awareness:** Understanding the connections between actions, thoughts, and feelings.
    - **Alternative:** Exploring alternative perspectives or actions and their potential consequences.
    - **Experiment:** Implementing new approaches, learning from mistakes, and refining strategies.
-     ![korthagen_model.png](korthagen_model.png)
+     
+     ![Korthagen_model.png](Korthagen_model.png)
 
 3. **Gibbs Model:** The Gibbs model is a structured reflection model commonly used in healthcare and education. It involves six stages:
 - **Description:** Describing the event or experience.
