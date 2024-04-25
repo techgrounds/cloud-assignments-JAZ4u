@@ -53,14 +53,11 @@ Conduct a 1-minute pitch; afterwards, you will get feedback.
 - Ensure fluency.
 - Include relevant personal and technical experiences.
 - Focus on making it memorable as a story.
-  
-  
-  
-  
+
   ==================
-  
+
   RAW ORIGINAL NOTES
-  
+
   ==================
 
 ```
@@ -192,9 +189,4 @@ Feedback about my life story speech :
 - you do not have to go too deep at first
 - the person who you apply to has to have the feeling he wants to know you more.
 - make a story , that is easier to remember also. 
-
-
-
 ```
-
-
