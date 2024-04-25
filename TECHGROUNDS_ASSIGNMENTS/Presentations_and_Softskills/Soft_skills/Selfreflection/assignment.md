@@ -40,9 +40,9 @@ Incorporating self-reflection into routine practice can lead to personal and pro
    - **Reflect:** Examining the thoughts, feelings, and experiences during the action phase.
    - **Awareness:** Understanding the connections between actions, thoughts, and feelings.
    - **Alternative:** Exploring alternative perspectives or actions and their potential consequences.
-   - **Experiment:** Implementing new approaches, learning from mistakes, and refining strategies.
+   - **Experiment:** Implementing new approaches, learning from mistakes, and refining strategies.![Korthagen_model.png](Korthagen_model.png)
 
-3. ![Korthagen_model.png](Korthagen_model.png)
+3. 
    
    **Gibbs Model:** The Gibbs model is a structured reflection model commonly used in healthcare and education. It involves six stages:
    
@@ -81,11 +81,7 @@ Als ITer ben ik bezig met gevoelige data  en taken die van belang kunnen zijn vo
 Ik dien alert te zijn , moreel bewust , en op tijd en secuur. 
 Indien er problemen zijn DOOR MIJN TOEDOEN, dan dien ik daar verantwoordelijkheid voor te nemen en acties te nemen om dat voortaan te voorkomen. 
 
-
-
-
 Het GIBBS model in praktijk nemend:
-
 
 - **Description:** SAM's example: about HIRING persons
 
@@ -98,4 +94,3 @@ Het GIBBS model in praktijk nemend:
 - **Conclusion:** Regarding HIRING process :You need to be confident , stay focussed 
 
 - **Action Plan:** Turn off emotions: and decided to do it myself
-  
