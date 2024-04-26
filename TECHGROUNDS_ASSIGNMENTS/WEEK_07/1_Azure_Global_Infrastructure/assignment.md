@@ -51,11 +51,11 @@ Bestudeer:
 
 - [Global Infrastructure | Microsoft Azure](https://azure.microsoft.com/en-us/explore/global-infrastructure/)
 
-- 
+- learn.techgrounds.nl
 
 ### Encountered problems
 
-- no preblems encountered
+- no problems encountered
 
 # Result
 
