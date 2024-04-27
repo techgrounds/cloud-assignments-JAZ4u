@@ -113,10 +113,20 @@ Study :
 
 2. **Understand Azure Cost Management Options**:
 - In the "Cost Management + Billing" section of the Azure portal, explore the various options available for viewing and managing your expenses.
+
 - Review the "Cost Analysis" dashboard to gain insights into your spending trends, cost breakdown by service, and forecasted costs.
+
 - Utilize the "Budgets" feature to set spending limits and receive notifications when you approach or exceed your budget.
   ![cloud_student14_budget.png](cloud_student14_budget.png)
+
 - Explore the "Invoice" section to view detailed billing information, including usage charges, credits, and taxes.
   
-  Check out the "Usage Details" to drill down into specific usage metrics and costs associated with individual Azure resources.
+  ![invoice.png](invoice.png)
+  
+  
+
+- Check out the "Usage Details" to drill down into specific usage metrics and costs associated with individual Azure resources.
+
 - Take advantage of the "Recommendations" tab to identify potential cost-saving opportunities and optimization suggestions.
+  
+  ![recommendation.png](recommendation.png)
