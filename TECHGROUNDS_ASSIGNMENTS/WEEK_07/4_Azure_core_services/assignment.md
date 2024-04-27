@@ -103,7 +103,15 @@ Study:
 
 - [AZ-900: 765 Questions (2024) | Documentation | Exam Tips | PDF Dumps (Exam Cram💡) - YouTube](https://www.youtube.com/watch?v=C6RFbx1STUk&ab_channel=TheTechBlackBoard)
 
-- 
+- [AZ-900 Azure Fundamentals Exam Cram (2024 Edition) - Full Course - YouTube](https://www.youtube.com/watch?v=8n-kWJetQRk&ab_channel=InsideCloudandSecurity)
+
+- [AZ-900 Exam Cram FULL-2024_HANDOUT.pdf - Microsoft Word Online](https://onedrive.live.com/view.aspx?resid=1590B798C9CD6D68!158639&authkey=!ACcAstG4pRkLS_M)
+
+- https://www.youtube.com/@InsideCloudAndSecurity
+  
+  - https://onedrive.live.com/?authkey=%21ACcAstG4pRkLS%5FM&id=1590B798C9CD6D68%21136912&cid=1590B798C9CD6D68
+    
+    
 
 ### Encountered problems
 
