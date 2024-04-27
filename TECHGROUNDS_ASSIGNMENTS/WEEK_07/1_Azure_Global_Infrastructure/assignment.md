@@ -59,7 +59,7 @@ Study:
 
 # Result
 
-Bestudeer:
+Study:
 
 - <u>Wat is een Azure Region?</u>
   
