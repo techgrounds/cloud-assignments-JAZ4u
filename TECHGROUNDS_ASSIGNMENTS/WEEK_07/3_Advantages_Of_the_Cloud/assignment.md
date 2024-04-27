@@ -1,26 +1,26 @@
 # [3/ Advantages of the cloud]
 
-Azure noemt 6 voordelen van cloud computing. Dit zijn basiseigenschappen die de cloud interessant maken voor bedrijven. Houd er rekening mee dat dit gelijk ook een marketing tool is om Azure te introduceren aan nieuwe klanten. Daarom is het ook een belangrijk onderdeel van het AZ-900 examen.
+that make the cloud appealing to businesses. Keep in mind that this also serves as a marketing tool to introduce Azure to new customers. Therefore, it's also an important part of the AZ-900 exam.
 
-De zes voordelen van cloud computing zijn:
+The six benefits of cloud computing are:
 
-- High Availability
+1. High Availability
+   
+   - Depending on the service-level agreement (SLA)
 
-- Afhankelijk van de service-level agreement (SLA)
+2. Scalability
+   
+   - Both vertically and horizontally
 
-- Scalability
+3. Elasticity
 
-- Zowel verticaal als horizontaal
+4. Agility
 
-- Elasticity
+5. Geo-distribution
 
-- Agility
+6. Disaster recovery
 
-- Geo-distribution
-
-- Disaster recovery
-
-Azure maakt gebruik van een consumption-based model. Dat wil zeggen dat je alleen betaalt voor de resources die je gebruikt. Hierdoor wordt Capital Expenditure (CapEx) vervangen voor Operational Expenditure (OpEx).
+Azure utilizes a consumption-based model. This means you only pay for the resources you use. Consequently, Capital Expenditure (CapEx) is replaced with Operational Expenditure (OpEx).
 
 ## Key-terms
 
@@ -80,19 +80,17 @@ Study:
   
   - Cloud computing offers several advantages that make it a popular choice for businesses and organizations: 
     
-    - **High Availability**: Cloud platforms ensure services are accessible with minimal downtime through redundant infrastructure and data centers, maintaining service availability even if one component fails.
-    
-    - **Service-Level Agreements (SLAs)**: Cloud providers offer SLAs guaranteeing uptime, performance, and support, providing customers assurances of service reliability crucial for business operations.
-    
-    - **Scalability**: Cloud services allow easy vertical and horizontal scalability, adjusting resource capacity as needed to accommodate changing workloads or demands.
-    
-    - **Elasticity**: Cloud resources can automatically scale up or down in response to demand, optimizing resource usage and costs by only paying for what is used.
-    
-    - **Agility**: Cloud computing enables rapid deployment and management of IT resources, allowing organizations to provision, deploy, and scale infrastructure quickly without traditional procurement delays.
-    
-    - **Geo-Distribution**: Cloud providers operate data centers in multiple regions, allowing organizations to deploy services closer to users, reducing latency, improving performance, and providing redundancy and disaster recovery capabilities.
-    
-    - **Disaster Recovery**: Cloud computing offers robust disaster recovery capabilities by replicating data and applications across geographically dispersed data centers, ensuring business continuity and minimizing downtime in case of disasters or outages.
+    - 1. **High Availability**: Azure offers high availability through its globally distributed data centers. This means that applications and services hosted on Azure are designed to be accessible and operational with minimal downtime. Azure provides redundancy and failover mechanisms to ensure continuous availability, meeting the requirements specified in service-level agreements (SLAs).
+      
+      2. **Scalability**: Azure enables both vertical and horizontal scalability. Vertical scalability involves increasing the capacity of a single server or virtual machine by adding more resources such as CPU, memory, or storage. Horizontal scalability, on the other hand, involves adding more instances of servers or virtual machines to distribute the workload. Azure's scalable infrastructure allows businesses to handle increased demand or workload spikes without compromising performance.
+      
+      3. **Elasticity**: Elasticity in Azure refers to the ability to dynamically scale resources up or down based on demand. Azure offers auto-scaling capabilities that automatically adjust resources in response to changing workload patterns. This ensures optimal resource utilization and cost efficiency by provisioning resources only when needed and releasing them when no longer required.
+      
+      4. **Agility**: Azure provides agility by enabling rapid deployment and iteration of applications and services. With Azure's extensive set of services and tools, developers can quickly build, test, and deploy applications, accelerating time-to-market. Azure's DevOps capabilities facilitate continuous integration and continuous delivery (CI/CD), streamlining the software development lifecycle and promoting agility in responding to changing business requirements.
+      
+      5. **Geo-distribution**: Azure's global presence allows businesses to deploy applications and services closer to their users, reducing latency and improving performance. Azure spans multiple regions worldwide, enabling geo-replication and data residency options to meet regulatory compliance requirements. By leveraging Azure's global network infrastructure, businesses can reach customers in different geographic locations with low latency and high availability.
+      
+      6. **Disaster Recovery**: Azure offers comprehensive disaster recovery solutions to protect data and applications against unplanned downtime and data loss. Azure's backup and recovery services provide reliable data protection and replication capabilities, ensuring business continuity in the event of disasters such as hardware failures, natural disasters, or cyberattacks. Azure's geo-redundant storage and site recovery services enable businesses to replicate data and workloads across multiple regions for enhanced resilience and disaster recovery preparedness.
     
     These advantages make cloud computing an attractive option for businesses seeking to improve scalability, reliability, flexibility, and cost-effectiveness in managing their IT infrastructure and services.
 
