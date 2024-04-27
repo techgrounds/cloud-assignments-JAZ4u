@@ -122,8 +122,6 @@ Study :
 - Explore the "Invoice" section to view detailed billing information, including usage charges, credits, and taxes.
   
   ![invoice.png](invoice.png)
-  
-  
 
 - Check out the "Usage Details" to drill down into specific usage metrics and costs associated with individual Azure resources.
 
