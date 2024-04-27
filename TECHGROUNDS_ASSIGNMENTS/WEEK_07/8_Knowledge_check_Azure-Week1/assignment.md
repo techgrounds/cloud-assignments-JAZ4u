@@ -1,10 +1,6 @@
 # [8/ Knowledge check Azure -Week 1]
 
-
-
 ## Key-terms
-
-
 
 ## Assignment
 
