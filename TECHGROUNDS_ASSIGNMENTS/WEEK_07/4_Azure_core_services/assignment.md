@@ -110,8 +110,6 @@ Study:
 - https://www.youtube.com/@InsideCloudAndSecurity
   
   - https://onedrive.live.com/?authkey=%21ACcAstG4pRkLS%5FM&id=1590B798C9CD6D68%21136912&cid=1590B798C9CD6D68
-    
-    
 
 ### Encountered problems
 
