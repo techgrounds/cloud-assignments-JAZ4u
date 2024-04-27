@@ -1,6 +1,6 @@
 # [3/ Advantages of the cloud]
 
-that make the cloud appealing to businesses. Keep in mind that this also serves as a marketing tool to introduce Azure to new customers. Therefore, it's also an important part of the AZ-900 exam.
+Azure lists 6 benefits of cloud computing. These are fundamental characteristics that make the cloud appealing to businesses. Keep in mind that this also serves as a marketing tool to introduce Azure to new customers. Therefore, it's also an important part of the AZ-900 exam.
 
 The six benefits of cloud computing are:
 

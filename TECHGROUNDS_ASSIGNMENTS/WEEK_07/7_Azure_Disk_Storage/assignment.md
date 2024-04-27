@@ -36,16 +36,20 @@ Task:
 Task:
 
 - Start 2 Linux VMs. Ensure that you have SSH access to both.
+
 - Create an Azure Managed Disk and attach it to both VMs simultaneously.
+
 - On your first machine, create a file and place it on the Shared Disk.
+
 - Check on the second machine if you can read the file. (Note: you may need to remount the disk on your 2nd VM)
+
 - Take a snapshot of the disk and try creating a new Disk from it.
+
 - Mount this new Disk and view the file.
-
+  
   SOLUTION:
-
+  
   To solve the task, follow these steps:
-
 1. **Start 2 Linux VMs and ensure SSH access:**
    
    - In the Azure Portal, create two Linux VMs.

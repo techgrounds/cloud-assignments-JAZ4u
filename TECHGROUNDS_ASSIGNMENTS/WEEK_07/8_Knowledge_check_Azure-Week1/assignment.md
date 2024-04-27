@@ -10,7 +10,7 @@
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- learn.techgrounds.nl
 
 ### Encountered problems
 

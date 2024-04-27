@@ -1,10 +1,10 @@
 # [5/ Azure Storage Account]
 
-Om data op te slaan in Azure heb je een Azure Storage Account nodig. In een Storage Account staan alle Azure Storage data objects als blobs, files, disks en tables.
+To store data in Azure, you need an Azure Storage Account. Within a Storage Account, all Azure Storage data objects such as blobs, files, disks, and tables are stored.
 
-Data in een Storage Account is secure, highly available, durable en massively scalable. Alle data in een Storage Account is bereikbaar via het internet met HTTP en HTTPS. Omdat het makkelijk te bereiken is moet je goed opletten dat alleen de juiste identiteiten permissies hebben om bij de data te komen. Azure Storage explorer is een gratis GUI om je data te beheren in Azure. Veel IaaS en PaaS services van Azure maken ook gebruik van Azure Storage Accounts. Naast het opslaan van data kan Blob Storage ook gebruikt worden voor het hosten van statische websites.
+Data in a Storage Account is secure, highly available, durable, and massively scalable. All data in a Storage Account is accessible via the internet using HTTP and HTTPS. Because it's easily accessible, it's important to ensure that only the appropriate identities have permissions to access the data. Azure Storage Explorer is a free GUI for managing your data in Azure. Many Azure IaaS and PaaS services also utilize Azure Storage Accounts. In addition to storing data, Blob Storage can also be used for hosting static websites.
 
-Note: AWS heeft met Techgrounds een statische demo-website gedeeld. Omdat het niks meer dan HTML, CSS en JavaScript is, werkt het ook als je het host in Azure Blob Storage.
+Note: AWS has shared a static demo website with Techgrounds. Since it's nothing more than HTML, CSS, and JavaScript, it also works when hosted in Azure Blob Storage.
 
 ## Key-terms
 

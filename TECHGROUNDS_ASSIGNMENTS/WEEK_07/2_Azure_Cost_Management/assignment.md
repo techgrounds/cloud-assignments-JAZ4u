@@ -62,9 +62,11 @@ Task:
 
 - Azure documentation
 
-- learn.techgrounds.nl
+- CHAT-GPT
 
 - [Pricing Calculator | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+- learn.techgrounds.nl
 
 ### Encountered problems
 

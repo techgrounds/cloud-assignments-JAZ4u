@@ -1,14 +1,14 @@
 # [1/ Azure Global Infrastructure]
 
-Alles in de cloud, van servers tot networking, is virtualized. Als klant van een cloud provider hoef je je geen zorgen te maken over de onderliggende fysieke infrastructuur. De fysieke locatie van je applicatie of data kan echter wel belangrijk zijn.
+Everything in the cloud, from servers to networking, is virtualized. As a customer of a cloud provider, you don't have to worry about the underlying physical infrastructure. However, the physical location of your application or data can still be important.
 
-De global infrastructure van Azure bestaat uit de volgende componenten:
+Azure's global infrastructure consists of the following components:
 
 - Regions
 - Availability Zones
 - Region Pairs
 
-Je hebt zelf controle over welke regio je gebruikt, maar niet elke service is beschikbaar in elke regio. Sommige services zijn ook niet gebonden aan een specifieke regio. Denk hierbij bijvoorbeeld aan Azure Subscriptions. Voor andere diensten als Azure Virtual Machines kan je juist een specifiek datacenter kiezen.
+You have control over which region you use, but not every service is available in every region. Some services are also not bound to a specific region. For example, Azure Subscriptions. For other services like Azure Virtual Machines, you can choose a specific data center.
 
 ## Key-terms
 
@@ -28,12 +28,12 @@ Je hebt zelf controle over welke regio je gebruikt, maar niet elke service is be
 
 ## Assignment
 
-Bestudeer:
+Study:
 
-- Wat is een Azure Region?
-- Wat is een Azure Availability Zone?
-- Wat is een Azure Region Pair?
-- Waarom zou je een regio boven een andere verkiezen?
+- What is an Azure Region?
+- What is an Azure Availability Zone?
+- What is an Azure Region Pair?
+- Why would you prefer one region over another?
 
 ### Used sources
 

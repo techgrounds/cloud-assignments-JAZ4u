@@ -1,8 +1,8 @@
 # [4/ Azure Core Services]
 
-Je kan dit document zien als een soort gids naar je AZ-900 certificering. Hierin staan de services die je in wat meer detail moet kennen. Ook beschrijft dit document hoe je moet omgaan met de andere services die je in het (oefen)examen tegen kan komen.
+You can think of this document as a sort of guide to your AZ-900 certification. It lists the services you need to know in a bit more detail. Additionally, this document describes how to handle the other services you may encounter in the (practice) exam.
 
-Er zijn veel services in Azure, maar sommige zijn belangrijker dan andere. Azure noemt de volgende architectural components en services waarvan je redelijk in-depth van moet weten wat ze doen:
+There are many services in Azure, but some are more important than others. Azure mentions the following architectural components and services of which you should have a fairly in-depth understanding of what they do:
 
 - Regions and Region Pairs
 - Availability Zones
@@ -30,9 +30,9 @@ Er zijn veel services in Azure, maar sommige zijn belangrijker dan andere. Azure
 - SQL Managed Instance
 - Azure Marketplace
 
-Natuurlijk zijn er veel meer services die mogelijk op je examen komen. Voor deze services is het genoeg om bekend te zijn met de product page (<u><a class="linkclass">zie hier een voorbeeld van een Azure product page</a></u>)
+Of course, there are many more services that may appear on your exam. For these services, it's sufficient to be familiar with the product page (see here for an example of an Azure product page).
 
-Naast de services kan je ook vragen verwachten over verschillende cloud concepten, zoals High Availability, het consumption-based pricing model en het shared responsibility model.
+In addition to services, you can also expect questions about various cloud concepts, such as High Availability, the consumption-based pricing model, and the shared responsibility model.
 
 ## Key-terms
 
@@ -101,6 +101,10 @@ Study:
 
 - learn.techgrounds.nl
 
+- [AZ-900: 765 Questions (2024) | Documentation | Exam Tips | PDF Dumps (Exam Cram💡) - YouTube](https://www.youtube.com/watch?v=C6RFbx1STUk&ab_channel=TheTechBlackBoard)
+
+- 
+
 ### Encountered problems
 
 - no problems
@@ -109,7 +113,7 @@ Study:
 
 Study:
 
-- De Exam Guide voor Microsoft Azure Fundamentals (AZ-900)
+- **De Exam Guide voor Microsoft Azure Fundamentals (AZ-900)**
   
   - **Exam Overview:**
     

@@ -1,22 +1,22 @@
 # [6/ Virtual Machines]
 
-De Service waarmee je VMs kan maken in Azure heet (zeer toepasselijk) Azure Virtual Machines. Je kan deze VMs gebruiken voor alles waar je een fysieke server voor zou gebruiken. Omdat ze in een datacenter van Microsoft staan, kan je er alleen verbinding mee maken via het internet. Verbinding met een remote Linux-machine maak je met het Secure Shell (ssh) protocol. Voor een verbinding met Windows machines gebruik je het Remote Desktop Protocol (RDP).
+The service for creating VMs in Azure is aptly named Azure Virtual Machines. You can use these VMs for anything you would use a physical server for. Since they reside in a Microsoft data center, you can only connect to them via the internet. Connection to a remote Linux machine is made using the Secure Shell (SSH) protocol. For connecting to Windows machines, you use the Remote Desktop Protocol (RDP).
 
-Om een VM aan te maken moet je een image selecteren. Een image is een soort blauwdruk voor je machine. Het bevat onder andere een template voor het OS.
+To create a VM, you must select an image. An image is a kind of blueprint for your machine. It includes, among other things, a template for the OS.
 
-VMs komen in verschillende sizes. Elke size heeft een andere hoeveelheid vCPUs, RAM, Data disks, Max IOPS, Temp storage, Premium disk support en prijs.
+VMs come in various sizes. Each size has a different amount of vCPUs, RAM, data disks, Max IOPS, temp storage, premium disk support, and price.
 
-Voor de OS disk (de root volume) kan je kiezen uit Premium SSD, Standard SSD en Standard HDD. Je hebt ook de optie om extra Data disks toe te voegen.
+For the OS disk (the root volume), you can choose from Premium SSD, Standard SSD, and Standard HDD. You also have the option to add additional data disks.
 
-Je kan optioneel je VM beveiligen met een NIC network security group. Het wordt aangeraden om network security groups te configureren op subnet niveau (en dus niet op instance niveau) waar mogelijk, maar soms heb je een allow/deny rule nodig op een specifieke instance, dus de optie is er. In elk geval kan je firewalls dus buiten de instance regelen, en hoef je niet binnen de VM nog een extra firewall te configureren.
+You can optionally secure your VM with a NIC network security group. It is recommended to configure network security groups at the subnet level (and thus not at the instance level) where possible, but sometimes you need an allow/deny rule on a specific instance, so the option is there. In any case, you can manage firewalls outside the instance, and you don't need to configure an additional firewall within the VM.
 
-Met Custom Data kan je een cloud-init script, config file of andere data meegeven tijdens het opstarten van de VM. Hiermee kan je automatisch servers configureren zonder zelf in te loggen. User data is een nieuwe versie van Custom data. Het grootste verschil is dat User Data beschikbaar blijft gedurende de hele levensduur van de VM.
+With Custom Data, you can pass a cloud-init script, config file, or other data during VM startup. This allows you to automatically configure servers without logging in yourself. User data is a newer version of Custom data. The main difference is that User Data remains available throughout the VM's entire lifespan.
 
-De prijs van een Azure VM hangt af van de size, de image, de regio waar hij in staat, het aantal minuten dat hij aan staat, en het type betaling dat je doet.
+The price of an Azure VM depends on the size, image, region it's located in, the number of minutes it's running, and the type of payment you choose.
 
-- Pay-as-you-go is de duurste optie, maar ook het meest flexibel.
-- Reserved Instances zijn goedkoper, maar je zit vast aan een reservatie van 1 of 3 jaar.
-- Spot instances zijn over het algemeen het goedkoopst, maar de availability hangt af van de vraag naar VMs op dat moment, dus ze zijn niet altijd betrouwbaar.
+- Pay-as-you-go is the most expensive option but also the most flexible.
+- Reserved Instances are cheaper, but you're committed to a reservation for 1 or 3 years.
+- Spot instances are generally the cheapest, but availability depends on the demand for VMs at that time, so they're not always reliable.
 
 ## Key-terms
 
