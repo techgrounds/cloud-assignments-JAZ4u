@@ -36,6 +36,44 @@ In addition to services, you can also expect questions about various cloud conce
 
 ## Key-terms
 
+- 1. **Regions and Region Pairs**: Azure data centers are located in various geographic regions worldwide. Regions are areas within a specific geography, such as North America, Europe, or Asia Pacific. Region Pairs are geographically separate data center locations within the same geopolitical region, providing redundancy and disaster recovery capabilities.
+  
+  2. **Availability Zones**: Availability Zones are physically separate data centers within an Azure region. They offer high availability and fault tolerance by ensuring that applications and data remain available even if one zone within a region fails.
+  
+  3. **Resource Groups**: Resource Groups are containers that hold related Azure resources for a specific solution or application. They provide a way to manage and organize resources, enabling easier management, monitoring, and access control.
+  
+  4. **Subscriptions**: Subscriptions are the billing containers in Azure. They define the billing scope and provide access to Azure services based on the subscription's permissions and limits.
+  
+  5. **Management Groups**: Management Groups are containers that help you manage access, policies, and compliance across multiple subscriptions. They provide a way to apply governance controls consistently across an organization's Azure environment.
+  
+  6. **Azure Resource Manager (ARM)**: ARM is the deployment and management service for Azure. It provides a consistent management layer that enables you to deploy, manage, and monitor Azure resources in a declarative manner using templates.
+  
+  7. **Virtual Machines (VMs)**: Azure VMs are scalable computing instances that run applications and workloads. They offer flexibility in terms of size, operating system, and deployment options.
+  
+  8. **Azure App Services**: App Services is a platform-as-a-service (PaaS) offering for building, deploying, and scaling web applications and APIs. It supports multiple programming languages and frameworks.
+  
+  9. **Azure Container Instances (ACI)**: ACI is a serverless container service that enables you to run containers on Azure without managing underlying infrastructure. It provides rapid deployment and scaling of containerized applications.
+  
+  10. **Azure Kubernetes Service (AKS)**: AKS is a managed Kubernetes service that simplifies the deployment, management, and scaling of containerized applications using Kubernetes orchestration.
+  
+  11. **Azure Virtual Desktop**: Azure Virtual Desktop is a desktop and app virtualization service that enables users to access Windows desktops and applications from anywhere on any device.
+  
+  12. **Virtual Networks**: Virtual Networks enable you to create isolated network environments in Azure, allowing you to securely connect Azure resources and extend on-premises networks to the cloud.
+  
+  13. **VPN Gateway and ExpressRoute**: These are networking services that provide secure connectivity options for connecting on-premises networks to Azure resources.
+  
+  14. **Virtual Network Peering**: Virtual Network Peering allows you to connect virtual networks within the same region or across different regions, enabling seamless communication between resources.
+  
+  15. **Container (Blob), Disk, and File Storage**: These are different types of storage services in Azure for storing various types of data, including blobs, disks, and files, with different performance and durability options.
+  
+  16. **Storage Tiers**: Azure Storage offers multiple tiers for storing data based on access frequency and performance requirements, including hot, cool, and archive tiers.
+  
+  17. **Cosmos DB**: Cosmos DB is a globally distributed, multi-model database service for building highly responsive and scalable applications. It supports various data models and provides low-latency access to data worldwide.
+  
+  18. **Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, SQL Managed Instance**: These are managed database services in Azure for SQL Server, MySQL, and PostgreSQL, offering features such as automatic backups, scaling, and high availability.
+  
+  19. **Azure Marketplace**: Azure Marketplace is a digital storefront where you can find, try, and buy thousands of third-party solutions and services certified to run on Azure.
+
 - **The AZ-900 exam**
   
   - The AZ-900 exam, also known as "Microsoft Azure Fundamentals," is an entry-level certification exam offered by Microsoft. It is designed for individuals who are new to Azure and want to demonstrate foundational knowledge of cloud services and how they are provided with Microsoft Azure. Here's an overview of the AZ-900 exam:
