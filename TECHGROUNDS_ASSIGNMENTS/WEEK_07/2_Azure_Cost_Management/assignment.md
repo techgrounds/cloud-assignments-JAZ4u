@@ -111,8 +111,6 @@ Study :
 
 ![cost_alert.png](cost_alert.png)
 
-
-
 2. **Understand Azure Cost Management Options**:
 - In the "Cost Management + Billing" section of the Azure portal, explore the various options available for viewing and managing your expenses.
 - Review the "Cost Analysis" dashboard to gain insights into your spending trends, cost breakdown by service, and forecasted costs.
