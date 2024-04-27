@@ -8,9 +8,21 @@ Note: AWS has shared a static demo website with Techgrounds. Since it's nothing 
 
 ## Key-terms
 
-- https://portal.azure.com/)
+1. **Azure Portal ([https://portal.azure.com/](https://portal.azure.com/))** : The Azure Portal is a web-based interface provided by Microsoft Azure for managing Azure resources and services. It offers a unified dashboard where users can create, manage, and monitor their Azure resources, access billing information, configure security settings, and more.
 
-- AWS Demo Website
+2. **AWS Demo Website**: This likely refers to a demonstration website hosted on Amazon Web Services (AWS), which is a competitor to Microsoft Azure. It's a website built to showcase various AWS services and features.
+
+3. **Azure Storage Account**: An Azure Storage Account is a globally unique namespace in Azure that provides a secure and scalable cloud storage solution. It serves as a container for various types of data storage services offered by Azure, such as Blob Storage, File Storage, Queue Storage, and Table Storage.
+
+4. **Azure Storage Data Objects**: Azure Storage Data Objects refer to the different types of data that can be stored within an Azure Storage Account. This includes blobs (unstructured binary data), files (file shares for use with the SMB protocol), queues (message queues for communication between application components), and tables (NoSQL data storage).
+
+5. **Azure Storage Explorer**: Azure Storage Explorer is a standalone application provided by Microsoft for managing Azure Storage accounts. It allows users to easily browse and interact with their Azure Storage resources, including blobs, files, queues, and tables, through a graphical user interface (GUI).
+
+6. **Azure IaaS and PaaS Services**: Azure offers both Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) offerings. IaaS services provide virtualized computing resources such as virtual machines, storage, and networking, allowing users to manage and deploy virtualized infrastructure. PaaS services provide higher-level application development and deployment platforms, abstracting away much of the underlying infrastructure management.
+
+7. **Blob Storage**: Blob Storage is a type of Azure Storage service designed to store large amounts of unstructured data, such as text or binary data. It's commonly used for storing images, documents, backups, and other types of files. Blobs are organized into containers within a storage account and can be accessed via REST APIs, client libraries, or tools like Azure Storage Explorer.
+
+8. **HTML, CSS, and JavaScript**: HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript are core technologies used for building and designing web pages and web applications. HTML provides the structure of the page, CSS controls its appearance and layout, and JavaScript adds interactivity and dynamic behavior to the page. These technologies are commonly used in conjunction with Azure services to build and host web applications in the cloud.
 
 ## Assignment
 
