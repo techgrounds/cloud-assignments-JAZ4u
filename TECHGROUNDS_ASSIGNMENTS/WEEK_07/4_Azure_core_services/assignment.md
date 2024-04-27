@@ -119,7 +119,7 @@ Study:
 
 Study:
 
-- **De Exam Guide voor Microsoft Azure Fundamentals (AZ-900)**
+- **The Exam Guide for Microsoft Azure Fundamentals (AZ-900)**
   
   - **Exam Overview:**
     
