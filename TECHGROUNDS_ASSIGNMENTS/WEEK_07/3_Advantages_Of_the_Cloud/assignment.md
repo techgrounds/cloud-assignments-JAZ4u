@@ -58,10 +58,10 @@ Azure utilizes a consumption-based model. This means you only pay for the resour
 
 ## Assignment
 
-Bestudeer:
+Study :
 
-- De 6 advantages of the cloud
-- Het consumption-based model
+- The 6 advantages of the cloud
+- The consumption-based model
 
 ### Used sources
 
@@ -76,7 +76,7 @@ Bestudeer:
 
 Study:
 
-- **De 6 advantages of the cloud**
+- **The 6 advantages of the cloud**
   
   - Cloud computing offers several advantages that make it a popular choice for businesses and organizations: 
     
@@ -94,7 +94,7 @@ Study:
     
     These advantages make cloud computing an attractive option for businesses seeking to improve scalability, reliability, flexibility, and cost-effectiveness in managing their IT infrastructure and services.
 
-- **Het consumption-based model**
+- **The consumption-based model**
   
   - Azure, Microsoft's cloud computing platform, offers a consumption-based pricing model where customers pay for the resources and services they use, typically on a pay-as-you-go basis. This model contrasts with traditional IT infrastructure procurement, where organizations often make large upfront investments in hardware, software licenses, and infrastructure, known as capital expenditure (CapEx). Instead, with Azure's consumption-based model, customers pay for cloud resources as operational expenses (OpEx), typically on a recurring billing cycle.
   - Overall, Azure's consumption-based model offers organizations greater flexibility, scalability, and cost-effectiveness compared to traditional IT infrastructure procurement, enabling them to focus on their core business goals and innovate more rapidly. By replacing capital expenditures with operational expenditures, Azure allows organizations to adapt to changing business needs, reduce upfront costs, and pay only for the resources they consume.
