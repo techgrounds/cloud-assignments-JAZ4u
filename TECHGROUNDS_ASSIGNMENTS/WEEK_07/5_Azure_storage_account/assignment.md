@@ -20,7 +20,7 @@ Note: AWS has shared a static demo website with Techgrounds. Since it's nothing 
 
 6. **Azure IaaS and PaaS Services**: Azure offers both Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) offerings. IaaS services provide virtualized computing resources such as virtual machines, storage, and networking, allowing users to manage and deploy virtualized infrastructure. PaaS services provide higher-level application development and deployment platforms, abstracting away much of the underlying infrastructure management.
 
-7. **Blob Storage**: Blob Storage is a type of Azure Storage service designed to store large amounts of unstructured data, such as text or binary data. It's commonly used for storing images, documents, backups, and other types of files. Blobs are organized into containers within a storage account and can be accessed via REST APIs, client libraries, or tools like Azure Storage Explorer.
+7. **Blob Storage**: Blob (Binary Large Object) Storage is a type of Azure Storage service designed to store large amounts of unstructured data, such as text or binary data. It's commonly used for storing images, documents, backups, and other types of files. Blobs are organized into containers within a storage account and can be accessed via REST APIs, client libraries, or tools like Azure Storage Explorer.
 
 8. **HTML, CSS, and JavaScript**: HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript are core technologies used for building and designing web pages and web applications. HTML provides the structure of the page, CSS controls its appearance and layout, and JavaScript adds interactivity and dynamic behavior to the page. These technologies are commonly used in conjunction with Azure services to build and host web applications in the cloud.
 
@@ -38,6 +38,14 @@ Create a new container. Upload the 4 files that together form the AWS Demo Websi
 
 - learn.techgrounds.nl
 
+- [Introduction to Blob (object) Storage - Azure Storage | Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
+
+- [https://portal.azure.com/](https://portal.azure.com/)
+
+- [Introduction to Azure Blob Storage - YouTube](https://www.youtube.com/watch?v=fQwxPqYIUfI&ab_channel=MicrosoftAzure)
+
+- What is blob storage? https://www.cloudflare.com/learning/cloud/what-is-blob-storage/#:~:text=Blob%20storage%20is%20a%20type,conform%20to%20any%20file%20format.
+
 ### Encountered problems
 
 - no problems
@@ -51,13 +59,19 @@ Create an Azure Storage Account. Ensure that only you have access to the data. P
 
 1. **Create an Azure Storage Account:**
    
-   - Log in to the Azure Portal.
+   - Log in to the Azure Portal ( [https://portal.azure.com/](https://portal.azure.com/) ).
    - Navigate to the Storage Accounts service.
    - Click on "Create" to create a new storage account.
    - Choose a subscription, resource group, storage account name, location, and performance tier.
    - Set the "Secure transfer required" option to enabled for enhanced security.
    - Set the "Allow access from" option to "Selected networks" and add your IP address for access restriction.
    - Review and create the storage account.
+
+![jaz2024storage.png](jaz2024storage.png)
+
+![jaz2024storage2.png](jaz2024storage2.png)
+
+![jaz2024storage3.png](jaz2024storage3.png)
 
 2. **Place data in Blob storage:**
    
