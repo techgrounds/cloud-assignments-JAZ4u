@@ -125,7 +125,7 @@ Exercise:
   
   1. **Log in to your Azure Console:**
      
-     - Open a web browser and navigate to the Azure Portal (https://portal.azure.com).
+     - Open a web browser and navigate to the Azure Portal ( https://portal.azure.com ).
      - Sign in with your Azure account credentials.
   
   2. **Create a Virtual Machine with the specified requirements:**
