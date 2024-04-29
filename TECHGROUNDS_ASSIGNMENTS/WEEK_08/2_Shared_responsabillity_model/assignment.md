@@ -31,11 +31,11 @@ Study:
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- chat-gpt
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- no problems
 
 ### Result
 

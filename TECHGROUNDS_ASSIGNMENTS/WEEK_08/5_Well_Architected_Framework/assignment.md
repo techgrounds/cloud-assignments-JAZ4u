@@ -17,8 +17,6 @@ As a cloud engineer, you should be able to build an application with this Well-A
 
 ## Key-terms
 
-
-
 1. **Cloud Providers**: Cloud providers like Azure offer a range of services and resources hosted on their infrastructure, enabling users to build, deploy, and manage applications and services in the cloud. These providers offer various benefits such as scalability, reliability, security, and cost-effectiveness. Azure is one of the leading cloud providers, offering a comprehensive suite of services, including computing, storage, networking, databases, AI, and more.
 
 2. **The Well-Architected Frameworks of Azure and AWS similarity**: The Well-Architected Framework is a set of best practices and guidelines for designing and building cloud solutions that are secure, reliable, efficient, and cost-effective. Both Azure and AWS (Amazon Web Services) have their own Well-Architected Frameworks, which share similarities in their structure and principles. They typically consist of five pillars: reliability, security, cost optimization, operational excellence, and performance efficiency. These pillars provide a holistic approach to cloud architecture and help organizations optimize their cloud environments for success.

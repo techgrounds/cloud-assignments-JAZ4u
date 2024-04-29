@@ -15,8 +15,6 @@ Application Gateway: This load balancer operates at layer 7 of the OSI stack (HT
 
 ## Key-terms
 
-
-
 1. **Azure Autoscaling**: Azure Autoscaling allows you to automatically adjust the number of compute resources (such as virtual machines) in your Azure environment based on predefined conditions or metrics. This helps to ensure optimal performance and cost efficiency by scaling resources up during periods of high demand and down during periods of low demand.
 
 2. **VM Scale Set**: A Virtual Machine Scale Set (VMSS) is an Azure service that allows you to deploy and manage a set of identical virtual machines. VMSS automatically scales the number of VM instances in response to demand or based on predefined scaling rules. This enables you to build and manage large-scale applications with ease, ensuring high availability and scalability.
@@ -31,11 +29,7 @@ Application Gateway: This load balancer operates at layer 7 of the OSI stack (HT
 
 7. **Application Gateway**: Azure Application Gateway is a Layer 7 (HTTP/HTTPS) load balancing service that provides advanced traffic management and security features for web applications. It offers features such as SSL termination, URL-based routing, session affinity, and Web Application Firewall (WAF) integration, making it ideal for hosting and scaling web applications with high availability, performance, and security requirements.
 
-
-
 ## Assignment
-
-
 
 Task 1:
 Create a Virtual Machine Scale Set with the following requirements:
@@ -59,7 +53,6 @@ systemctl enable apache2
 systemctl restart apache2
 ```
 
-
 Initial Instance Count: 2
 Scaling Policy: Custom
 Number of VMs: minimum 1 and maximum 4
@@ -80,25 +73,38 @@ Perform a load test on your server(s) to activate auto scaling. There may be a d
 
 ### Result
 
-
-
 **Task 1: Create a Virtual Machine Scale Set (VMSS)**
 
 1. Go to the Azure portal (https://portal.azure.com).
+
 2. Click on "Create a resource" and search for "Virtual Machine Scale Set".
+
 3. Click on "Virtual Machine Scale Set" from the search results, then click "Create".
+
 4. Fill in the necessary details:
+   
    - Resource group: Choose an existing resource group or create a new one.
+   
    - Virtual machine scale set name: Enter a name for your VMSS.
+   
    - Region: Choose the desired region.
+   
    - Availability options: Keep the default.
+   
    - Image: Choose "Ubuntu Server 20.04 LTS - Gen1".
+   
    - Size: Select "Standard_B1ls" from the dropdown menu.
+   
    - Authentication type: Choose SSH public key or password and provide the necessary credentials.
+   
    - Inbound port rules: Add SSH (22) and HTTP (80) to the list of allowed inbound ports.
+   
    - OS disk type: Choose "Standard SSD".
+   
    - Networking: Leave the default networking settings.
+   
    - Boot diagnostics: Disable boot diagnostics.
+   
    - Custom data: Paste the provided custom script:
      
      ```
@@ -110,11 +116,17 @@ Perform a load test on your server(s) to activate auto scaling. There may be a d
      systemctl enable apache2
      systemctl restart apache2
      ```
+   
    - Initial instance count: Set it to 2.
+   
    - Scaling policy: Choose "Custom".
+   
    - Number of VMs: Set the minimum to 1 and the maximum to 4.
+   
    - Add a VM at 75% CPU usage and remove a VM at 30% CPU usage.
+
 5. Review the configuration settings and click "Review + create".
+
 6. After validation, click "Create" to provision the VMSS.
 
 **Task 2: Check Web Server Reachability and Perform Load Test**

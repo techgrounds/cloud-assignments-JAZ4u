@@ -65,15 +65,13 @@ Check if your website is accessible
 
 ### Used sources
 
-[Plaats hier de bronnen die je hebt gebruikt.]
+- chat-gpt
 
 ### Encountered problems
 
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+- no problems
 
 ### Result
-
-
 
 **Task 1: Create a Virtual Network**
 
@@ -97,8 +95,11 @@ Check if your website is accessible
 **Task 2: Create a VM**
 
 1. Navigate to "Create a resource" and search for "Virtual machine".
+
 2. Click on "Virtual machine" from the search results, then click "Create".
+
 3. Fill in the necessary details:
+   
    - Resource group: Choose an existing resource group or create a new one.
    - Virtual machine name: Choose a name for your VM.
    - Region: West Europe
@@ -106,8 +107,11 @@ Check if your website is accessible
    - Size: Choose an appropriate size for your VM.
    - Authentication type: Password (enter username and password).
    - Public inbound ports: Select "None".
+
 4. In the "Networking" tab, select "Lab-VNet" as the Virtual Network and "Subnet-1" as the Subnet.
+
 5. Enable the "Public IP" option and leave other settings as default.
+
 6. In the "Management" tab, paste the following custom script into the "Custom data" field:
    
    ```
@@ -119,6 +123,7 @@ Check if your website is accessible
    systemctl enable apache2
    systemctl restart apache2
    ```
+
 7. Click "Review + create" and then "Create" to provision the VM.
 
 After the VM is provisioned, you can check if your website is accessible by navigating to the public IP address of the VM in a web browser. Since SSH access is not enabled, you won't be able to access the VM via SSH.

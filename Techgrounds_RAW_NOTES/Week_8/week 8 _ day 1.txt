@@ -32,6 +32,19 @@ met Shikha en Casper
 -		 Shay is also behind on his assignments and wants to work on his backlog. 
 
 
+RAW Afternoon notes, 29-4-2024:
+With Shikha
+- not much info becuas ewe had this morning spoken about alot
+
+- checkin : 
+Sam : took it easy as agreed with Casper?
+Shay: cleared some backlog 
+jaz : did his MD files for this week but has to workout alot , and learn the theory still.
+- regarding vshow.on24.com : regsitration of events which will happen , this is provided by microsoft , if you register you can follow workshops.
+- softskill : solution-oriented  approach: Casper will take us through certain models.
+- shikha will not be available form 15:35 as she si in a meeting , for the rest she is available in ehr room and on slack.
+
+
 chat gpt worked out notes:
 
 Morning Notes - April 29, 2024
@@ -72,3 +85,17 @@ Sam's self-feedback: he could have prepared more and included additional visuals
 Shikha's feedback: She appreciated the layout but desired more graphical elements and less reliance on reading from notes. Suggestions included adding more intonation while reading.
 Questions asked included cloud advantages, security, and customer options. Sam and the team mentioned security options on Azure encompass encryption, geo-distribution, and robust security measures.
 Shikha emphasized the expectation of expertise in questions, not vague inquiries.
+
+
+Chat -gpt corrected notes:
+Afternoon notes, 29-4-2024:
+With Shikha:
+
+Not much info because we had already discussed a lot this morning.
+Check-in:
+Sam: Took it easy as agreed with Casper.
+Shay: Cleared some backlog.
+Jaz: Completed his MD files for this week but needs to work out a lot and still learn the theory.
+Regarding vshow.on24.com: Registration of events which will happen. This is provided by Microsoft. If you register, you can follow workshops.
+Soft skill: Solution-oriented approach. Casper will take us through certain models.
+Shikha will not be available from 15:35 as she is in a meeting. For the rest of the time, she is available in her room and on Slack.
