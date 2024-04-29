@@ -45,50 +45,52 @@ jaz : did his MD files for this week but has to workout alot , and learn the the
 - shikha will not be available form 15:35 as she si in a meeting , for the rest she is available in ehr room and on slack.
 
 
-chat gpt worked out notes:
+chat gpt corrected morning notes:
 
 Morning Notes - April 29, 2024
 Met with Shikha and Casper:
 
 Techgrounds Changes:
-Even though it's Shikha's learning coach day, Casper was also present to address questions regarding the changes at Techgrounds.
-They're discontinuing the current Techgrounds courses and transitioning to Techgrounds Employability, which focuses on assisting self-study students with work and providing tips.
-Techgrounds Employabillity : Employability will cover students from other Education providors or even to students doing self-studies.
-Techgrounds won't be offering training in specific hard-skills viz ; cloud, web-dev or CRM/Salesforce.
-This marks the final cloud group due to challenges in finding participants amid intense competition and increased self-study facilitated by AI.
-However, there's still a demand for Employability, so that aspect will continue.
-Casper mentioned this transition has been in progress since this cloud group started (beginning March 2024).
-Post this group, Techgrounds will solely provide Employability assistance rather than hard skills training.
-Impact: Bart van Zijl is departing for a new job, and Ulviye will replace him, assuming his tasks and network. All ongoing commitments will be fulfilled before the changes take effect after this cloud group graduates.
-Bart is not leaving due to changes in Academy but because he found another opportunity before these changes were made known to us internally.
-Shikha's tenure as a learning coach at Techgrounds is concluding, but she'll remain available for voluntary work and stay in contact with Casper. She'll assist this cloud group until her last working day on May 31st. During the final phase, Casper will be the sole learning coach, with Shikha volunteering, particularly during exam prep.
-Sam inquired why Techgrounds doesn't establish a learning structure for self-study like Pathways. Casper explained there's no viable business model for it. For Employability, Techgrounds relies on Casper's exam expertise, with self-study students being a minority.
-There won't be any procedural changes apart from the introduction of a new Talent Manager, Ulviye, with no other alterations affecting their group.
-Benefits include not needing to split attention between different groups as learning coaches and Techgrounds focusing on a new Employability model and study material specifically.
+-	Even though it's Shikha's learning coach day, Casper was also present to address questions regarding the changes at Techgrounds.
+-	They're discontinuing the current Techgrounds courses and transitioning to Techgrounds Employability, which focuses on assisting self-study students with work and providing tips.
+-	Techgrounds Employabillity : Employability will cover students from other Education providors or even to students doing self-studies.
+-	Techgrounds won't be offering training in specific hard-skills viz ; cloud, web-dev or CRM/Salesforce.
+-	This marks the final cloud group due to challenges in finding participants amid intense competition and increased self-study facilitated by AI.
+-	However, there's still a demand for Employability, so that aspect will continue.
+-	Casper mentioned this transition has been in progress since this cloud group started (beginning March 2024).
+-	Post this group, Techgrounds will solely provide Employability assistance rather than hard skills training.
+-	Impact: Bart van Zijl is departing for a new job, and Ulviye will replace him, assuming his tasks and network. All ongoing commitments will be fulfilled before the changes take effect after this cloud group graduates.
+-	BTW:  Bart is not leaving due to changes in Academy but because he found another opportunity before these changes were made known to us internally.
+-	Shikha's tenure as a learning coach at Techgrounds is concluding, but she'll remain available for voluntary work and stay in contact with Casper. She'll assist this cloud group until her last working day on May 31st. During the final phase, Casper will be the sole learning coach, with Shikha volunteering, particularly during exam prep.
+-	Sam inquired why Techgrounds doesn't establish a learning structure for self-study like Pathways. Casper explained there's no viable business model for it. 
+-	For Employability,Techgrounds relies on Casper's exam expertise, with self-study students being a minority.
+-	There won't be any procedural changes apart from the introduction of a new Talent Manager, Ulviye, with no other alterations affecting their group.
+-	Benefits include not needing to split attention between different groups as learning coaches and Techgrounds focusing on a new Employability model and study material specifically.
 
 Check-in:
-Jaz is behind, at exercise 5 from last week.
-Sam is also behind, not completing week 7 assignments. Shikha advised him to catch up as it will be queried in the AZ900 exam.
-Shay is also behind and aims to clear his backlog.
+-	Jaz is behind, at exercise 5 from last week.
+-	Sam is also behind, not completing week 7 assignments. Shikha advised him to catch up as it will be queried in the AZ900 exam.
+-	Shay is also behind and aims to clear his backlog.
 
 Soft Skills:
-This week's soft skills topic: solution-oriented approach.
-It's week 8; students will receive a feedback form from Casper on Wednesday.
+-	This week's soft skills topic: solution-oriented approach.
+-	It's week 8; students will receive a feedback form from Casper on Wednesday.
 
 A Look Ahead:
-Exam prep is set for around May 22nd.
-In AZ 900, there are numerous questions about security, which will be covered during exam prep.
-Shikha recommends us to follow:  May 13-16, 2024 | Migrate and Secure Workloads to Azure Workshop - APAC (IST)
+-	Exam prep is set for around May 22nd.
+-	In AZ 900, there are numerous questions about security, which will be covered during exam prep.
+-	Shikha recommends us to follow:  May 13-16, 2024 | Migrate and Secure Workloads to Azure Workshop - APAC (IST)
 
 Sprint Presentation by Sam:
-Sam intends to deliver his presentation at 10:00.
-Sam's presentation on Azure Cost Management and 6 Advantages of Cloud:
-Sam's self-feedback: he could have prepared more and included additional visuals.
-Shikha's feedback: She appreciated the layout but desired more graphical elements and less reliance on reading from notes. Suggestions included adding more intonation while reading.
-Questions asked included cloud advantages, security, and customer options. Sam and the team mentioned security options on Azure encompass encryption, geo-distribution, and robust security measures.
-Shikha emphasized the expectation of expertise in questions and answers, not vague inquiries or answers.
-Chat -gpt corrected notes:
+-	Sam intends to deliver his presentation at 10:00.
+-	Sam's presentation on Azure Cost Management and 6 Advantages of Cloud:
+	-	Sam's self-feedback: he could have prepared more and included additional visuals.
+	-	Shikha's feedback: She appreciated the layout but desired more graphical elements and less reliance on reading from notes. Suggestions included adding more intonation while reading.
+	-	Questions asked included cloud advantages, security, and customer options. Sam and the team mentioned security options on Azure encompass encryption, geo-distribution, and robust security measures.
+	-	Shikha emphasized the expectation of expertise in questions and answers, not vague inquiries or answers.
 
+
+Chat -gpt corrected afternoon notes:
 Afternoon notes, 29-4-2024:
 With Shikha:
 Not much info because we had already discussed a lot this morning.
