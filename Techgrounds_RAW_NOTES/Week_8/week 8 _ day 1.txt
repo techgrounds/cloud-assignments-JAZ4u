@@ -1,0 +1,74 @@
+
+
+RAW NOTES 29-4-2024
+met Shikha en Casper
+-	Casper is er om ook vragen te beantwoorden over de wijzigingen van techgrounds
+-	Men stopt met de opleiding zoals die nu is en doorgaat emt tecgrounds employabillity. Ze gaan zelfstudie studenten helpen met wewrk en geven tips .
+-	men gaat dus niet meer zelf mensen opleiden in specifieke skills optelkeiden
+-	dit is de laatste cloudgroep, men vind het te lastig om deelnemers te vinden
+-	er is veel competitie, men doet ook veel zelfstudie door AI, dus de vraag is er niet meer.
+-	Maar wel het EMPLOYABILLITY gedeelte is nog een gat in de markt. Dus daarom gaanze er mee verder
+-	dit was al op achtergrond bezig , het zat er al een beetje aantekomen zij Casper. Zo ongeveer toen deze cloudgroep begon.
+-	Men doet dus geen hardskills opleiding , maar helpen met de employabillity.
+-	de impact : Bart van Zijl gaat weg ( heeft nieuwe baan ), Ulviye komt voor hem in de plaats(neemt de taken over, neemt Barts netwerk over).Alles gaat gewoon door zoals van te voren beloofd is. Dat wordt afgerond. En de verandering begint pas als deze cloud groep is afgestudeerd.
+-	Dit is de laatste tijd als learning coach voor Shikha bij Techgrounds, ze blijft beschikbaar voor vrijwillig werk. Ze blijft in contact met Casper. Ze bloijft nog beschikbaar voor deze cloudgroep. 31 mei is haar laatste Workingday bij Techgrounds. De laatste fase is Casper nog als learning coach daar ,en ook Shikha als vrijwilligster. Casper zal het dus aan eht eind alleen doen ( tijdens examen prep).
+-	Sam vroeg waarom techgrounds geen leer structuur vor zelfstudie maakt. Eigenlijk net zoals in Pathways? Casper zegt dat daar geen business model voor is. 
+-	voor employabillity heeft techgrounds Casper ( weet wat van examens). Daarbij zijn zlefstudie studenten de minderheid. 
+-	Er veranderen geen porocedures , nee we krijgen een andere Talentmanager Ulviye, maar verder worden er voor onze groep geen procedures gewijzigd.
+-	zijn er voordelen : 1 / wij gaan onze aandacht niet meer hoeven te verdelen als learning coach in 2 verschillende groepn . 2/ Techgrounds is specifiek bezig met nieuwe Employabillity model en studie materiaal. Vraag Casper daarna! Er is een pilot nodig (moet wel voor betaald worden) voor de nieuwe Employabillity traject: dus misschien kunnen we daar aan mee doen! Vraag Casper hierom!
+-	Sam wil zijn presentatie gelijk al om 10:00 uur doen.
+-	Deze week gaan we het bij softskills hebben over: solution oriented approach
+-	Deze week is het week 8 , we krijgen een feedback formulier op woensdag van Casper.
+-	Wanneer gaan we exam prep doen : ongeveer 22 mei 
+- 	in AZ 900 krijgen we veel vragen over security zegt casper , maar we hebben het er nog over in exam prep.
+-	SAMS PRESENTATION , regarding Azure:
+	- sams eigen feedback: ik kon me emer voorbereiden en meer tekst/ plaatjes meer visualisation. 
+	- feedback Shikha about the presentation: nice layout , she mentioned the other side of the lot of text presenatation.She wanted more graphical presentation. Not just 1 or 3 words only , add then pictures. She mentioned Sam was reading too much form his notes. It is ok , but do it unobvious. Tips: on reading , bring it with more intonation.
+	- questions asked regarding his presentation: about the advantages of the cloud , how is the security, what options do customers have? Encryption , geo distribution , security is well taken care of in Azure. There are multiple options to chose from.  Bottomline Azure is a very safe option to use. 
+	- Shikha liked that we asked about what HER question was about : if you do not understand , ask for clarification. Or say " as I understand your question (expolain what you understood) : I would answer.... 
+-	Shikha said: when I ask a question , she is expecting a kind of expertise and not general vague questions.
+-	checkin: Jaz is behind , he is at excercise 5 of last week
+		 Sam is also behind , he did not finsih week 7 assignments, He asked to i just continue with week 8 excercises. Shikha said this is fine , but you really need to do the excercises as you will get questioned about this in your AZ900 exam. SO you can continue with thsi week assignments , but do not forget to make last weeks assignments.
+-		 Shay is also behind on his assignments and wants to work on his backlog. 
+
+
+chat gpt worked out notes:
+
+Morning Notes - April 29, 2024
+
+Met with Shikha and Casper:
+
+Techgrounds Changes:
+Even though it's Shikha's learning coach day, Casper was also present to address questions regarding the changes at Techgrounds.
+They're discontinuing the current Techgrounds courses and transitioning to Techgrounds Employability, which focuses on assisting self-study students with work and providing tips.
+Techgrounds won't be offering training in specific skills anymore.
+This marks the final cloud group due to challenges in finding participants amid intense competition and increased self-study facilitated by AI.
+However, there's still a demand for Employability, so that aspect will continue.
+Casper mentioned this transition has been in progress since this cloud group started (beginning March 2024).
+Post this group, Techgrounds will solely provide Employability assistance rather than hard skills training.
+Impact: Bart van Zijl is departing for a new job, and Ulviye will replace him, assuming his tasks and network. All ongoing commitments will be fulfilled before the changes take effect after this cloud group graduates.
+Shikha's tenure as a learning coach at Techgrounds is concluding, but she'll remain available for voluntary work and stay in contact with Casper. She'll assist this cloud group until her last working day on May 31st. During the final phase, Casper will be the sole learning coach, with Shikha volunteering, particularly during exam prep.
+Sam inquired why Techgrounds doesn't establish a learning structure for self-study like Pathways. Casper explained there's no viable business model for it. For Employability, Techgrounds relies on Casper's exam expertise, with self-study students being a minority.
+There won't be any procedural changes apart from the introduction of a new Talent Manager, Ulviye, with no other alterations affecting their group.
+Benefits include not needing to split attention between different groups as learning coaches and Techgrounds focusing on a new Employability model and study material specifically.
+
+Check-in:
+Jaz is behind, at exercise 5 from last week.
+Sam is also behind, not completing week 7 assignments. Shikha advised him to catch up as it will be queried in the AZ900 exam.
+Shay is also behind and aims to clear his backlog.
+
+Soft Skills:
+This week's soft skills topic: solution-oriented approach.
+It's week 8; students will receive a feedback form from Casper on Wednesday.
+
+A Look Ahead:
+Exam prep is set for around May 22nd.
+In AZ 900, there are numerous questions about security, which will be covered during exam prep.
+
+Sprint Presentation by Sam:
+Sam intends to deliver his presentation at 10:00.
+Sam's presentation on Azure Cost Management and 6 Advantages of Cloud:
+Sam's self-feedback: he could have prepared more and included additional visuals.
+Shikha's feedback: She appreciated the layout but desired more graphical elements and less reliance on reading from notes. Suggestions included adding more intonation while reading.
+Questions asked included cloud advantages, security, and customer options. Sam and the team mentioned security options on Azure encompass encryption, geo-distribution, and robust security measures.
+Shikha emphasized the expectation of expertise in questions, not vague inquiries.
