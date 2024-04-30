@@ -1,0 +1,13 @@
+Ochtend  notes 30-4-2024
+Week 8, dag 2
+Met Casper:
+- 	Casper heeft een voorlopige datum voor graduation: maandag 24 juni, op het Bijlmerdreef TechGrounds kantoor in Amsterdam. Dat is de maandag VOOR het einde van de opleiding! Dat kan, want als je er klaar voor bent, mag je het examen eerder doen. Of je er klaar voor bent wordt wel geëvalueerd. 
+-	De graduation is nou eenmaal op die datum. Casper, Ulviye en Shikha konden alleen dan op die datum beschikbaar zijn. Als je 3 dagen achter elkaar een oefenexamen doet, en je haalt het elke keer, dan denkt men dat je het wel kan halen.
+-	De examprep = oefenexamen doen. Je doet dan oefeningen, en je gaat waarschijnlijk daardoor merken dat je dingen niet meer weet en weer moet herleren/herhalen. Gedurende de examprep krijg je geen nieuwe assignments. Casper gaat nog uitleggen hoe we de examprep goed kunnen uitvoeren.
+-	Ulviye komt in de plaats van Bart van Zijl, zij kan 1x in de 2 weken dinsdagmiddag om 13:00 langskomen. Vanmiddag komt Ulviye voor het eerst.
+-	Shay vroeg: kunnen wij owner worden (in Azure omgeving)? Casper zei: nee dat kan niet, want dan krijgen wij de creditcardgegevens te zien. Dat kan niet, daarom blijven we contributor. Shay dacht dat dit te problematisch was om in te loggen met CLI. Casper raadt aan om naar een alternatief te kijken: cloudshell. Shay zendt Casper nog een error message zodat hij er naar kan kijken.
+
+CHECK IN:
+-	Sam meldde dat hij wat achterloopt, Casper vroeg hem om samen te komen en dit te bespreken. Casper gaat met hem kijken waar hij op achterloopt en wat hij kan inhalen.
+-	Jaz loopt ook nog achter, hij is bij de vorige week opdracht 5 nog.
+-	Shay heeft zijn MD files van de laatste week af , vandaag begint hij met die van week 8.
