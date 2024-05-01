@@ -46,6 +46,8 @@ Create a new container. Upload the 4 files that together form the AWS Demo Websi
 
 - What is blob storage? https://www.cloudflare.com/learning/cloud/what-is-blob-storage/#:~:text=Blob%20storage%20is%20a%20type,conform%20to%20any%20file%20format.
 
+- [Host a basic static website on Azure Blob Storage in just 10 minutes - YouTube](https://www.youtube.com/watch?v=HxxsZLHabbc)
+
 ### Encountered problems
 
 - no problems
