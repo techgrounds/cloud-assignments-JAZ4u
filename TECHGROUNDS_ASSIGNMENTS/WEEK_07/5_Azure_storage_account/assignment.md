@@ -80,8 +80,11 @@ Create an Azure Storage Account. Ensure that only you have access to the data. P
 2. **Place data in Blob storage:**
    
    - Navigate to the created storage account.
+   
    - Go to the Blob service.
+   
    - Create a new container if one doesn't exist already.
+   
    - Upload a cat photo or any desired data to the container.
      
      ![jazblob_cat.png](jazblob_cat.png)
@@ -119,6 +122,8 @@ Create a new container. Upload the 4 files that together form the AWS Demo Websi
    **Share the URL with a teammate:**
    
    - Share the primary endpoint URL (e.g., https://yourstorageaccountname.z6.web.core.windows.net) with your teammate.
+     
+     ![static_website.png](static_website.png)
 
 5. **Ensure teammate can view the website:**
    
