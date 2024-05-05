@@ -10,7 +10,7 @@ If you want to use an external device (including a Data Disk) on Linux, you must
 
 ## Key-terms
 
-- ## Assignment
+- ### Assignment
 
 Task:
 
@@ -26,6 +26,8 @@ Task:
 - learn.techgrounds.nl
 
 - CHAT-GPT
+
+- [Een beheerde Azure-schijf delen tussen VM's - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/nl-nl/azure/virtual-machines/disks-shared)
 
 ### Encountered problems
 
@@ -53,8 +55,14 @@ Task:
 1. **Start 2 Linux VMs and ensure SSH access:**
    
    - In the Azure Portal, create two Linux VMs.
+   
    - Make sure to configure SSH access during VM creation or after provisioning.
+   
    - Note down the public IP addresses or hostnames of both VMs.
+     
+     ![vm1.png](vm1.png)
+     
+     ![vm2.png](vm2.png)
 
 2. **Create an Azure Managed Disk and attach it to both VMs:**
    
