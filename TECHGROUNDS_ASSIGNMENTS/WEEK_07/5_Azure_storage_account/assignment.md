@@ -83,16 +83,15 @@ Create an Azure Storage Account. Ensure that only you have access to the data. P
    - Go to the Blob service.
    - Create a new container if one doesn't exist already.
    - Upload a cat photo or any desired data to the container.
+     
+     ![jazblob_cat.png](jazblob_cat.png)
 
-3jazblob_cat.png)
-   
-   **Retrieve data using Azure Storage Explorer:**
-   
-   - Download and install Azure Storage Explorer on your computer.
-   - Open Azure Storage Explorer and sign in with your Azure account.
-   - Connect to your Azure subscription and navigate to the storage account.
-   - Locate the Blob container where you uploaded the data.
-   - Download the desired data (cat photo) to your computer.
+3. **Retrieve data using Azure Storage Explorer:**
+- Download and install Azure Storage Explorer on your computer.
+- Open Azure Storage Explorer and sign in with your Azure account.
+- Connect to your Azure subscription and navigate to the storage account.
+- Locate the Blob container where you uploaded the data.
+- Download the desired data (cat photo) to your computer.
 
 ![jazblob_cat_ASE.png](jazblob_cat_ASE.png)
 
