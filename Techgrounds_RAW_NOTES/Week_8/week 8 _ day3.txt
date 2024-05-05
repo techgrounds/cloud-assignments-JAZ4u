@@ -1,0 +1,40 @@
+Here are the corrected spellings:
+
+Ochtendnotities
+Week 8 - Dag 3
+Met Casper
+
+-	Casper is ziekjes, het kan zijn dat hij vanmiddag vroeg uitlogt.
+-	Casper zal wel de softskills doen: solution-oriented approach.
+-	Vanmiddag krijgen we het feedbackformulier dat we verplicht moeten invullen.
+-	Elmarie is nog niet terug, waarschijnlijk toch niet de juiste terugkomstdatum vernomen.
+-	Shay: vraag over de opdrachten inzake firewalls, als hij over HTTP wil verbinden, dan werkt het niet? Casper zegt: er is een makkelijkere manier dan via PowerShell, via de webbrowser. Door het IP-adres in te voeren. Vul in dit geval HTTP in en geen standaard HTTPS.
+-	Bonus huiswerk van Casper: welk protocol gebruikt ping?
+"Ping gebruikt het Internet Control Message Protocol (ICMP). Het wordt gebruikt om te controleren of een bepaald IP-adres bereikbaar is en om de round-trip-tijd te meten voor het verzenden van een pakket naar het doeladres en het ontvangen van een antwoord."
+-	Shay is even naar de tandarts van 10:15 tot 11:15, en dus afwezig dan.
+
+
+Middagnotities:
+Week 8 - Dag
+met Casper:
+
+Softskills] solution-oriented approach:
+-	Denk echt alleen aan de oplossing. Analyseer het probleem, vind misschien een tussenoplossing (workaround), en dan kun je door die workaround tijd winnen om het werkelijke probleem blijvend oplossen.
+-	Hou het niet bij de workaround, fix daadwerkelijk het probleem, workarounds kunnen weer nieuwe problemen veroorzaken (houtje touwtje?).
+-	Als je te lang ergens mee bezig bent, dan kan een oplossingsgerichte werkwijze zijn: eerder zeggen "ik loop vast, ik probeer het bijvoorbeeld opnieuw."
+-	Stel je bent low energy, en je hebt een normale werkdag: wat kun je doen? Zorg dat je de taken met de hoogste prioriteit doet, neem een pauze voor rust en om wat kracht op te doen misschien, maar kijk naar de belangrijkste problemen en fix die, ga die aan.
+-	Op de helpdesks leer je dit goed toe te passen in de praktijk.
+-	De softskill handout/slides staan in de Drive. Lees die door (Eisenhower matrix, over prioriteiten stellen).
+
+SPRINT presentatie:
+-	Gaat over "de Azure virtual machine scale sets" (VMSS), wordt gedaan door SAM op 6 mei 2024. Casper zal Shikha hierover informeren.
+
+Allerlei:
+-	Feedbackformulier: krijgen we straks van Casper, doe je 10 minuten over. Hij post het in SLACK en het is verplicht!
+-	Sam vroeg nog informatie over: wat is een goede werkhouding op je stoel achter je bureau. Casper heeft daar wat info over en wil dat delen (over Ergonomie).
+
+
+Retrospectief:
+-	Sam heeft een retrospectief van dat hij erachter is gekomen dat werken naast de opleiding veel tijd kost, en hij wil zijn opleiding prioriteren boven dat werk. Dus hij besluit minder te werken, want dat is toch iets minder belangrijk.
+-	Shay heeft nog wel passiviteit, merkt hij op; hij blijft zich afvragen hoe daarmee om te gaan. Het lukt wel iets beter, maar hij zoekt er nog verbetering in en die heeft hij nog niet gevonden. Hij blijft zoeken naar methodes. Het kan misschien faalangst zijn, hoe dichter hij bij een baan komt. Angst om succes te halen. Sam en Jaz herkennen dit ook, angst om succes te halen! Het idee van " niet worthy" te zijn. Shay zei die "niet worthy" gedachte aangeleerd te hebben, en niet gewend te zijn om succes te hebben.
+-	Jaz herkende deze gedachtes, en was zeer dankbaar dat men zoiets aan hem wilde delen: hij heeft deze ook, en had het vroeger nog in veel sterkere mate dan tegenwoordig. Tegenwoordig kan hij zich er van bewust zijn, en weet dat een gedachte-set als deze afbrekend en niet opbouwend zijn. Nu hij in het Jehova geloof zit is zijn hoop en geloof veel sterker geworden, zelfs zijn mensenliefde is meer geworden.

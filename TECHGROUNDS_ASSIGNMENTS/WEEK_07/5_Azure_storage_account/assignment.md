@@ -48,6 +48,8 @@ Create a new container. Upload the 4 files that together form the AWS Demo Websi
 
 - [Host a basic static website on Azure Blob Storage in just 10 minutes - YouTube](https://www.youtube.com/watch?v=HxxsZLHabbc)
 
+- [Zelfstudie: Een statische website hosten in Blob Storage - Azure Storage | Microsoft Learn](https://learn.microsoft.com/nl-nl/azure/storage/blobs/storage-blob-static-website-host)
+
 ### Encountered problems
 
 - no problems
@@ -82,13 +84,17 @@ Create an Azure Storage Account. Ensure that only you have access to the data. P
    - Create a new container if one doesn't exist already.
    - Upload a cat photo or any desired data to the container.
 
-3. **Retrieve data using Azure Storage Explorer:**
+3jazblob_cat.png)
+   
+   **Retrieve data using Azure Storage Explorer:**
    
    - Download and install Azure Storage Explorer on your computer.
    - Open Azure Storage Explorer and sign in with your Azure account.
    - Connect to your Azure subscription and navigate to the storage account.
    - Locate the Blob container where you uploaded the data.
    - Download the desired data (cat photo) to your computer.
+
+![jazblob_cat_ASE.png](jazblob_cat_ASE.png)
 
 **Exercise 2:**
 Create a new container. Upload the 4 files that together form the AWS Demo Website. (note: this is an Azure task, but we are using the demo website from AWS. It is a simple combination of HTML, CSS, and JavaScript and does not have any cloud-specific features). Ensure that Static Website Hosting is enabled. Share the URL with a teammate. Ensure that your teammate can view the website.
@@ -109,7 +115,9 @@ Create a new container. Upload the 4 files that together form the AWS Demo Websi
    - Enable static website hosting and specify the default document name (e.g., index.html).
    - Note down the primary endpoint URL provided after enabling static website hosting.
 
-4. **Share the URL with a teammate:**
+4. ![aws.png](aws.png)
+   
+   **Share the URL with a teammate:**
    
    - Share the primary endpoint URL (e.g., https://yourstorageaccountname.z6.web.core.windows.net) with your teammate.
 
