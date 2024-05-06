@@ -74,6 +74,7 @@ Gain practical experience with:
 
 - Azure Files
   To gain cost-efficient practical experience with Azure Files in Azure, follow these steps:
+  
   1. **Azure Free Account**: Sign up for an Azure free account if you haven't already. This provides you with a limited amount of Azure services, including Azure Files, for free during the initial period.
   
   2. **Choose the Right Pricing Tier**: When creating an Azure Files share, choose the appropriate pricing tier based on your requirements. Consider starting with the Standard tier, which offers lower costs compared to the Premium tier.
@@ -97,9 +98,10 @@ Gain practical experience with:
   11. **Stay Informed**: Stay informed about new features, best practices, and cost-saving strategies related to Azure Files by regularly checking official documentation, blogs, forums, and community resources. Continuously evaluate and adjust your usage patterns to optimize costs while gaining practical experience with Azure Files.
   
   By following these steps and actively managing your Azure Files resources, you can gain cost-efficient practical experience while effectively leveraging the capabilities of Azure Files for file storage and sharing in Azure.
-  
+
 - SQL Databases in Azure
   To gain cost-efficient practical experience with SQL Databases in Azure, follow these steps:
+  
   1. **Azure Free Account**: Sign up for an Azure free account to access a limited amount of Azure services for free, including Azure SQL Database, during the initial period.
   
   2. **Choose the Right Service Tier**: Select the appropriate service tier and performance level for your SQL Database based on your workload requirements. Start with the basic or standard tier to keep costs low initially.
@@ -123,10 +125,10 @@ Gain practical experience with:
   11. **Learn Best Practices**: Educate yourself on best practices for optimizing SQL Database costs in Azure. Follow Azure documentation, whitepapers, and online resources to stay updated on cost-saving strategies and recommendations.
   
   12. **Experiment with Development/Test Environments**: Use Azure SQL Database for development and testing purposes. Take advantage of the free tier or lower-priced service tiers for non-production workloads to minimize costs while gaining practical experience.
-  
-  
+
 - Azure App Service
   To gain cost-efficient practical experience with Azure App Service, follow these steps:
+  
   1. **Azure Free Account**: Sign up for an Azure free account to access a limited amount of Azure services for free, including Azure App Service, during the initial period.
   
   2. **Start with Shared or Basic Tier**: Begin with the Shared or Basic tier of Azure App Service, which offers lower costs compared to higher tiers. These tiers are suitable for lightweight applications or for development and testing purposes.
@@ -150,10 +152,41 @@ Gain practical experience with:
   11. **Explore Reserved Instances**: Consider purchasing reserved instances for Azure App Service plans to benefit from discounted pricing compared to pay-as-you-go rates. Reserved instances offer significant cost savings for long-term commitments, especially for production workloads with predictable usage patterns.
   
   12. **Stay Informed**: Stay informed about cost-saving features, best practices, and updates related to Azure App Service through official documentation, blogs, forums, and community resources. Continuously evaluate and adjust your deployment strategies to optimize costs while gaining practical experience with Azure App Service.
-  
-  
 
 Gain theoretical knowledge of:
 
-- Azure CDN
-- Azure DNS
+- Azure CDN:
+
+- **Azure CDN (Content Delivery Network)**:
+  
+  Azure CDN is a distributed network of servers strategically placed at various locations worldwide to deliver web content with high performance and low latency. It serves as an intermediary between the content provider's origin server and the end-users, caching and delivering static content to users from the nearest edge location.
+  
+  Key components and concepts of Azure CDN include:
+1. **Edge Locations**: These are the global network of data centers where cached copies of content are stored. Edge locations are distributed geographically to ensure that content is delivered to users from the nearest location, reducing latency and improving load times.
+
+2. **Origin Server**: The origin server is the original source of content that Azure CDN caches and delivers to end-users. It can be an Azure Blob Storage container, a web application, or any publicly accessible URL.
+
+3. **CDN Endpoint**: A CDN endpoint represents the configuration settings for delivering content, including the origin server, caching rules, and custom domain names. It acts as the entry point for requests to the CDN.
+
+4. **Caching**: Azure CDN caches static content at edge locations based on caching rules and policies defined by the user. This reduces the load on the origin server and improves performance by serving cached content directly from edge locations.
+
+5. **Dynamic Site Acceleration (DSA)**: Azure CDN offers Dynamic Site Acceleration, which optimizes the delivery of dynamic content by dynamically routing requests to the origin server based on network conditions and performance metrics.
+
+6. **Rules Engine**: Azure CDN provides a rules engine that allows users to define custom rules for content delivery. Users can create rules to redirect requests, rewrite URLs, or modify headers based on specific conditions.
+- Azure DNS:
+  
+  - **Azure Domain Name System (DNS)**:
+  
+  Azure DNS is a scalable and highly available Domain Name System (DNS) hosting service provided by Microsoft Azure. It allows users to manage domain names and DNS records for their Azure resources and external domains within the Azure portal.
+  
+  Key features and capabilities of Azure DNS include:
+  
+  1. **Domain Registration**: Azure DNS allows users to register and manage domain names directly within the Azure portal. Users can purchase new domains or transfer existing domains to Azure for centralized management.
+  
+  2. **DNS Zones**: DNS zones are containers for hosting DNS records that define mappings between domain names and IP addresses. Azure DNS supports both public DNS zones (for public-facing websites) and private DNS zones (for internal Azure resources).
+  
+  3. **DNS Records**: Azure DNS supports various types of DNS records, including A, AAAA, CNAME, MX, TXT, and SRV records. Users can create, update, and delete DNS records to configure how domain names are resolved to IP addresses and other resources.
+  
+  4. **Integration with Azure Services**: Azure DNS seamlessly integrates with other Azure services such as Azure App Service, Azure Virtual Machines, and Azure Traffic Manager. Users can easily configure custom domain names for their Azure resources and manage DNS records directly within the Azure portal.
+  
+  5. **High Availability and Reliability**: Azure DNS is built on Microsoft's global network infrastructure, ensuring high availability, scalability, and reliability. It provides redundancy and fault tolerance to ensure that DNS queries are resolved quickly and accurately.
