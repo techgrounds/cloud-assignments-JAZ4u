@@ -1,0 +1,54 @@
+6th May 2024 Morning Meeting Notes, with Casper:
+Week 9 - dag 1
+ochtend notes , met Casper
+-	Shikha is ziek, Casper viel voor haar in. Ook voor de vragen kunnen we nu bij Casper terecht.
+-	Straks de Sprint review door Sam.
+-	Het team loopt allemaal achter met de opdrachten. De meesten zijn met opdrachten ongeveer: eind week 7 - midden week 8.
+-	Vanwege een te grote achterstand raadt Casper ons deze week aan zo snel mogelijk bij te werken.
+-	Deze week zijn de opdrachten meer abstract: er is voor alles (bijv. een service) een "getting started guide" . Dat is wat je nodig hebt om vanaf week 9 je opdrachten te doen. Dus zorg ervoor dat je indien nodig daarmee je resultaten in je MD-bestanden behaalt.
+-	Voor je Azure opdrachten : er staan er ook modules in MS Learn, kijk daar eens naar.
+
+
+
+
+6th May 2024 Afternoon Meeting Notes, with Casper:
+
+Sam's Sprint Presentation: Virtual Machine Scale Set (VMSS)
+
+Questions:
+- When to use a scale set, and when not to? If you have a website with peak hours, you would want the scale to increase automatically. You wouldn't want scalability if you're using your VM for personal purposes only, locally for yourself. So scalability seems necessary mainly when there are peak hours of usage.
+- What is the difference between horizontal and vertical scaling?
+      -Horizontal Scaling (Scale Out): Involves adding more instances of resources, such as virtual machines (VMs) or containers, to distribute the workload across multiple machines.
+      -Vertical Scaling: Involves increasing the capacity or performance of existing resources, such as VMs, by upgrading their size or configuration.
+
+
+Feedback:
+- Casper's feedback: Make sure you understand the presentation subject so well that you can tell it by heart. Casper liked the slide "BEST PRACTICES" very much (where you can explain why you use and do things, so we know what we are doing and why we are doing it).
+- Group feedback: Make it a bit smoother (learn the text better by heart), learn your text better; present in one language, avoid mixing two languages, nice slides.
+- Sam's self-feedback: He felt he could have learned the presentation text better, and he would have liked to show more practical examples.
+
+
+General Azure Notes:
+- There is a load testing feature in Azure: avoid this because it's very expensive (€10 to start), just log in to your VM and perform a stress test.
+- Casper says: cost optimization is really an appreciated art in the cloud. Learn to apply this consciously in the company.
+- Load balancer distributes traffic (like a router) when multiple VM containers are scaled up (horizontally), that's what the load balancer does. But the load balancer also incurs costs.
+- Cloud error monitoring is a separate discipline, says Casper.
+- With VM machines, you have 2 disks: 1 root disk and a data disk.
+
+Azure Homework Questions:
+- Encryption: you can do it while creating the storage disk. It's something you can check off at creation.
+- Firewall: link your security group to your VM, and then there's also your NIC?
+- VM machines have a public IP because they can be accessed from the internet.
+- Casper recommends: check Network Truck for information about public IP addresses.
+- Casper recommends searching for: "the first map of the internet". That way, you can see how it originated.
+- You can remove the IPs of your VMs if you have a load balancer; the traffic goes through your load balancer anyway. So then you only need one IP address, and possibly reduce costs.
+- For week 9 questions: look in MS Learn, Google, YouTube. Then do it with that. Stick with it once you know what it does and once you've turned it on at least once.
+
+
+Bonus Question from Casper:** Does Azure App Service still offer a free tier and a development tier?
+Answer:yes
+According to [Azure Pricing Details](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/), yes, Azure App Service still offers a free tier and other pricing tiers including a development tier.
+Here's a brief overview:
+- Free Tier: Azure App Service offers a free tier, which provides limited resources for hosting web apps, APIs, and mobile backends. This tier is suitable for development and testing purposes or for hosting small-scale applications with minimal traffic. It typically includes a shared infrastructure and has certain limitations on resource usage.
+- Development Tier: The development tier, also known as the "Shared" tier, offers additional resources compared to the free tier and is designed for hosting development and staging environments. It provides a dedicated environment for each app instance, allowing more flexibility and control over resource allocation. This tier may incur some costs based on the resources used but is still more cost-effective than higher tiers intended for production workloads.
+ 
