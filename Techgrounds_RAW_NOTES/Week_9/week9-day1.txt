@@ -39,7 +39,8 @@ Azure Homework Questions:
 - Encryption: you can do it while creating the storage disk. It's something you can check off at creation.
 - Firewall: link your security group to your VM, and then there's also your NIC?
 - VM machines have a public IP because they can be accessed from the internet.
-- Casper recommends: check Network Truck for information about public IP addresses.
+- Casper recommends: check Network Chuck for information about public IP addresses.
+https://www.youtube.com/@NetworkChuck
 - Casper recommends searching for: "the first map of the internet". That way, you can see how it originated.
 - You can remove the IPs of your VMs if you have a load balancer; the traffic goes through your load balancer anyway. So then you only need one IP address, and possibly reduce costs.
 - For week 9 questions: look in MS Learn, Google, YouTube. Then do it with that. Stick with it once you know what it does and once you've turned it on at least once.
