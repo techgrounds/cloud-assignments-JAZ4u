@@ -10,7 +10,35 @@ If you want to use an external device (including a Data Disk) on Linux, you must
 
 ## Key-terms
 
-- ### Assignment
+- **Azure Disk Storage:**
+  Azure Disk Storage refers to the storage service in Microsoft Azure specifically designed for hosting disk resources used by virtual machines (VMs), containers, and other Azure services. It provides highly available and durable storage solutions for various types of workloads, including both standard and high-performance disk options.
+  
+  Here are some key aspects of Azure Disk Storage:
+  
+  1. **Managed Disks**: Azure Disk Storage offers Managed Disks, which are fully integrated with Azure Virtual Machines. Managed Disks abstract the underlying storage infrastructure, simplifying disk management tasks such as provisioning, resizing, and backup. They also provide built-in redundancy and availability options.
+  
+  2. **Disk Types**: Azure Disk Storage provides different types of disks to support various performance and cost requirements:
+     
+     - **Standard Disks**: Suitable for most workloads with balanced performance and cost.
+     - **Premium Disks**: Designed for I/O-intensive workloads requiring low latency and high throughput, such as databases and virtual desktops.
+  
+  3. **Disk Snapshots**: Azure Disk Storage allows users to create point-in-time snapshots of disks, capturing the disk's state at a specific moment. Snapshots can be used for data backup, disaster recovery, and creating new disks without affecting the original data.
+  
+  4. **Disk Encryption**: Azure Disk Storage supports encryption at rest to help protect data confidentiality. Data on disks is encrypted using platform-managed keys or customer-managed keys, providing an additional layer of security.
+  
+  5. **Performance Tiers**: Premium Disks offer different performance tiers, such as Premium SSDs and Ultra Disks, allowing users to choose the appropriate level of performance for their workloads.
+  
+  6. **Availability Options**: Azure Disk Storage provides redundancy options to ensure high availability and durability of data. Managed Disks can be configured with availability zones or availability sets to protect against datacenter failures and ensure business continuity.
+
+- **Managed Disks**: Managed Disks are a type of virtual hard disk (VHD) that are stored as managed resources in Azure. With Managed Disks, Azure takes care of managing the storage accounts associated with the disks, including handling redundancy and availability. This simplifies disk management tasks for users, as they don't have to worry about managing the underlying storage infrastructure.
+
+- **Unmanaged Disks**: Unmanaged Disks, on the other hand, are traditional VHDs that are stored in Azure Storage accounts as page blobs. With Unmanaged Disks, users are responsible for managing the storage accounts and ensuring redundancy and availability of the disks. This gives users more control over the storage configuration but requires additional management overhead.
+
+- **Incremental Snapshots**: Incremental snapshots are a feature in Azure that allows users to take snapshots of Managed Disks. These snapshots capture the changes made to the disk since the last snapshot was taken, making them efficient in terms of storage space and time. Incremental snapshots are useful for creating point-in-time backups of disks and for disaster recovery purposes.
+
+- **Snapshot**: A snapshot is a read-only copy of a disk at a specific point in time. Snapshots can be created for both Managed Disks and Unmanaged Disks in Azure. They are useful for creating backups, cloning disks, and creating new disks from existing data without impacting the original disk. Snapshots can also be used to create virtual machine images for rapid deployment.
+
+### Assignment
 
 Task:
 
@@ -28,6 +56,10 @@ Task:
 - CHAT-GPT
 
 - [Een beheerde Azure-schijf delen tussen VM's - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/nl-nl/azure/virtual-machines/disks-shared)
+
+- [Select a disk type for Azure IaaS VMs - managed disks - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)
+
+- 
 
 ### Encountered problems
 

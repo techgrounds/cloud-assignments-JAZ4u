@@ -176,7 +176,7 @@ Exercise:
 
 ### Encountered problems
 
-- no problems
+- AWS demo website was not reachable for others ( ports in Linux VM were not opened; SSH and HTTP)
 
 ### Result
 
@@ -222,9 +222,7 @@ Exercise:
 
 - Note! Don't forget to delete everything after completing the task. You can delete each component individually, or you can delete the entire resource group at once.
   
-  SOLUTION:
-  
-  To solve the exercise, follow these steps:
+  ### <u>SOLUTION:</u>
   
   1. **Log in to your Azure Console:**
      
