@@ -90,33 +90,52 @@ Study:
      - **NSG (Network Security Group)**: NSG is a basic network security feature in Azure that acts as a distributed firewall for controlling traffic to and from Azure resources within a VNet. NSGs allow you to define inbound and outbound security rules based on source/destination IP address, port, and protocol. However, NSGs primarily operate at the network layer (Layer 3/4) and provide basic traffic filtering capabilities compared to the more advanced features offered by Azure Firewall.
   
   **Task**:
-  To accomplish the tasks outlined in Azure, follow these steps:
   
-  1. **Turn on a web server and ensure SSH and HTTP ports are open**:
+- Turn on a web server. Ensure that the ports for both SSH and HTTP are open.
+
+- Create an NSG in your VNET. Ensure that your web server is still accessible via HTTP, but that SSH is blocked.
+
+- Test if your NSG works. 
+  
+  **Step 1: Provision a Virtual Machine**
+  
+  1. Log in to the Azure portal (https://portal.azure.com).
+  
+  2. Navigate to the "Virtual Machines" section.
+  
+  3. Click on "Add" to create a new virtual machine.
+  
+  4. Follow the prompts to configure the virtual machine. Make sure to select a Linux distribution that supports a web server (e.g., Ubuntu Server).
+  
+  5. During the configuration, ensure that you allow SSH and HTTP traffic. Azure will automatically configure the network security group (NSG) rules accordingly.
+  
+  6. Complete the setup process and wait for the virtual machine to be provisioned.
+  
+  **Step 2: Verify Web Server Accessibility**
+  
+  1. Once the virtual machine is deployed, note down its public IP address.
+  
+  2. Open a web browser and enter the public IP address of the virtual machine. You should see the default web page if the web server is running correctly.
+  
+  **Step 3: Create a Network Security Group (NSG)**
+  
+  1. In the Azure portal, navigate to the "Network Security Groups" section.
+  
+  2. Click on "Add" to create a new NSG.
+  
+  3. Configure the NSG with the following rules:
      
-     - Provision a virtual machine (VM) in Azure and install a web server software like Apache or Nginx.
-     - Configure the network security group (NSG) associated with the VM to allow inbound traffic on port 80 (HTTP) and port 22 (SSH).
-     - You can do this by navigating to the NSG associated with your VM in the Azure portal, then adding inbound security rules for ports 80 and 22, allowing traffic from appropriate sources (e.g., your IP address or a specific IP range).
+     - Allow inbound traffic on port 80 (HTTP) from any source.
+     - Deny inbound traffic on port 22 (SSH) from any source.
   
-  2. **Create an NSG in your VNET to block SSH but allow HTTP**:
-     
-     - Navigate to the Azure portal and locate your virtual network (VNet).
-     - Create a new NSG or use an existing one associated with the subnet where your VM resides.
-     - Add inbound security rules to the NSG:
-       - Create a rule that allows inbound traffic on port 80 (HTTP) from any source.
-       - Create a rule that denies inbound traffic on port 22 (SSH) from any source.
-     - Associate the NSG with the subnet where your web server VM is located.
+  4. Associate the NSG with the virtual network (VNET) that contains your virtual machine.
   
-  3. **Test if your NSG works**:
-     
-     - Access your web server using its public IP address or DNS name via a web browser to ensure HTTP traffic is allowed.
-     - Try to SSH into your web server using its public IP address. The connection should be refused or timeout since SSH traffic is blocked by the NSG.
-     - Verify in the Azure portal that the NSG logs or metrics show denied SSH traffic attempts.
+  **Step 4: Test NSG Rules**
   
-  By following these steps, you should have a web server running in Azure with HTTP accessible while SSH is blocked by the NSG. You can further refine the NSG rules and test them to ensure they meet your security requirements.
+  1. Try accessing the web server using its public IP address again. The web page should load successfully since HTTP traffic is allowed.
   
-  - **Turn on a web server**: Activate a web server instance in your Azure environment.
-  - **Ensure that the ports for both SSH and HTTP are open**: Configure the network security settings to allow inbound traffic on ports commonly used for SSH (Secure Shell) and HTTP (Hypertext Transfer Protocol).
-  - **Create an NSG in your VNET**: Set up a Network Security Group within your Azure Virtual Network.
-  - **Ensure that your web server is still accessible via HTTP, but that SSH is blocked**: Configure the NSG rules to permit HTTP traffic to the web server while blocking SSH traffic.
-  - **Test if your NSG works**: Verify that the web server remains accessible via HTTP, and attempt to connect to the server via SSH to ensure that it is blocked as intended by the NSG rules.
+  2. Attempt to SSH into the virtual machine using a tool like PuTTY or the terminal on your local machine. You should receive an error indicating that the connection is refused or times out since SSH traffic is blocked.
+  
+  **Conclusion**
+  
+  By following these steps, you have successfully configured a web server on Azure, created a network security group to control traffic, and tested its functionality by ensuring that HTTP traffic is allowed while SSH traffic is blocked. This setup helps secure your virtual machine and ensures that only necessary services are accessible from the internet.
