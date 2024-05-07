@@ -1,0 +1,44 @@
+7-5-2024
+Week 9, Dag 2
+Ochtendnotities met Casper:
+- Elmarie was afwezig vanwege een vooraf gemelde afspraak.
+- Casper heeft een beetje last van zijn nek; hij wilde dit even melden.
+- Vandaag weinig belangrijks te melden, het is een studiedag.
+
+Azure Huiswerk vragen:
+-	Shay meldde: Hij heeft extra kosten gemaakt (40 euro) .Hij had een alert ingesteld ,maar er niet op gelet. Hierdoor heeft hij de betreffende resource helaas niet verwijderd.
+-	Shay had een kostenalert ingesteld, maar deze niet ontvangen. Casper vroeg zich af of hij zichzelf niet als ontvanger had ingesteld? Shay dacht niet dat hij zichzelf als e-mailontvanger had ingesteld.
+-	Sam vroeg: Hoe kun je iets op pauze zetten? Het verschilt; Casper adviseert om het gewoon uit te zetten (verwijderen?).
+-	Gooi dus zoveel mogelijk resources weg na gebruik; de "resource watcher" zal altijd terugkomen (maar die is gratis).
+-	Casper raadt aan: Bekijk je kostenalerts nogmaals, zorg dat je ze instelt en naar jezelf stuurt (naast naar Casper), en zorg dat je dingen zo snel mogelijk verwijdert, en dat je je costalert e-mails in de gaten houdt (let er ook op dat ze niet in je spamfolder zitten?).
+-	Jaz blijkt ook kosten (48 euro) voor de opslag te hebben gemaakt. De hoge kosten zijn gemaakt door het STORAGE ACCOUNT. Hij was vergeten dit te verwijderen ook.
+-	Dit is een les voor de studenten: Als je een resource aanmaakt voor een opdracht, MAAK DE OPDRACHT ONMIDDELLIJK AF; laat het niet hangen tot de volgende dag (zodat je het vergeet en op hoge kosten kunt uitkomen).
+-	Bottomline: Maak de Azure-opdracht meteen af, zodat je de Azure-resource zo snel mogelijk kunt verwijderen!
+
+
+7-5-2024
+Week 9, Dag 2
+Middag notities met Casper:
+Algemeen:
+Shikha is morgen nog niet terug, ze is nog ziek, dus Casper zal weer invallen.
+Casper raadt aan, in het kader van tijdmanagement: zet een wekker/alarm.
+Azure Huiswerk Vragen:
+De kosten van het storage account moeten echt een goede les zijn voor ons allemaal. Het had veel duurder kunnen zijn.
+Let bij cost alert op de scope, zorg dat hij kijkt naar het hele abonnement (het sleuteltje), en niet specifiek naar een resourcegroep of resource.
+Resourcegroepen zijn fijn omdat je daarin specifieke resources bij elkaar hebt en dan ook tegelijk kunt managen.
+Resources: zijn de onderdelen zoals VM.
+Op het abonnement, dat is belangrijk voor MS, daar staat jouw creditcard geregistreerd.
+Je kunt meerdere abonnementen hebben op één account, Casper doet dat voor ons, studenten cloudstudent 14/cloudstudent 15 bijvoorbeeld.
+Gebruik BUDGET ALERTS en NIET cost alerts. In cost alerts kunnen we alleen "ANOMALY" selecteren en dat triggert niet voldoende. Zoals is gebleken bij Jaz bijvoorbeeld.
+Gebruik CASPER@techgrounds.nl, naast je eigen e-mailadres, als e-mailontvangers in je BUDGET alerts!
+Voor CLI is een storage account nodig? Rijzen de kosten dan niet weer de pan uit? Antwoord: Download de CLI lokaal!
+Sam deelde een open-source beveiligingsplatform: https://wazuh.com
+Open-source zaken zijn overigens niet relevant voor je AZ900 examen?
+Morgen:
+krijgen we Solution Oriented Approach softskill theorie
+krijgen we weer een Sprint Review onderwerp en presentator selectie.
+valt Casper in voor Shikha , want die is nog ziek
+-	
+
+
+

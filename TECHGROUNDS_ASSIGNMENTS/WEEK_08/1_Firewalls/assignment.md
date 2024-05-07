@@ -10,13 +10,33 @@ Because Azure Firewall monitors all traffic in detail, it is a relatively expens
 
 ## Key-terms
 
-- Azure Firewall
 
-- Network Security Group (NSG).
 
-- VNets
+1. **Azure Firewall**:
+   Azure Firewall is a managed, cloud-based network security service provided by Microsoft Azure. It acts as a barrier between your Azure Virtual Network (VNet) and the internet, controlling inbound and outbound traffic based on predefined rules and policies. Key features of Azure Firewall include:
+   
+   - Application FQDN filtering: Allows or denies traffic based on fully qualified domain names (FQDN).
+   - Network traffic filtering: Controls traffic based on source and destination IP addresses, ports, and protocols.
+   - Threat intelligence-based filtering: Protects against known malicious IPs and domains using Microsoft threat intelligence.
 
-- firewalls: stateless and stateful
+2. **Network Security Group (NSG)**:
+   NSG is a fundamental component of Azure networking that acts as a basic, distributed firewall for controlling traffic within VNets, between VNets, and to the internet. It operates at the network layer (Layer 3) of the OSI model and filters traffic based on source and destination IP addresses, ports, and protocols. Key points about NSGs include:
+   
+   - Rules: NSGs contain inbound and outbound security rules that allow or deny traffic based on specified criteria.
+   - Association: NSGs can be associated with subnets, individual network interfaces, or both, allowing granular control over network traffic.
+   - Default rules: NSGs have default rules that allow outbound traffic and deny all inbound traffic unless explicitly allowed.
+
+3. **VNets (Virtual Networks)**:
+   VNets are isolated virtual networks within Azure that allow you to securely connect and run your Azure resources. Key features of VNets include:
+   
+   - Isolation: VNets provide network isolation for Azure resources deployed within them, preventing unauthorized access from external networks.
+   - Subnets: VNets can be divided into one or more subnets to organize and segment resources logically.
+   - Connectivity: VNets can be connected to other VNets, on-premises networks, or the internet using Azure networking features like VPN Gateway, ExpressRoute, and Azure Firewall.
+
+4. **Firewalls: Stateless and Stateful**:
+   
+   - **Stateless Firewall**: A stateless firewall filters packets based solely on the criteria such as source and destination IP addresses, ports, and protocols, without considering the state of the connection. Each packet is evaluated independently, without any context of previous packets. Stateless firewalls are generally simpler and faster but offer less security as they cannot track the state of connections.
+   - **Stateful Firewall**: A stateful firewall, on the other hand, maintains the state of active connections and makes decisions based on the context of the entire conversation. It keeps track of the state of each connection, including session information such as source and destination IP addresses, ports, and sequence numbers. Stateful firewalls offer better security as they can make more informed decisions based on the complete context of traffic flows. They can also perform tasks like packet inspection, NAT (Network Address Translation), and application layer filtering. Azure Firewall is an example of a stateful firewall service provided by Azure.
 
 ## Assignment
 
@@ -72,6 +92,30 @@ Study:
      - **NSG (Network Security Group)**: NSG is a basic network security feature in Azure that acts as a distributed firewall for controlling traffic to and from Azure resources within a VNet. NSGs allow you to define inbound and outbound security rules based on source/destination IP address, port, and protocol. However, NSGs primarily operate at the network layer (Layer 3/4) and provide basic traffic filtering capabilities compared to the more advanced features offered by Azure Firewall.
   
   **Task**:
+  To accomplish the tasks outlined in Azure, follow these steps:
+  
+  1. **Turn on a web server and ensure SSH and HTTP ports are open**:
+     
+     - Provision a virtual machine (VM) in Azure and install a web server software like Apache or Nginx.
+     - Configure the network security group (NSG) associated with the VM to allow inbound traffic on port 80 (HTTP) and port 22 (SSH).
+     - You can do this by navigating to the NSG associated with your VM in the Azure portal, then adding inbound security rules for ports 80 and 22, allowing traffic from appropriate sources (e.g., your IP address or a specific IP range).
+  
+  2. **Create an NSG in your VNET to block SSH but allow HTTP**:
+     
+     - Navigate to the Azure portal and locate your virtual network (VNet).
+     - Create a new NSG or use an existing one associated with the subnet where your VM resides.
+     - Add inbound security rules to the NSG:
+       - Create a rule that allows inbound traffic on port 80 (HTTP) from any source.
+       - Create a rule that denies inbound traffic on port 22 (SSH) from any source.
+     - Associate the NSG with the subnet where your web server VM is located.
+  
+  3. **Test if your NSG works**:
+     
+     - Access your web server using its public IP address or DNS name via a web browser to ensure HTTP traffic is allowed.
+     - Try to SSH into your web server using its public IP address. The connection should be refused or timeout since SSH traffic is blocked by the NSG.
+     - Verify in the Azure portal that the NSG logs or metrics show denied SSH traffic attempts.
+  
+  By following these steps, you should have a web server running in Azure with HTTP accessible while SSH is blocked by the NSG. You can further refine the NSG rules and test them to ensure they meet your security requirements.
   
   - **Turn on a web server**: Activate a web server instance in your Azure environment.
   - **Ensure that the ports for both SSH and HTTP are open**: Configure the network security settings to allow inbound traffic on ports commonly used for SSH (Secure Shell) and HTTP (Hypertext Transfer Protocol).

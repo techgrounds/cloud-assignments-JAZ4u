@@ -16,7 +16,7 @@ ochtend notes , met Casper
 Sam's Sprint Presentation: Virtual Machine Scale Set (VMSS)
 
 Questions:
-- When to use a scale set, and when not to? If you have a website with peak hours, you would want the scale to increase automatically. You wouldn't want scalability if you're using your VM for personal purposes only, locally for yourself. So scalability seems necessary mainly when there are peak hours of usage.
+- When to use a scale set, and when not to? If you have a website with peak hours, you would want the scale to increase automatically. You wouldn't want scalability if you're using your VM for personal purposes only, locally for yourself. So (auto)scalability seems necessary mainly when there are peak hours of usage.
 - What is the difference between horizontal and vertical scaling?
       -Horizontal Scaling (Scale Out): Involves adding more instances of resources, such as virtual machines (VMs) or containers, to distribute the workload across multiple machines.
       -Vertical Scaling: Involves increasing the capacity or performance of existing resources, such as VMs, by upgrading their size or configuration.
