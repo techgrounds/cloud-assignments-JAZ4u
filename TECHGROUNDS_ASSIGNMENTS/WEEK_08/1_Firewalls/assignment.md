@@ -10,8 +10,6 @@ Because Azure Firewall monitors all traffic in detail, it is a relatively expens
 
 ## Key-terms
 
-
-
 1. **Azure Firewall**:
    Azure Firewall is a managed, cloud-based network security service provided by Microsoft Azure. It acts as a barrier between your Azure Virtual Network (VNet) and the internet, controlling inbound and outbound traffic based on predefined rules and policies. Key features of Azure Firewall include:
    
