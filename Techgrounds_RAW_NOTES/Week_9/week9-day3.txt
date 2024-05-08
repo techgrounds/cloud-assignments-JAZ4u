@@ -1,0 +1,16 @@
+8-5-2024
+week 9 - day 3
+met Casper
+Huiswerk vragen:
+Moet je de autoscaling VM's ook kunnen zien? Volgens Casper wel, alleen weet hij niet precies waar. Het kan onder Scalesets of VM's staan.
+Volgens Casper is Scalesets echt waar cloud "all about is", als je iets wilt demonstreren aan werkgevers: demonstreer VMSS.
+Casper tip: installeer je CLI lokaal.
+Azure Portal Glitches kunnen voorkomen: dan is het zaak van resetten(refreshen?).
+over het zien van de autoscaling ,  merkte Shay op  over de refreshrate :" it is  by default at 10 minutes, maybe if you decrease the time to 1 minute."
+Bijna alles kun je via de IP van de loadbalancer laten gaan (kostenbesparing), behalve als je SSH wilt gebruiken, dan heb je wel de IP van de VM nodig. Je kan niet inloggen op een IP van de Loadbalancer: Azure blokkeert dat .
+Vaak zijn dingen die gisteren (laat) onmogelijk leken om op te lossen; de volgende morgen met een "vers" hoofd snel opgelost.
+Vanmiddag:
+Vanmiddag: Solution-oriented approach soft skill theorie, Casper heeft dit zelf geïntroduceerd.
+Vanmiddag wordt ook de sprint presentator bekend en het onderwerp.
+Morgen:
+op Hemelvaartsdag: is Shikha wel bereikbaar via Slack, maar Casper niet.

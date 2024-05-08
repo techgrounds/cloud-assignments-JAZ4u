@@ -90,7 +90,7 @@ Study:
      - **NSG (Network Security Group)**: NSG is a basic network security feature in Azure that acts as a distributed firewall for controlling traffic to and from Azure resources within a VNet. NSGs allow you to define inbound and outbound security rules based on source/destination IP address, port, and protocol. However, NSGs primarily operate at the network layer (Layer 3/4) and provide basic traffic filtering capabilities compared to the more advanced features offered by Azure Firewall.
   
   **Task**:
-  
+
 - Turn on a web server. Ensure that the ports for both SSH and HTTP are open.
 
 - Create an NSG in your VNET. Ensure that your web server is still accessible via HTTP, but that SSH is blocked.
@@ -116,6 +116,8 @@ Study:
   1. Once the virtual machine is deployed, note down its public IP address.
   
   2. Open a web browser and enter the public IP address of the virtual machine. You should see the default web page if the web server is running correctly.
+     
+     ![webserver_run.png](webserver_run.png)
   
   **Step 3: Create a Network Security Group (NSG)**
   
@@ -129,6 +131,8 @@ Study:
      - Deny inbound traffic on port 22 (SSH) from any source.
   
   4. Associate the NSG with the virtual network (VNET) that contains your virtual machine.
+  
+  ![NSG.png](NSG.png)
   
   **Step 4: Test NSG Rules**
   
