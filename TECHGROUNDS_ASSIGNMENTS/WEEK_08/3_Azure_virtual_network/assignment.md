@@ -66,6 +66,10 @@ An easy way to find out how traffic is routed is to look at a NIC under "effecti
 
 - 13. **Route tables**: Route tables in Azure VNets are used to control the flow of traffic within the virtual network. They contain a set of rules, called routes, that specify how network traffic should be directed. Route tables are associated with subnets and can be used to route traffic within the VNet, between VNets, or to on-premises networks.
 
+- 14. **User-defined Routing (UDR)**: User-defined Routing (UDR) in Azure refers to the capability to define custom routing rules for directing traffic within virtual networks. By default, Azure automatically handles the routing of traffic between subnets within a virtual network. However, with UDR, you can override these default routes and specify your own routing preferences. This allows for more granular control over network traffic flow, enabling you to route traffic through specific network appliances or services.
+
+- 15. **Peering**: In the context of Azure Virtual Networks, peering refers to establishing a network connection between two virtual networks (VNets) either within the same Azure region (intra-region peering) or across different Azure regions (inter-region peering). This connection enables resources in the peered VNets to communicate with each other as if they were part of the same network. Peering can help in simplifying network architecture, improving connectivity between resources, and facilitating resource sharing across different VNets.
+
 ## Assignment
 
 Task 1:
