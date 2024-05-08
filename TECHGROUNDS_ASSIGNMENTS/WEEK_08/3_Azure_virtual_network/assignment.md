@@ -38,8 +38,6 @@ You can also connect two Azure VNets to each other using virtual network peering
 
 An easy way to find out how traffic is routed is to look at a NIC under "effective routes". This shows the routes and the route tables associated with those routes.
 
-
-
 ### WHY?
 
 - **<u>WHY WOULD YOU USE VPN IN AZURE?</u>**
@@ -93,36 +91,52 @@ Overall, using VPNs in Azure provides a flexible and secure way to connect your 
 ## Assignment
 
 Task 1:
-Create a Virtual Network with the following requirements:
-Region: West Europe
-Name: Lab-VNet
-IP range: 10.0.0.0/16
-Requirements for subnet 1:
-Name: Subnet-1
-IP Range: 10.0.0.0/24
-This subnet should have no route to the internet
-Requirements for subnet 2:
-Name: Subnet-2
-IP Range: 10.0.1.0/24
+
+- Create a Virtual Network with the following requirements:
+  
+  - Region: West Europe
+  
+  - Name: Lab-VNet
+  
+  - IP range: 10.0.0.0/16
+  
+  - Requirements for subnet 1:
+  
+  - Name: Subnet-1
+  
+  - IP Range: 10.0.0.0/24
+  
+  - This subnet should have no route to the internet
+
+- Requirements for subnet 2:
+  
+  - Name: Subnet-2
+  
+  - IP Range: 10.0.1.0/24
 
 Task 2:
-Create a VM with the following requirements:
-An apache server must be installed with the following custom data:
 
-```
-#!/bin/bash
-sudo su
-apt update
-apt install apache2 -y
-ufw allow 'Apache'
-systemctl enable apache2
-systemctl restart apache2
-```
+- Create a VM with the following requirements:
+  
+  - An apache server must be installed with the following custom data:
+    
+    ```
+    #!/bin/bash
+    sudo su
+    apt update
+    apt install apache2 -y
+    ufw allow 'Apache'
+    systemctl enable apache2
+    systemctl restart apache2
+    ```
+  
+  - No SSH access is required, only HTTP
+  
+  - Subnet: Subnet-1
+  
+  - Public IP: Enabled
 
-No SSH access is required, only HTTP
-Subnet: Subnet-1
-Public IP: Enabled
-Check if your website is accessible
+- Check if your website is accessible
 
 ### Used sources
 
