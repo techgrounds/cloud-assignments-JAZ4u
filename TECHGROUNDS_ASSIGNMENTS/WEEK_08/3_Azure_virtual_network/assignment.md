@@ -38,9 +38,29 @@ You can also connect two Azure VNets to each other using virtual network peering
 
 An easy way to find out how traffic is routed is to look at a NIC under "effective routes". This shows the routes and the route tables associated with those routes.
 
+
+
+### WHY?
+
+- **<u>WHY WOULD YOU USE VPN IN AZURE?</u>**
+  Using a VPN (Virtual Private Network) in Azure can serve several purposes, including:
+1. **Secure Connectivity**: VPNs provide a secure connection between your on-premises network and Azure Virtual Network. This encrypted tunnel ensures that data transmitted between your on-premises environment and Azure resources remains secure and protected from unauthorized access or interception.
+
+2. **Hybrid Cloud Connectivity**: Many organizations have a hybrid cloud setup, with some resources hosted on-premises and others in the cloud. VPNs enable seamless communication and integration between on-premises resources and Azure resources, allowing for a unified network environment.
+
+3. **Remote Access**: Point-to-site VPNs allow individual devices or remote users to securely access Azure resources from outside the corporate network. This is particularly useful for employees working remotely or accessing resources while traveling.
+
+4. **Site-to-Site Connectivity**: Site-to-site VPNs establish a secure connection between your on-premises data center and Azure, enabling communication between all resources as if they were on the same network. This facilitates data transfer, application access, and other interconnectivity needs between your on-premises infrastructure and Azure resources.
+
+5. **Compliance and Regulatory Requirements**: VPNs help organizations meet compliance and regulatory requirements by ensuring data transmitted between on-premises and cloud environments is encrypted and secure. This is especially important for industries with strict data protection regulations, such as healthcare, finance, and government sectors.
+
+6. **Cost-Effective Connectivity**: VPNs can be a cost-effective solution for establishing connectivity between on-premises and cloud environments compared to other options like Azure ExpressRoute, especially for smaller organizations or those with limited bandwidth requirements.
+
+Overall, using VPNs in Azure provides a flexible and secure way to connect your on-premises infrastructure with Azure resources, enabling hybrid cloud scenarios, remote access, and meeting security and compliance needs.
+
 ## Key-terms
 
-- 1. **Azure Virtual Networks (VNets)**: Azure Virtual Networks allow you to create isolated and secure networks within the Azure cloud infrastructure. They enable you to logically isolate resources, control IP address ranges, subnets, and route tables, and securely connect Azure resources and on-premises networks.
+**Azure Virtual Networks (VNets)**: Azure Virtual Networks allow you to create isolated and secure networks within the Azure cloud infrastructure. They enable you to logically isolate resources, control IP address ranges, subnets, and route tables, and securely connect Azure resources and on-premises networks.
 
 - 2. **Point-to-site VPNs**: Point-to-site VPN (Virtual Private Network) in Azure enables you to connect individual devices or clients to an Azure virtual network over the internet. It provides secure access to resources hosted in Azure from remote locations.
 
