@@ -4,30 +4,67 @@ Azure virtual networks (VNets) ensure that resources such as VMs, web apps, and 
 
 VNets have the following responsibilities:
 
-(Network) isolation and segmentation
-Internet communication
-Communication between Azure resources
-Communication with on-premises resources
-Routing of network traffic
-Filtering of network traffic
-Connecting to other VNets
-When you create a new VNet, you define a private IP range for your network. Within that range, you can create subnets.
+- (Network) isolation and segmentation
+
+- Internet communication
+
+- Communication between Azure resources
+
+- Communication with on-premises resources
+
+- Routing of network traffic
+
+- Filtering of network traffic
+
+- Connecting to other VNets
+
+When you create a new VNet, you determine a private IP range for your network. Within that range, you can create subnets.
 
 There are three ways to connect your network to an on-premises network:
 
-Point-to-site VPNs:
-The Azure VNet is accessed with a VPN from an on-premises computer.
-Site-to-site VPNs:
-The on-premises VPN device or gateway is connected to the Azure VPN Gateway, effectively creating one large local network.
-Azure ExpressRoute:
-This is a physical connection from your local environment to Azure.
+- Point-to-site VPNs:
+  
+  - The Azure VNet is accessed with a VPN from an on-premises computer.
+
+- Site-to-site VPNs:
+  
+  - The on-premises VPN device or gateway is connected to the Azure VPN Gateway, effectively creating one large local network.
+
+- Azure ExpressRoute:
+  
+  - This is a physical connection from your local environment to Azure.
+
 You can also connect two Azure VNets to each other using virtual network peering. This is facilitated by user-defined Routing (UDR). Peering is possible with VNets in different regions.
 
 An easy way to find out how traffic is routed is to look at a NIC under "effective routes". This shows the routes and the route tables associated with those routes.
 
 ## Key-terms
 
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- 1. **Azure Virtual Networks (VNets)**: Azure Virtual Networks allow you to create isolated and secure networks within the Azure cloud infrastructure. They enable you to logically isolate resources, control IP address ranges, subnets, and route tables, and securely connect Azure resources and on-premises networks.
+
+- 2. **Point-to-site VPNs**: Point-to-site VPN (Virtual Private Network) in Azure enables you to connect individual devices or clients to an Azure virtual network over the internet. It provides secure access to resources hosted in Azure from remote locations.
+
+- 3. **Site-to-site VPNs**: Site-to-site VPN allows you to establish a secure connection between your on-premises network and an Azure virtual network. It enables seamless and secure communication between your on-premises infrastructure and resources deployed in Azure.
+
+- 4. **Azure ExpressRoute**: Azure ExpressRoute is a dedicated private connection between your on-premises network and Microsoft Azure or Office 365. It offers higher security, reliability, and faster speeds compared to connections over the public internet. ExpressRoute enables private connectivity that doesn't go over the public internet.
+
+- 5. **(Network) isolation and segmentation**: This refers to the ability to create isolated environments within Azure Virtual Networks to enhance security and control. It allows you to segment your network into multiple subnets and control traffic flow between them using Network Security Groups (NSGs) and route tables.
+
+- 6. **Internet communication**: This refers to the ability of Azure resources to communicate with the internet. By default, Azure resources deployed within a virtual network can communicate with the internet unless outbound access is restricted using Network Security Groups or other methods.
+
+- 7. **Communication between Azure resources**: Azure resources within the same virtual network can communicate with each other by default, provided there are no restrictions imposed by NSGs or other network security configurations.
+
+- 8. **Communication with on-premises resources**: Azure resources can communicate with on-premises resources via site-to-site VPNs, point-to-site VPNs, or Azure ExpressRoute connections, depending on the network architecture and requirements.
+
+- 9. **Routing network traffic**: Routing network traffic involves directing data packets between different networks or subnets based on routing rules and configurations. Azure provides various tools and services to manage and configure routing, such as route tables and Azure Virtual Network Gateways.
+
+- 10. **Filtering network traffic**: Filtering network traffic involves controlling and monitoring the flow of data packets within your Azure network. This can be achieved using Network Security Groups (NSGs), which allow you to define inbound and outbound security rules to filter traffic based on source/destination IP addresses, ports, and protocols.
+
+- 11. **Connecting to other VNets**: Azure VNets can be connected to each other either directly or through Azure Virtual Network Peering. This enables resources in one VNet to communicate securely with resources in another VNet, facilitating network integration and communication across multiple Azure environments.
+
+- 12. **NIC: "effective routes"**: NIC stands for Network Interface Card, which is a virtual or physical network adapter used by Azure VMs to communicate over the network. "Effective routes" refer to the routing table associated with a NIC, which determines how network traffic is routed to and from the VM.
+
+- 13. **Route tables**: Route tables in Azure VNets are used to control the flow of traffic within the virtual network. They contain a set of rules, called routes, that specify how network traffic should be directed. Route tables are associated with subnets and can be used to route traffic within the VNet, between VNets, or to on-premises networks.
 
 ## Assignment
 
