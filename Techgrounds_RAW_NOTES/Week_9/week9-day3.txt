@@ -1,6 +1,6 @@
 8-5-2024
 week 9 - day 3
-met Casper
+Ochtend notes met Casper
 Huiswerk vragen:
 Moet je de autoscaling VM's ook kunnen zien? Volgens Casper wel, alleen weet hij niet precies waar. Het kan onder Scalesets of VM's staan.
 Volgens Casper is Scalesets echt waar cloud "all about is", als je iets wilt demonstreren aan werkgevers: demonstreer VMSS.
@@ -14,3 +14,44 @@ Vanmiddag: Solution-oriented approach soft skill theorie, Casper heeft dit zelf 
 Vanmiddag wordt ook de sprint presentator bekend en het onderwerp.
 Morgen:
 op Hemelvaartsdag: is Shikha wel bereikbaar via Slack, maar Casper niet.
+
+
+8-5-2024
+Week 9 - Day 3
+Middagnotities met Casper
+Algemeen:
+-	Shay gaat de eerstvolgende Sprint presentatie doen over AZURE DNS.
+-	Casper heeft wat opgaven gewijzigd in Learnworlds (van week 10 naar week 9). Cosmos DB is verschoven naar week 9 (zat in week 10).
+-	Shay gaf als tip om sneller te kunne typen Klavaro (Touch Typing Tutor) te gebruiken.
+
+Softskills: Solution-oriented approach:
+-	We kregen 15 minuten voor een vraag over Solution Oriented Approach.
+VRAAG:
+(in de context van solution oriented approach): je loopt vast met een IT-opdracht, hoe bepaal je wanneer je overgaat op een workaround, of wanneer je doorgaat met het troubleshooten waar je al mee bezig was?
+ANTWOORD:
+Jaz presenteerde het volgende:
+"Een solution-oriented approach houdt in dat je altijd gericht bent op het vinden van oplossingen, zelfs als je tegen obstakels aanloopt. Wanneer je vastloopt met een IT-opdracht en moet beslissen of je doorgaat met troubleshooten of overschakelt naar een workaround, zijn hier enkele overwegingen:
+-	Impactanalyse: Evalueer de impact van het probleem op de algehele functionaliteit en operationele processen. Als het probleem aanzienlijke negatieve gevolgen heeft, is het misschien verstandig om snel over te schakelen naar een workaround om de functionaliteit te behouden.
+-	Tijd: Beoordeel of er tijdsdruk is om het probleem op te lossen. Als er strakke deadlines zijn of als het probleem de bedrijfsvoering belemmert, kan het nodig zijn om snel een tijdelijke oplossing te implementeren.
+-	Risico's en kosten: Overweeg de risico's en kosten van zowel het troubleshooten als het implementeren van een workaround. Soms kan het troubleshooten meer tijd en middelen kosten dan het implementeren van een tijdelijke oplossing.
+-	Beschikbare middelen en expertise: Bekijk of je over de benodigde middelen en expertise beschikt om het probleem effectief op te lossen via troubleshooten. Als de benodigde middelen of expertise ontbreken, kan een workaround een snellere oplossing bieden.
+-	Toekomstige impact: Denk aan de langetermijneffecten van zowel troubleshooten als het implementeren van een workaround. Soms kan het implementeren van een workaround op korte termijn problemen oplossen, maar op de lange termijn extra complicaties veroorzaken.
+(Communicatie: Communiceer duidelijk met belanghebbenden over de beslissing om over te schakelen naar een workaround. Leg uit waarom deze keuze is gemaakt en wat de mogelijke gevolgen zijn.)
+Door deze factoren zorgvuldig te overwegen, kun je een weloverwogen beslissing nemen over wanneer je doorgaat met troubleshooten en wanneer je overschakelt naar een workaround bij het vastlopen met een IT-opdracht."
+
+Huiswerk vragen Azure:
+-	Shays server was erg traag: Casper zei dat dat aan MS kan liggen, hij had er nu verder geen antwoord op.
+-	VMScalesets is de grootste huiswerkopdracht van week 8 volgens Casper, zoals al eerder gezegd was dit een zeer relevante vaardigheid om te kunnen demonstreren aan werkgevers.
+-	Redundancy is voor availability, dus dat data beschikbaar is als het op 1 punt verloren is gegaan of gehackt. Het is dus meer voor databehoud ipv databeveiliging (zoals encryptie en anti-hacking), maar kan bij datavernietiging, diefstal of datamanipulatie misschien een uitkomst bieden.
+-	Amazon AWS heeft als voordeel dat ze zelf chips maken, en die ook nog heel goed kunnen customizen voor hun processen. Microsoft heeft veel meer processoren, en die gebruiken ze voor hun AI.
+
+RETROSPECT:
+-	Sam: wil meer motivatie oppakken en nog productiever worden.
+-	Jaz: merkt dat hij na context te hebben gekregen beter in zijn Azure-opdrachten kan werken. Ook is hij kostenbewuster geworden en maakt kostenbewust zijn Azure-opdrachten. Hij merkte ook dat door slaapgebrek en door toch te veel pleziertjes te hoog te prioriteren , hij een minder gemotiveerd werkritme en humeur kreeg.
+-	Shay: merkt nog dat hij soms passief is, maar hij merkt dat het steeds makkelijker wordt om aan de slag te gaan.
+-	Elmarie: Is glad to be back, she enjoys what she is doing. She wished she had more time in general to do things. She sometimes feels completely lost? Her improvement point: to be more conscious about time management when doing her assignments. Also, she likes to implement time management softskills? And she wishes to be more disciplined to stick with her retrospect findings?
+
+
+
+
+
