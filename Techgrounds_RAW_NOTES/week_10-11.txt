@@ -1,16 +1,31 @@
-ochtend notitites 21-5-2024
-met Casper
-- Shay and Sam waren absent
-- Casper zegt, hij was vergeten dat maandag 2e pinksterdag was
-- vanmiddag komt ,Ulviye hier
-- vanmiddag gaat Elmarie sprint review doen , volgende keer doet Jaz het
-- Casper heeft examen vouchers voor ons
-- bij het examen staat uitleg over hoe je examen boekt?
-- zorg dat je je examen op tijd plant , binnen de opleiding, soms zijn er geen examen plekken
-- wil je thuis of in examencentrum je examen doen ? Kies. het is een managed service, casper raad examen cnetrum aan.
-- uiterlijke datum om examen in te plannen is woensdag NA graduation , liever eerder 
-- 1 belangrijke regel: wanneer je je examen hebt geboekt , dan mag je het niet verplaatsen TENZIJ je het met Casper bespreekt.
-- examen moet minimaal 48 (!) uur van tevoren , en in overleg met Casper
-- Casper geeft toegang tot oefen platform , je krijgt een emailtje over dit ( account ) , wizlabs
-- Practise exams: there may be a practise exam on the microsoft website itself.
-- ongeveer 2,5 weeek examen studeer tijd was meestal voldoende, het is neit echt een heel moeilijk examen zegt Casper. Het proefexamen is misschien wel moeilijker. 
+ochtend notitites met Casper
+dinsdag 21-5-2024
+week 11 (dag 2)
+
+- 	Shay and Sam waren absent
+
+Vanmiddag :
+- 	vanmiddag komt ,Ulviye hier.
+- 	vanmiddag gaat Elmarie sprint review (over MS Entra ID) doen , volgende keer doet Jaz de laatste sprint presentatie
+
+AZ900 Examen :
+-	Casper heeft examen vouchers voor ons , hij zend die naar ons toe
+-	bij het examen staat uitleg over hoe je examen boekt?
+- 	zorg dat je je examen op tijd plant , binnen de opleiding termijn . Let op , soms zijn er geen examen plekken
+- 	wil je thuis of in examencentrum je examen doen ? Kies welke jij wil. In het examen centrum is het wel een managed service.Casper raad het examen centrum aan.
+- 	De uiterlijke datum om examen , in te plannen is de woensdag na graduation , liever doe je het eerder .
+- 	1 BELANGRIJKE REGEL: wanneer je je examen hebt geboekt , dan mag je het niet verplaatsen TENZIJ je het met Casper bespreekt!
+- 	Je examen veranderen moet minimaal 48 (!) uur van tevoren , en in overleg met Casper.
+- 	Casper geeft de studenten  toegang tot het oefen platform (Wizlabs). Je krijgt een emailtje hierover ( dat je account is aangemaakt bij Wizlabs) .
+- 	Gemiddeld bleek ongeveer 2,5 week examen studie tijd voldoende, Casper zegt dat het niet  cht een heel moeilijk examen iser. Het proefexamen is misschien al moeilijker. 
+
+Regarding studymaterial:
+- there is a youtube channel ( John Savill's Technical Training ) @NTFAQGuy , he has a lot of videos which explain about AZ900. 
+	https://www.youtube.com/watch?v=tQp1YkB2Tgs&list=PLlVtbbG169nH_CJl4wwKBfS1V8nMYr7xL&ab_channel=JohnSavill%27sTechnicalTraining
+
+- 	Elmarie had a handy link which she recommended the students to check out, it is about what you need to know for the AZ900 exam.
+	https://learn.microsoft.com/nl-nl/training/courses/az-900t00
+
+- Practise exams: there is a practise AZ900 exam on the microsoft website itself.
+	https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
+
