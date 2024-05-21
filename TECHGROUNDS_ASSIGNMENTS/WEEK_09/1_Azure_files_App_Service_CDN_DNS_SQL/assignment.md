@@ -1,4 +1,4 @@
-# [1/ Azure files, App Service, CDN, DNS, SQL]
+# [1/ Azure files, App Service, CDN, DNS, SQL,Cosmos DB]
 
 From this moment on, you'll receive fewer concrete assignments. We're relying more on your independent learning skills. Don't worry, you're not alone. You have each other, and the established structure remains in place where you can still ask everyone questions endlessly.
 
@@ -17,6 +17,8 @@ A handy list of tasks you should be able to perform practically:
 - Where can I find this service in the console?
 - How do I turn on this service?
 - How can I link this service to other resources?
+
+# App Service
 
 ## Key-terms
 
@@ -45,6 +47,23 @@ A handy list of tasks you should be able to perform practically:
    - **What is it?**: Azure DNS is a hosting service for Domain Name System (DNS) domains that provides name resolution using Microsoft Azure infrastructure.
    - **Practical Experience**: With Azure DNS, you can manage DNS records for your domain names hosted in Azure. This includes creating, updating, and deleting DNS records such as A, CNAME, MX, and TXT records. Azure DNS provides high availability and low-latency DNS resolution for your applications and services running in Azure.
 
+6. **Cosmos DB**:
+- **What is it?**: Cosmos DB is a globally distributed, multi-model database service provided by Microsoft Azure. It's designed to offer high availability, low latency, and scalability across different geographical regions. Cosmos DB supports multiple data models, including document, key-value, graph, and column-family, making it versatile for various types of applications.
+  
+  - **Practical Experience**: Practical experience with Cosmos DB typically involves tasks such as:
+    1. **Data Modeling**: Designing the database schema to suit the application's requirements, choosing the appropriate data model (e.g., document, graph) based on the data structure and access patterns.
+2. **Development**: Implementing code to interact with Cosmos DB, including CRUD (Create, Read, Update, Delete) operations, querying data using SQL-like syntax (in the case of document model), and handling consistency levels.
+
+3. **Deployment**: Configuring and deploying Cosmos DB instances within Azure, setting up replication across regions for global distribution, and optimizing performance by choosing appropriate throughput and partitioning strategies.
+
+4. **Performance Tuning**: Monitoring and optimizing database performance, including indexing strategies, partitioning schemes, and query optimization.
+
+5. **Integration**: Integrating Cosmos DB with other Azure services and tools, such as Azure Functions, Azure Logic Apps, Azure Data Factory, and Azure Synapse Analytics, to build end-to-end solutions.
+
+6. **Security and Compliance**: Implementing security measures to protect data stored in Cosmos DB, including authentication, authorization, encryption, and compliance with regulatory standards such as GDPR or HIPAA.
+
+Practical experience with Cosmos DB would involve working on these aspects either through development, deployment, or maintenance tasks within a project or application that utilizes Azure Cosmos DB as its database backend.
+
 ## Assignment
 
 Task:
@@ -53,6 +72,7 @@ Gain practical experience with:
 - Azure Files
 - SQL Databases in Azure
 - Azure App Service
+- Cosmos DB
 
 Gain theoretical knowledge of:
 
@@ -62,6 +82,10 @@ Gain theoretical knowledge of:
 ### Used sources
 
 - CHAT_GPT
+- https://www.youtube.com/watch?v=hBY2YcaIOQM
+- https://www.youtube.com/watch?v=D5xU7_98jWc
+- https://learn.microsoft.com/en-us/azure/cosmos-db/how-pricing-works
+- https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal
 
 ### Encountered problems
 
@@ -152,6 +176,28 @@ Gain practical experience with:
   11. **Explore Reserved Instances**: Consider purchasing reserved instances for Azure App Service plans to benefit from discounted pricing compared to pay-as-you-go rates. Reserved instances offer significant cost savings for long-term commitments, especially for production workloads with predictable usage patterns.
   
   12. **Stay Informed**: Stay informed about cost-saving features, best practices, and updates related to Azure App Service through official documentation, blogs, forums, and community resources. Continuously evaluate and adjust your deployment strategies to optimize costs while gaining practical experience with Azure App Service.
+
+- Cosmos DB
+  Gaining practical experience with Azure Cosmos DB involves a combination of learning resources, hands-on practice, and real-world projects. Here's a step-by-step guide to help you get started:
+1. **Learn the Basics**: Begin by understanding the fundamentals of Azure Cosmos DB. Microsoft's documentation provides comprehensive resources, including tutorials, quickstarts, and conceptual overviews. Focus on topics such as data modeling, partitioning, consistency levels, and global distribution.
+
+2. **Azure Free Tier**: Sign up for an Azure account if you don't already have one. Azure offers a free tier with a limited amount of Cosmos DB usage, allowing you to explore and experiment with the service without incurring costs.
+
+3. **Hands-on Labs**: Take advantage of hands-on labs and interactive tutorials provided by Microsoft Learn. These guided exercises walk you through various aspects of Cosmos DB, from creating databases and collections to querying data and optimizing performance.
+
+4. **Sample Applications**: Explore sample applications and code samples available in the Azure Cosmos DB GitHub repository. These examples cover different programming languages and scenarios, giving you practical insights into how Cosmos DB can be used in real-world projects.
+
+5. **Online Courses**: Enroll in online courses or training programs dedicated to Azure Cosmos DB. Platforms like Pluralsight, Udemy, and Coursera offer courses specifically focused on Cosmos DB, ranging from beginner to advanced levels.
+
+6. **Documentation and Blogs**: Continuously refer to the official Azure Cosmos DB documentation for in-depth information and best practices. Additionally, follow blogs and articles written by Azure experts and community members to stay updated on new features, tips, and tricks.
+
+7. **Build a Project**: Start a personal or small-scale project that utilizes Cosmos DB as the database backend. This could be a web application, mobile app, or IoT solution. Implement various features such as data storage, retrieval, and real-time updates to gain practical experience.
+
+8. **Collaborate and Network**: Join online forums, discussion groups, and communities focused on Azure and Cosmos DB. Participate in discussions, ask questions, and share your experiences with others. Collaborating with peers and learning from their experiences can accelerate your learning process.
+
+9. **Certification**: Consider pursuing Azure certifications, such as the Azure Developer Associate or Azure Database Administrator Associate, which cover Cosmos DB among other Azure services. Certification exams validate your skills and knowledge, enhancing your credibility in the job market.
+
+By following these steps and actively engaging with the Azure Cosmos DB ecosystem, you can gain practical experience and become proficient in leveraging this powerful database service for various applications and projects.
 
 Gain theoretical knowledge of:
 
