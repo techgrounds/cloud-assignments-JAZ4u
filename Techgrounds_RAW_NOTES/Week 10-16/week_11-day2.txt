@@ -1,0 +1,64 @@
+ochtend notitites met Casper
+dinsdag 21-5-2024
+week 11 (dag 2)
+
+- 	Shay and Sam waren absent
+
+Vanmiddag :
+- 	vanmiddag komt ,Ulviye hier.
+- 	vanmiddag gaat Elmarie sprint review (over MS Entra ID) doen , volgende keer doet Jaz de laatste sprint presentatie
+
+AZ900 Examen :
+-	Casper heeft examen vouchers voor ons , hij zend die naar ons toe
+-	bij het examen staat uitleg over hoe je examen boekt?
+- 	zorg dat je je examen op tijd plant , binnen de opleiding termijn . Let op , soms zijn er geen examen plekken
+- 	wil je thuis of in examencentrum je examen doen ? Kies welke jij wil. In het examen centrum is het wel een managed service.Casper raad het examen centrum aan.
+- 	De uiterlijke datum om examen , in te plannen is de woensdag na graduation , liever doe je het eerder .
+- 	1 BELANGRIJKE REGEL: wanneer je je examen hebt geboekt , dan mag je het niet verplaatsen TENZIJ je het met Casper bespreekt!
+- 	Je examen veranderen moet minimaal 48 (!) uur van tevoren , en in overleg met Casper.
+- 	Casper geeft de studenten  toegang tot het oefen platform (Wizlabs). Je krijgt een emailtje hierover ( dat je account is aangemaakt bij Wizlabs) .
+- 	Gemiddeld bleek ongeveer 2,5 week examen studie tijd voldoende, Casper zegt dat het niet  cht een heel moeilijk examen iser. Het proefexamen is misschien al moeilijker. 
+
+Regarding studymaterial:
+- there is a youtube channel ( John Savill's Technical Training ) @NTFAQGuy , he has a lot of videos which explain about AZ900. 
+	https://www.youtube.com/watch?v=tQp1YkB2Tgs&list=PLlVtbbG169nH_CJl4wwKBfS1V8nMYr7xL&ab_channel=JohnSavill%27sTechnicalTraining
+
+- 	Elmarie had a handy link which she recommended the students to check out, it is about what you need to know for the AZ900 exam.
+	https://learn.microsoft.com/nl-nl/training/courses/az-900t00
+
+- Practise exams: there is a practise AZ900 exam on the microsoft website itself.
+	https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
+
+21-5-2024 
+middag notities met Casper en Ulviye:
+-	(intervisie), Q&A inloop . Inloop voor mensen die solliciteren , als je hulp nodig hebt. Kom wel zelf met iets , zodat er gericht geholpen kan worden. Inloop spreekuur is ONLINE , er is een meeting waar we jouw insteek nodig hebben en jouw feedback nodig hebben. daarnaast blijft Ulviye zoeken anar werkplekken. Ulviye gaat met Ruben zitten om te kijken welke werkgevers benadred kunnen worden ( donderdag). Ze willen graag een ingang creeeren om ons voortestellen. 
+-	IT traineeship , kan ook . voorheen wilden ze gelijk naar werk toe begelieden . Maar IT traineeship zou ook kunnen.
+-	Intervisie weeklijks: die wordt ingezet vanaf begin juni. Daar gaat Ulviye nog details over geven nadat ze met Ruben heeft gesproken.
+-	CRM en slaesforce eindigen al eerder dan cloud engineering, vandaar dat het voreg al wordt aangeboden voor ons
+-	wat als je je az900 examen niet haalt na 2 keer? Dan wordt het voor eigen rekening. 
+-	Sam heeft baan aangeboden gehad zei hij , hij heeft zijn AZ900 certificering nodig. Hij vroeg of hij het zelf al kon regelen. Ulviye moedigde hem aan om daar mee door te gaan. Ze zei wel " je bent niet binnen totdat je zwart op wit getekend hebt" .
+-	TIP: maak gebruik van Ulviyes expertise (via slack) als je met een sollicitatie bezig bent. Sam kan hier dus ook gebruik van maken.
+-	in de bookmarks zal casper ulviyes contact mogelijk maken. 
+
+Elmarie sprint presentatie (MS Entra ID) :
+	https://1drv.ms/p/s!AlBen658OmQ6hKJvBLwOtJDcB9eErQ?e=6PY01q
+-	vragen- hoe zal entra id eruitzien in de organisatie? Voor endusers is dat te customizen. We hebben eht misschien vaker gezien dan we denken. HEt is seemsless geintegreerd normaal gesproken.
+-  	wat is het voordeel van MS entra ID: tegenwoordig heb je het nodig voor bijna alle MS producten. Het is simpel , veilig, levert statistieken en is veelal geintegreerd met anders.  
+-	waarom zou je een account disablen? in Azure Entra ID? Stel je bent een bedrijf en je neemt meerdere mensen aan , dan kun je accoutn al aanmaken en dan enablen als de werknemer daadwerkelijk aan het werk gaan.
+-	
+-	zelffeedback : elmarie was heel tevreden , met de feedback
+-	casper feedback: licensing opties van Entra ID , is belangrijk voor de AZ900  examen. Casper was blij dat dat erin was. Kwa stijl van presenteren vond Casper dat Elmarie rustig en goed te volgen was. De laser pointer was heel handig gebruikt tijdens de presentatie. Kwa slides : ove rlicensing was de volgorde niet helemaal logisch. De tijd was goed gemanaged en de praktijk demo was goed gedaan .  ook vond casper het goed dat Elmarie aangaf dat ze sommige dingen niet diep kende maar alleen " even aanhaalde" . Dat was goed zodat er geen verzinzels of onjuiste informatiue verspreid werd.
+-	groep feedback : goeie presentatie, leek of je het goed wist en de theorie goed kende, mooie sheets.
+
+-	Als er vragen zijn met het inboeken vane en examen , dan kan casper er voor te benaderen zijn 
+-	Elmarie heeft zich al ingeschreven voor examen
+-	nog niemand had al rondgekeken op WIzlabs.
+-	onthoud dat Casper op vrijdag niet werkt!
+-	morgen krijgt Jaz de sprint presenatie opdracht (als laatste) mom zijn OEFENEXAMEN te reviewen. Zijn demo is hoe hij uit zijn fouten analyseert en hoe hij dan bijgaat leren.
+-	Casper raad aan om de presentaties van Sprint te delen , als leer stof voor het examen.
+
+-	the exam center is in Diemen
+-	How will next week go ? WE HAVE TO ASK Casper
+-	
+
+

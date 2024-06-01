@@ -20,31 +20,19 @@ A handy list of tasks you should be able to perform practically:
 
 # App Service
 
-
-
 ## Key-terms
-
-
 
 1. **Azure App Service**:
    
    - **What is it?**: Azure App Service is a fully managed platform for building, deploying, and scaling web applications and APIs.
    - **Practical Experience**: You can deploy web applications written in various programming languages such as .NET, Java, Node.js, Python, and PHP to Azure App Service. It offers features like automatic scaling, continuous deployment, and integration with Azure services for building modern cloud applications.
-   
-   
 
 ## Assignment
 
 Task:
 Gain practical experience with:
 
-
-
 - Azure App Service
-  
-  
-
-
 
 ### Used sources
 
@@ -86,6 +74,3 @@ Gain practical experience with:
   11. **Explore Reserved Instances**: Consider purchasing reserved instances for Azure App Service plans to benefit from discounted pricing compared to pay-as-you-go rates. Reserved instances offer significant cost savings for long-term commitments, especially for production workloads with predictable usage patterns.
   
   12. **Stay Informed**: Stay informed about cost-saving features, best practices, and updates related to Azure App Service through official documentation, blogs, forums, and community resources. Continuously evaluate and adjust your deployment strategies to optimize costs while gaining practical experience with Azure App Service.
-      
-  
-  

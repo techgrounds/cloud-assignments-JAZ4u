@@ -20,25 +20,17 @@ A handy list of tasks you should be able to perform practically:
 
 ## Key-terms
 
-
-
 1. **SQL Databases in Azure**:
    
    - **What is it?**: Azure SQL Database is a fully managed relational database service provided by Microsoft in the Azure cloud.
    - **Practical Experience**: With Azure SQL Database, you can create and manage relational databases without the need to manage underlying infrastructure. You can provision databases, manage security, and scale resources as needed to handle your application workload.
-
-
 
 ## Assignment
 
 Task:
 Gain practical experience with:
 
-
-
 - SQL Databases in Azure
-  
-  
 
 Gain theoretical knowledge of:
 
@@ -58,8 +50,6 @@ Gain theoretical knowledge of:
 
 Task:
 Gain practical experience with:
-
-
 
 - SQL Databases in Azure
   To gain cost-efficient practical experience with SQL Databases in Azure, follow these steps:

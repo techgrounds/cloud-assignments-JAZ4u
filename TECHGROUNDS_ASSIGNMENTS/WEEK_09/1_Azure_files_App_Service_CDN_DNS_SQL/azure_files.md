@@ -20,8 +20,6 @@ A handy list of tasks you should be able to perform practically:
 
 # Azure files
 
-
-
 ## Key-terms
 
 1. **Azure Files**:
@@ -37,8 +35,6 @@ Task:
 Gain practical experience with:
 
 - Azure Files
-  
-  
 
 ### Used sources
 
@@ -80,6 +76,3 @@ Gain practical experience with:
   11. **Stay Informed**: Stay informed about new features, best practices, and cost-saving strategies related to Azure Files by regularly checking official documentation, blogs, forums, and community resources. Continuously evaluate and adjust your usage patterns to optimize costs while gaining practical experience with Azure Files.
   
   By following these steps and actively managing your Azure Files resources, you can gain cost-efficient practical experience while effectively leveraging the capabilities of Azure Files for file storage and sharing in Azure.
-
-- 
-  

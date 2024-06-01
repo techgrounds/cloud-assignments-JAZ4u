@@ -1,0 +1,43 @@
+27&28 -5-2024
+met casper
+
+Examen prep:
+-	maandag , eerste examen voorbereiding doen ( tnezij je nog wat achterstallig huiswek hebt)
+-	we gaan oefenexamens doen
+-	boek je examen vandaag nog, anders zijn de plekken weg. vol is vol. Elmarie heeft het al gedaan, vraag haar als je vragen hebt.Geef je datum door aan Casper.
+-	laat Casper weten wanneer je je examen doet. 
+-	als je je examen hebt geboekt, verplaatst hem alleen na overleg met Casper. Dit moet minimaal 48 uur vantevoren.
+-	Veel mensen stellen uit omdat ze bang zijn dat ze er niet klaar voor zijn , van uitstel kan afstel komen.
+-	Haal je het niet in 1 keer , doe dan een herkansing.
+-	vanmiddag krijgen we een verhaal over hoe om te gaan met examen stress, bij het contact moment.
+-	uiterlijk kunnen we de laatste dag van de opleiding het examen doen , dan moet je het examen gedaan hebben.dat is 26 juni 2024.
+-	de 24e hebben we al graduation , kun je het eerder doen , dan is dat heel relaxed. Dan heb je 2 extra vrije dagen
+-	casper raad aan tussen 21 en 23 juni
+-	hoe ziet graduation eruit: we gaan op kantoor samenkomen. Casper spreekt ons toe, dan kan een groeps genoot wat zeggen. Dan wordt de certificaten uitgedeeld. Er wordt een foto gemaakt en dan gaan we wat eten( broodje met cola en koffie) . Je mag iemand meenemen, laat Casper dit weten. Dan kan er rekening gehouden worden met het aantal broodjes.
+-	het examen is alleen multiple choice , het gaat alleen over theorie.Het is alleeen basis.
+-	security en compliance and licensing is de belangrijkste gebied in Azure zegt casper. Als je dat nog niet goed beheerst , leer dit.
+-	de onderwerpen die deze stuidie heeft behandeld komt in de richting van AZ104
+
+Casper ChatGPT ervaring:
+-	casper bouwt een (game) mod in chatgpt. Hij doet dat in Python.  Casper heeft zijn vriendin( die niet kan programmeeren) een opdracht gegeven om een website te bouwen. Met chatgpt lukte het haar in 1 uur. Casper had zelf een code geschreven en kwwam erachter dat het sneller was om een code aanpassen en structureren , dan het door chatgpt te laten maken.
+Zijn Conclusie: chatgpt is geen vervanging van programmeer ervaring , wel goed voor simpele code maken.Chat gpt heeft moeite met logisch design van je code. Vooral als je meerdere compleze systemen in elkaar hebt , dan begrijpt hij dat minder goed. Hij heeft minder context en daarom is zijn code niet altijd optimaal , en kan troubleshooten ook lastig worden .
+-	MVP , is minimal viable product: basis code zonder toeters en bellen wat de basis doet.
+-	Casper gaat zijn werk op Github zetten zodat anderen het kunnen zien.
+-	Sprint presentatie over " examen prep " wordt vanmiddag door Jaz gedaan.
+
+-	Welcome back shay , hij was een dagje.
+
+
+Middag notes met Casper:
+28-05-2024
+
+-	maak je portfolio in orde , laat zien dat je dingen kan uitzoeken en dat je dingen serieus wil leren en weten.
+-	Azure is niet 1 API waar je inzit. Het is niet maar 1 server of applicatie. Je hebt meerdere service providers en Azure resource providers. 
+Als je iets gaat doen , heb je standaard geen permissie om iets te doen. Dat is tegen het hacken van jouw CLI. Dat is een vorm van security.
+-	via de console hoef je niet een azure resource provider te selecteren.
+-	Op MS learn kun je er informatie over vinden(resource providers)
+-	In de CLI moet je dit (azure resource provider ) handmatig aanzetten
+-	over het stress bestendige verhaal: we stellen het uit , Elmarie (heeft helaas migraine) , Sam afwezig.
+-	Jaz heeft zich ingeschreven op: https://events.microsoft.com/en-us/allevents?clientTimeZone=1&language=Nederlands
+-	Morgen gaan we softskills doen.
+
