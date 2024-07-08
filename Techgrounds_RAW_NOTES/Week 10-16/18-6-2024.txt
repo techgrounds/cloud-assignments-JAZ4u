@@ -1,0 +1,36 @@
+18-6-2024
+ochtend notes met casper en ulviye
+
+ulviye:
+- Ulviye is bezig met werkgevers voor werk voor ons: wat men wil gaan doen is aan werklgevers een presentatie houden over hun organisatie en over mogelijke facatures. Dit is werkgevers Q& A. Dit is informatief voor jou en voor de werkgever. ALs je iets interessants ziet , kun je daar zelf op reageren. Als je hebt egreageerd , dan kan Techgrounds helpen met deze solliciatatie.
+- Over de webconference: wie wil er naar toe? Er is vandaag nog een kaartje te verkrijgen. Alleen vandaag kan Ulviye je een kaartje geven.
+- Aanstaande maandag is diploma uitreiking , heeft iedereen zijn voorkeur voor broodje gegeven.
+
+casper :
+- casper geeft ons toegang tot -employabillity- op  learnworlds. Casper voegt ons deze ochtend toe. Het is niet zeker of we daar een email van krijgen , kijk zelf eeven in je learnworlds.
+- Voor Caspers uitleg onderwerp zouden we graag meer over licensing willen weten , het hele concept liocensing. Free account , premium , standard , basic, professional direct. 
+- 
+
+
+18-6-2024
+middag motes met Casper
+
+- als je wil , connect jezelf met Casper op LinkedIN
+- De mail voor de nieuwe omgeving in EMPLOYABILLITY is gezonden
+
+** SUBSCRIPTIONS/ LICENSES **
+azure.microsoft.com/en-us/support/plans
+- wij zitten zelf als Techgrounds student op PAY AS YOU GO SERVICE.Je kijgt 200 dollar aan credits , met 30 dagen free trial. In free trial periode zal MS niets aan kosten berekenen.
+- Als je een Enterprise Agreement wilt, dan moet je de customer support bellen.Dit gaat via direct contact met (sales) management.Dat gaat vaak om grotere bedragen.
+- CSP ( cloud soultion provider ) bedopeld voor RESELLING. Dit is voor MSP (Microsoft Service Provider), dan kun je met deze license de Azure infrastructuur doorverkopen.
+- als je een account maakt , dan krijg je BASIC support .
+- 24/7 support heb je altijd , maar het is wel self help support
+- bekijk en bestudeer de SLA's 
+
+- ENTRA ID plans en pricing , ken de informatie van deze website:
+microsoft.com/en-us/security/business/micorsoft-entra-pricing
+- het einge wat moelijk is aan deze licenses is dat het VEEL is, zorg dat je het weet 
+- Links die Casper gebruikte : 
+https://www.smikar.com/azure-subscriptions/
+https://azure.microsoft.com/en-us/support/plans
+https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing

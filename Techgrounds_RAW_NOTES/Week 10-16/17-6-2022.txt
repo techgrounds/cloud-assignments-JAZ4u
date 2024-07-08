@@ -1,0 +1,51 @@
+Ochtend notities met Casper
+17-6-2024
+- vanmiddag wil Casper nog een keer een onderwerp naar keuze presenteren met zijn tekentablet.
+- Shay en Sam waren afwezig, navragen wat zij willen
+- Casper heeft de modules van het employabillty traject af , en hij geeft ons toegang tot het traject als het goedgekeurd is.
+- als er vragen over zijn , dan is Casper daarvoor te berieken.
+- Geef Casper feedback als je er over hebt.
+- Elmarie prepared herself with , and remembered questions about : zero trust/ defender cloud / purview / azure advisor / azure arc(private connection to azure vpn?) / ARM template / azure service health
+- Elmarie reminded us to look at https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900 for the AZ900 topics (ms learn)
+
+
+Middag notes met Casper:
+17-6-2024
+ARM templates:
+- waar zijn ze voor en hoe worden ze gebruikt.
+- what is azure resource manager" , zie op MS Learn.
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+- Azure resource manager is een applicatie die ervoor zorgt dat Azure werkt. het is een cluster van data servers, die authenticatie doen en allerlei services op de achtergrond Azure besturen. 
+- Bijv voor virtual machines is er een aparte cluster die daar voor kan zorgen. 
+- als je een VM maakt in portal , dan wort er een API call naar ARM gestuurd die checked en de juiste resource aanspreekt.(zie afbeelding op ms learn) zo heb je bijvoorbeeld data store/web app/ VM/ service management .
+- Als je niet geauthenticeerd ben om de specifieke resource te gebruiken , dna krijg je een authenticatie error.
+
+- als je met powesheel of CLi , azure bestuurt, dan geebeurd er precies hetzelfde . Dat is eht mooie van de ARM, er wordt naar hier een API call gedaan, en de ARM lost het verder op. 
+- ARM TEMPLATES ( IaC ; infrastructure as code)
+
+- IN azure gaat het met ARM templates, dan worden updates op je productie omgeving uitgevoerd door Azure. 
+- je hebt naast arm templates ook Terraform, dit is Cloud independent. je kan er ook aws en google en azure doen.
+- teraform vertaald eht automatisch naar een arm template, zodat er een API call gedaan worden  voor eeen Resource provider.
+- Iac , maakt een code bestand van je omgeving.Meestal is het per applicatie IaC, niet de hele omgeving . 
+- ARM template codering is in JSON, MS heeft BICEP . Die is eenvoudiger en MS raad die aan.
+- op github is er een MS site met voorbeelden hiervan
+https://github.com/Azure/azure-quickstart-templates/tree/master
+- het is letterlijk beschrijven wat je wil hebben dat Azure Resource manager voor je gaat doen
+- let op dat de zaken "registered" zijn , het is aangeven dat je werkelijk emt de reource hebt gewerkt en mag werken.Dit is ook security, want anders kan er veel ongewenste calls naar ARM gestuurd worden. Als je zo een error tegenkomst , dan moet je je ervoor regfisteren.
+- casper raad diffchecker.com aan om veschillen in 2 codes te tonen.
+- Bicep is makkelijker dan JSON , maar Terraform is het meest populair ( het is simpeler en het werkt in alle cloudomgevingen) . het is gratis ook en open source.
+- de meeste bedrijven gebruike IaC ipv in de portal dingen maken.
+- het is de manier om te werken in de cloud, vooral bij Devops teams zie je dit.
+- leer voor jezelf hoe je een BICEP of terraform template deployed, check de documentatie hoe je dat deployed.
+- let op dat je Passwords niet inde template HARD CODE, die dat afzonderlijk via environment template if azure vault.
+
+
+
+
+
+
+
+
+
+
+

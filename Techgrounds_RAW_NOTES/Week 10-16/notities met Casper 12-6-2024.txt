@@ -1,0 +1,17 @@
+Ochtend notities met Casper 12-6-2024
+
+- check uitnodiging van ulviye voor het event, Casper raad aan voor je netwerk daar langs te gaan.
+- Check de Softskill module van " Netwerken" in de drive, lees die door (voordat je naar zo een event gaat ook)
+- Als je naar zo een event gaat , stel je zelf ook een doel. Ga ook netwerken, bijvoorbeeld " 5 mensen spreken vragen of ze nog mensen hebben".
+- zelfde geld ook met sollicitaties, stel jezelf een doel: " ik ga 10 sollicitaties doen , ipv ik ga deze week solliciteren" 
+- Als je je AZ900 haalt dan kun je in 2 weken ook je AWS Certified Cloud Practitioner (kost 100 dollar)
+- Als je in WIA zit, dan ben je goed koper voor de werkgever. Dat kan een verkooppunt zijn. 
+- Meestal krijg je 2500 euro startsalaris.
+- Aws is ouder dan Azure , ze zijn wat completer en wat meer specifieke services hebben.
+- Casper vind Azure leuker , omdat AWS nu AI pushed. MS heeft betere AI. Ook al is AWS ouder , Casper vind Azure leuker. Door de matige AI in AWS.
+- Er is op conferences vaak meer passie voor AWS dan voor Azure,volgens Casper. AWS lijkt echt " van developers voor developers" , in plaats van " wij zijn het grote corporate MS" .
+- AWS is ontstaan omdat ze voor de Amazon webwinkel in DECEMBER grote pieken hadden. Dus ze zijn over-capaciteit in de andere maanden gaan verhuren. Business idee van developers. 
+- MS zag dat AWS geldverdiende en is toen ook zoiets gelijks gaan maken.
+- Voor developers zijn er AWS events.
+- Casper gaat vanmiddag nog een onderwerp naar keuze uitleggen: Entra ID . Tenant.     
+

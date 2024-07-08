@@ -1,0 +1,17 @@
+ochtend notes met Casper 10-6-2024:
+-	Casper spreekt nog met Ulviye, hij wilde nog graag weten hoeveel mensen hij naar graduation wil meenemen.
+-	Casper wil dat we Sam vragen hoeveel mensen hij meeneemt en dat aan Casper doorgeven
+-	Verder een normale examen prep studiedag
+-	
+
+Middag notes met Casper 10-6-2024
+-	jaz moet zijn examendatum wijzigne en doorgeven aan Casper
+-	meeste startup bedrijven zijn SAAS, software as a service.
+-	Netflix is bijvoorbeeld een SAAS ( bij AWS) 
+-	FaaS lijkt veel op Paas ( en op azure functions ook )
+-	Pas op , zet een LIMIET op concurrent functions , want je kan een hele grote rekening krijgen.
+-	casper vroeg ons allen alles uittezetten in AZURE, hij had de maand rekening (63 euro)
+-	Carriereswitch: lees het verhaal van Shipa ( gat in haar CV), werkt nu toch bij Rabobank. Ze had werkplek geregeld voro haarzelf bij Cignify.Ze deed daar stage(trainee) . Als ik werk vind , dan wil ik wel weg. Dat was in 2021, ze heeft toen daarna een Rabobank baan geregeld.
+https://techgrounds.nl/carriereswitch/
+-	
+
